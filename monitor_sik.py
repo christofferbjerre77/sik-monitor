@@ -232,5 +232,32 @@ def run(local_csv_path: str | None = None) -> list:
 if __name__ == "__main__":
     # Kør med en lokal fil som argument for at teste:
     #   python3 monitor_sik.py /sti/til/fil.csv
-    local_path = sys.argv[1] if len(sys.argv) > 1 else None
-    run(local_csv_path=local_path)
+    #
+    # Kør med --test-webhook for at sende en tydeligt mærket TEST-besked til
+    # din webhook, uden at røre ved den rigtige tilstand/diff-logik. Brug
+    # dette til at bekræfte at Discord/Slack-forbindelsen rent faktisk virker.
+    if len(sys.argv) > 1 and sys.argv[1] == "--test-webhook":
+        log.info("Sender test-notifikation for at bekræfte webhook-forbindelsen...")
+        test_row = {
+            "navn": "TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation)",
+            "cvr": "00000000",
+            "forretningsomr": "Testbesked",
+            "postdst": "Testby",
+            KEY_FIELD: "TEST-00000",
+        }
+        notify([test_row])
+        if not WEBHOOK_URL:
+            log.error(
+                "WEBHOOK_URL er ikke sat (SIK_WEBHOOK_URL secret mangler eller "
+                "er tom) - testbeskeden blev IKKE sendt nogen steder, kun "
+                "logget her."
+            )
+        else:
+            log.info(
+                "Testbesked forsøgt sendt. Tjek din Discord-kanal nu - "
+                "kommer den ikke frem inden for få sekunder, er der noget "
+                "galt med webhook-URL'en eller Discord-opsætningen."
+            )
+    else:
+        local_path = sys.argv[1] if len(sys.argv) > 1 else None
+        run(local_csv_path=local_path)
