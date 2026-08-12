@@ -40,7 +40,7 @@ import requests
 
 # Download-URL for CSV-filen. Denne matcher linket "Download register som
 # CSV-fil" på https://www.sik.dk/registre/autorisationsregister
-CSV_URL = "https://www.sik.dk/registre/autorisationsregister/export.csv"
+CSV_URL = "https://www.sik.dk/registries/export/csv/autorisationsregister"
 
 # Semikolon-separeret, UTF-8 med BOM (som i den fil du uploadede)
 CSV_DELIMITER = ";"
