@@ -2,12 +2,12 @@ name: SIK autorisationsovervågning
 
 on:
   schedule:
-# Kører kl. xx:07 og xx:37, døgnet rundt (UTC-tid).
-   # NB: vi undgår bevidst runde tal som ":00" og ":30", da enormt mange
-   # workflows på tværs af GitHub rammer præcis disse tidspunkter, hvilket
-   # kan give betydelige forsinkelser i køen. Et "skævt" minuttal som :07
-   # og :37 køres typisk langt mere præcist til tiden.
-   - cron: "7,37 * * * *"    - cron: "*/30 * * * *"
+    # Kører kl. xx:07 og xx:37, døgnet rundt (UTC-tid).
+    # NB: vi undgår bevidst runde tal som ":00" og ":30", da enormt mange
+    # workflows på tværs af GitHub rammer præcis disse tidspunkter, hvilket
+    # kan give betydelige forsinkelser i køen. Et "skævt" minuttal som :07
+    # og :37 køres typisk langt mere præcist til tiden.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       send_test_notification:
