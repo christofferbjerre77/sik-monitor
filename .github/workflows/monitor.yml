@@ -3,7 +3,7 @@ name: SIK autorisationsovervågning
 on:
   schedule:
     # Kører hvert 15. minut, døgnet rundt (UTC-tid, GitHub styrer selv dette)
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       send_test_notification:
