@@ -132858,5 +132858,18 @@
     "autnr": "EFUL-40207",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40208": {
+    "navn": "LEMVIG FORSYNINGSSERVICE A/S",
+    "adresse1": "Havnen 8",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7620",
+    "postdst": "Lemvig",
+    "cvr": "32832210",
+    "autnr": "EFUL-40208",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }

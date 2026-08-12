@@ -6,3 +6,9 @@
 2026-08-12 10:49:00,753 INFO 1 NYE autorisation(er) fundet:
   - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
 2026-08-12 10:49:01,085 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
+2026-08-12 12:39:35,178 INFO Henter register...
+2026-08-12 12:39:35,915 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-12 12:39:37,658 INFO Fandt 10221 rækker i registret.
+2026-08-12 12:39:37,691 INFO Fandt 1 NYE autorisation(er)!
+2026-08-12 12:39:37,692 INFO 1 NYE autorisation(er) fundet:
+  - LEMVIG FORSYNINGSSERVICE A/S (CVR 32832210) | Elinstallatørvirksomhed | Lemvig | autnr EFUL-40208
