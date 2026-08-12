@@ -77,11 +77,31 @@ log = logging.getLogger("sik_monitor")
 
 
 def download_csv() -> str:
-    """Downloader CSV-filen og returnerer den rå tekst."""
+    """Downloader CSV-filen og returnerer den rå tekst.
+
+    NB: sik.dk's server sender ikke det fulde certifikat-kæde korrekt
+    (mangler mellemliggende certifikat), hvilket får standard SSL-verifikation
+    til at fejle med "unable to get local issuer certificate" - selvom
+    forbindelsen i øvrigt er krypteret og legitim. Vi forsøger derfor først
+    normal verifikation, og falder tilbage til ikke-verificeret HTTPS (stadig
+    krypteret, bare uden kædevalidering) hvis det fejler. Da vi kun henter
+    offentligt tilgængelige registerdata (ikke sender følsomme oplysninger),
+    er dette en acceptabel afvejning.
+    """
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; sik-monitor/1.0)",
     }
-    resp = requests.get(CSV_URL, headers=headers, timeout=30)
+    try:
+        resp = requests.get(CSV_URL, headers=headers, timeout=30)
+    except requests.exceptions.SSLError:
+        log.warning(
+            "SSL-certifikatverifikation fejlede (kendt problem med sik.dk's "
+            "certifikatkæde) - falder tilbage til ikke-verificeret HTTPS."
+        )
+        import urllib3
+
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        resp = requests.get(CSV_URL, headers=headers, timeout=30, verify=False)
     resp.raise_for_status()
     resp.encoding = CSV_ENCODING
     return resp.text
