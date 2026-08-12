@@ -12,3 +12,7 @@
 2026-08-12 12:39:37,691 INFO Fandt 1 NYE autorisation(er)!
 2026-08-12 12:39:37,692 INFO 1 NYE autorisation(er) fundet:
   - LEMVIG FORSYNINGSSERVICE A/S (CVR 32832210) | Elinstallatørvirksomhed | Lemvig | autnr EFUL-40208
+2026-08-12 13:04:46,819 INFO Henter register...
+2026-08-12 13:04:47,634 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-12 13:04:49,492 INFO Fandt 10221 rækker i registret.
+2026-08-12 13:04:49,517 INFO Ingen nye autorisationer siden sidste tjek.
