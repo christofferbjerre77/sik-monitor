@@ -1,0 +1,38 @@
+name: SIK autorisationsovervågning
+
+on:
+  schedule:
+    # Kører hvert 15. minut, døgnet rundt (UTC-tid, GitHub styrer selv dette)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}  # gør det muligt at trykke "Run workflow" manuelt til test
+
+permissions:
+  contents: write  # nødvendigt for at scriptet kan gemme sin tilstand tilbage i repo'et
+
+jobs:
+  check-for-new-authorizations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent repo
+        uses: actions/checkout@v4
+
+      - name: Opsæt Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installér afhængigheder
+        run: pip install -r requirements.txt
+
+      - name: Kør overvågningsscript
+        env:
+          SIK_WEBHOOK_URL: ${{ secrets.SIK_WEBHOOK_URL }}
+        run: python monitor_sik.py
+
+      - name: Gem tilstand (commit ændringer)
+        run: |
+          git config user.name "sik-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/
+          git diff --quiet --cached || git commit -m "Opdater tilstand [skip ci]"
+          git push
