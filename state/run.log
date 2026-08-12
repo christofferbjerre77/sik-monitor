@@ -2,3 +2,7 @@
 2026-08-12 10:28:43,856 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-12 10:28:45,767 INFO Fandt 10220 rækker i registret.
 2026-08-12 10:28:45,767 INFO Ingen tidligere tilstand fundet - gemmer nuværende register som baseline. Næste kørsel vil rapportere nye rækker siden nu.
+2026-08-12 10:49:00,753 INFO Sender test-notifikation for at bekræfte webhook-forbindelsen...
+2026-08-12 10:49:00,753 INFO 1 NYE autorisation(er) fundet:
+  - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
+2026-08-12 10:49:01,085 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
