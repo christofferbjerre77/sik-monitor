@@ -4,7 +4,12 @@ on:
   schedule:
     # Kører hvert 15. minut, døgnet rundt (UTC-tid, GitHub styrer selv dette)
     - cron: "*/15 * * * *"
-  workflow_dispatch: {}  # gør det muligt at trykke "Run workflow" manuelt til test
+  workflow_dispatch:
+    inputs:
+      send_test_notification:
+        description: "Send en TEST-besked til Discord/Slack i stedet for at tjekke registret (bruges til at bekræfte at webhooken virker)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # nødvendigt for at scriptet kan gemme sin tilstand tilbage i repo'et
@@ -27,7 +32,12 @@ jobs:
       - name: Kør overvågningsscript
         env:
           SIK_WEBHOOK_URL: ${{ secrets.SIK_WEBHOOK_URL }}
-        run: python monitor_sik.py
+        run: |
+          if [ "${{ inputs.send_test_notification }}" = "true" ]; then
+            python monitor_sik.py --test-webhook
+          else
+            python monitor_sik.py
+          fi
 
       - name: Gem tilstand (commit ændringer)
         run: |
