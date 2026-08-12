@@ -1,0 +1,4 @@
+2026-08-12 10:28:43,411 INFO Henter register...
+2026-08-12 10:28:43,856 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-12 10:28:45,767 INFO Fandt 10220 rækker i registret.
+2026-08-12 10:28:45,767 INFO Ingen tidligere tilstand fundet - gemmer nuværende register som baseline. Næste kørsel vil rapportere nye rækker siden nu.
