@@ -103206,6 +103206,19 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
+  "KFUL-16519": {
+    "navn": "SPIDS Kloak & Anlæg ApS",
+    "adresse1": "Hvidovrevej 221A, 1. 1",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2650",
+    "postdst": "Hvidovre",
+    "cvr": "44100347",
+    "autnr": "KFUL-16519",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
   "VDBO-89986": {
     "navn": "LARS BREIL BLIKKENSLAGER SERVICE ApS",
     "adresse1": "Kirkevej 11, 1.",
@@ -105728,7 +105741,7 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-16682#ASBE-40063": {
+  "KFUL-16682": {
     "navn": "Hoigaard Byg og Anlæg ApS",
     "adresse1": "Floutrupvej 24",
     "adresse2": "",
@@ -105737,8 +105750,8 @@
     "postnr": "7870",
     "postdst": "Roslev",
     "cvr": "38553968",
-    "autnr": "KFUL-16682#ASBE-40063",
-    "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
+    "autnr": "KFUL-16682",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFUL-89681": {

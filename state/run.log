@@ -56,3 +56,11 @@
 2026-08-13 05:18:24,071 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-13 05:18:26,066 INFO Fandt 10221 rækker i registret.
 2026-08-13 05:18:26,096 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-13 09:31:22,117 INFO Henter register...
+2026-08-13 09:31:22,625 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-13 09:31:23,818 INFO Fandt 10222 rækker i registret.
+2026-08-13 09:31:23,847 INFO Fandt 2 NYE autorisation(er)!
+2026-08-13 09:31:23,848 INFO 2 NYE autorisation(er) fundet:
+  - SPIDS Kloak & Anlæg ApS (CVR 44100347) | Kloakmestervirksomhed | Hvidovre | autnr KFUL-16519
+  - Hoigaard Byg og Anlæg ApS (CVR 38553968) | Kloakmestervirksomhed | Roslev | autnr KFUL-16682
+2026-08-13 09:31:24,206 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-16682#ASBE-40063
