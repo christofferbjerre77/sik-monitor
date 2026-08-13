@@ -64,3 +64,7 @@
   - SPIDS Kloak & Anlæg ApS (CVR 44100347) | Kloakmestervirksomhed | Hvidovre | autnr KFUL-16519
   - Hoigaard Byg og Anlæg ApS (CVR 38553968) | Kloakmestervirksomhed | Roslev | autnr KFUL-16682
 2026-08-13 09:31:24,206 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-16682#ASBE-40063
+2026-08-13 09:43:06,010 INFO Henter register...
+2026-08-13 09:43:06,736 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-13 09:43:08,486 INFO Fandt 10222 rækker i registret.
+2026-08-13 09:43:08,516 INFO Ingen nye autorisationer siden sidste tjek.
