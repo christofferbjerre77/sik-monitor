@@ -78,3 +78,7 @@
 2026-08-13 13:14:14,439 INFO Fandt 1 NYE autorisation(er)!
 2026-08-13 13:14:14,439 INFO 1 NYE autorisation(er) fundet:
   - HJ Entreprise ApS (CVR 44998823) | Autoriseret til nedrivning af asbest | Bagsværd | autnr ASBE-84936
+2026-08-13 14:25:21,898 INFO Henter register...
+2026-08-13 14:25:22,394 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-13 14:25:24,292 INFO Fandt 10223 rækker i registret.
+2026-08-13 14:25:24,322 INFO Ingen nye autorisationer siden sidste tjek.
