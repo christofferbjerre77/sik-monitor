@@ -72,3 +72,9 @@
 2026-08-13 12:06:44,105 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-13 12:06:45,294 INFO Fandt 10222 rækker i registret.
 2026-08-13 12:06:45,325 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-13 13:14:12,861 INFO Henter register...
+2026-08-13 13:14:13,158 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-13 13:14:14,408 INFO Fandt 10223 rækker i registret.
+2026-08-13 13:14:14,439 INFO Fandt 1 NYE autorisation(er)!
+2026-08-13 13:14:14,439 INFO 1 NYE autorisation(er) fundet:
+  - HJ Entreprise ApS (CVR 44998823) | Autoriseret til nedrivning af asbest | Bagsværd | autnr ASBE-84936
