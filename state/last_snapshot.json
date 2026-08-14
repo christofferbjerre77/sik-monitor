@@ -132910,5 +132910,18 @@
     "autnr": "EFUL-40210",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "KFUL-40169": {
+    "navn": "The Funkis House Company",
+    "adresse1": "Løgten Østervej 76",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8541",
+    "postdst": "Skødstrup",
+    "cvr": "28616929",
+    "autnr": "KFUL-40169",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
   }
 }

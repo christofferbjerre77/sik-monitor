@@ -163,3 +163,9 @@
 2026-08-14 15:09:16,408 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-14 15:09:18,394 INFO Fandt 10224 rækker i registret.
 2026-08-14 15:09:18,425 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-14 18:09:59,639 INFO Henter register...
+2026-08-14 18:10:00,088 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-14 18:10:01,926 INFO Fandt 10225 rækker i registret.
+2026-08-14 18:10:01,955 INFO Fandt 1 NYE autorisation(er)!
+2026-08-14 18:10:01,955 INFO 1 NYE autorisation(er) fundet:
+  - The Funkis House Company (CVR 28616929) | Kloakmestervirksomhed | Skødstrup | autnr KFUL-40169
