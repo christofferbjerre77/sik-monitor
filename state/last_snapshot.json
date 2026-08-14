@@ -87879,19 +87879,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-14867": {
-    "navn": "FLEMBO ApS",
-    "adresse1": "Måløvvej 21",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3660",
-    "postdst": "Stenløse",
-    "cvr": "41018364",
-    "autnr": "KFUL-14867",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": "FLEMBO Kloak ApS,Bovak Construction ApS"
-  },
   "VFUL-14875": {
     "navn": "Solvang VVS & Entreprenørforretning ApS",
     "adresse1": "Fælledvej 64",
