@@ -169,3 +169,7 @@
 2026-08-14 18:10:01,955 INFO Fandt 1 NYE autorisation(er)!
 2026-08-14 18:10:01,955 INFO 1 NYE autorisation(er) fundet:
   - The Funkis House Company (CVR 28616929) | Kloakmestervirksomhed | Skødstrup | autnr KFUL-40169
+2026-08-14 20:04:25,539 INFO Henter register...
+2026-08-14 20:04:26,085 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-14 20:04:27,910 INFO Fandt 10225 rækker i registret.
+2026-08-14 20:04:27,939 INFO Ingen nye autorisationer siden sidste tjek.
