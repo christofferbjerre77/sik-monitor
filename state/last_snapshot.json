@@ -132897,5 +132897,18 @@
     "autnr": "EFUL-40209",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40210": {
+    "navn": "Bilskov Teknik",
+    "adresse1": "Mejlbyvej 76",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9610",
+    "postdst": "Nørager",
+    "cvr": "46584732",
+    "autnr": "EFUL-40210",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }

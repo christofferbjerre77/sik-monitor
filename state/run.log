@@ -141,3 +141,9 @@
 2026-08-14 09:31:45,548 INFO Fandt 10223 rækker i registret.
 2026-08-14 09:31:45,577 INFO Ingen nye autorisationer siden sidste tjek.
 2026-08-14 09:31:45,577 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-14867
+2026-08-14 10:48:35,996 INFO Henter register...
+2026-08-14 10:48:36,392 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-14 10:48:37,626 INFO Fandt 10224 rækker i registret.
+2026-08-14 10:48:37,656 INFO Fandt 1 NYE autorisation(er)!
+2026-08-14 10:48:37,656 INFO 1 NYE autorisation(er) fundet:
+  - Bilskov Teknik (CVR 46584732) | Elinstallatørvirksomhed | Nørager | autnr EFUL-40210
