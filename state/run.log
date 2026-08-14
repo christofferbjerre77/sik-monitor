@@ -130,3 +130,9 @@
 2026-08-14 07:08:57,348 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-14 07:08:58,668 INFO Fandt 10223 rækker i registret.
 2026-08-14 07:08:58,699 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-14 09:10:10,224 INFO Henter register...
+2026-08-14 09:10:11,001 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-14 09:10:12,657 INFO Fandt 10224 rækker i registret.
+2026-08-14 09:10:12,687 INFO Fandt 1 NYE autorisation(er)!
+2026-08-14 09:10:12,688 INFO 1 NYE autorisation(er) fundet:
+  - N.G.P TOBACCO ApS (CVR 41201908) | Elinstallatørvirksomhed | Nørager | autnr EFUL-40209

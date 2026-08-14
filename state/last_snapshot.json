@@ -132897,5 +132897,18 @@
     "autnr": "EFUL-40208",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40209": {
+    "navn": "N.G.P TOBACCO ApS",
+    "adresse1": "Industriparken 35",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9610",
+    "postdst": "Nørager",
+    "cvr": "41201908",
+    "autnr": "EFUL-40209",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
