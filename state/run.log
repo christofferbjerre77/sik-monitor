@@ -189,3 +189,8 @@
 2026-08-14 23:52:18,404 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-14 23:52:20,081 INFO Fandt 10225 rækker i registret.
 2026-08-14 23:52:20,111 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-15 03:02:39,249 INFO Henter register...
+2026-08-15 03:02:39,736 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-15 03:02:41,467 INFO Fandt 10224 rækker i registret.
+2026-08-15 03:02:41,495 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-15 03:02:41,495 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-16796
