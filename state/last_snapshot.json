@@ -132910,5 +132910,18 @@
     "autnr": "KFUL-40169",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
+  },
+  "ASBE-40416": {
+    "navn": "Byg & Montage 4200",
+    "adresse1": "Akacievej 16",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4200",
+    "postdst": "Slagelse",
+    "cvr": "44394227",
+    "autnr": "ASBE-40416",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
