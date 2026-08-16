@@ -36570,12 +36570,12 @@
   },
   "KFUL-03740": {
     "navn": "BRØNSHØJ KLOAK ApS",
-    "adresse1": "Astrupvej 52",
+    "adresse1": "Skjulhøj Allé 20",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2700",
-    "postdst": "Brønshøj",
+    "postnr": "2720",
+    "postdst": "Vanløse",
     "cvr": "29538328",
     "autnr": "KFUL-03740",
     "forretningsomr": "Kloakmestervirksomhed",
@@ -37073,19 +37073,6 @@
     "cvr": "29692025",
     "autnr": "VFUL-14422",
     "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
-  "KFUL-03744": {
-    "navn": "MURERFIRMAET KLEMMENSEN ApS",
-    "adresse1": "Merkurvej 1",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8382",
-    "postdst": "Hinnerup",
-    "cvr": "11908772",
-    "autnr": "KFUL-03744",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "VFUL-01364": {
@@ -38230,6 +38217,19 @@
     "cvr": "29663351",
     "autnr": "VFUL-01388",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-03744": {
+    "navn": "MURERFIRMAET KLEMMENSEN ApS",
+    "adresse1": "Merkurvej 1",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8382",
+    "postdst": "Hinnerup",
+    "cvr": "11908772",
+    "autnr": "KFUL-03744",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFBI-03825": {
@@ -45824,6 +45824,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "VFUL-01705": {
+    "navn": "JMH Renovering ApS",
+    "adresse1": "Ved Stranden 1",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5600",
+    "postdst": "Faaborg",
+    "cvr": "32556043",
+    "autnr": "VFUL-01705",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
   "EFUL-08328": {
     "navn": "Falk - El & Totalservice",
     "adresse1": "Sankt Knuds Vej 31, 1. tv",
@@ -47512,19 +47525,6 @@
     "cvr": "17995030",
     "autnr": "EFUL-09937",
     "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "VFUL-01705": {
-    "navn": "JMH Renovering ApS",
-    "adresse1": "Ved Stranden 1",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5600",
-    "postdst": "Faaborg",
-    "cvr": "32556043",
-    "autnr": "VFUL-01705",
-    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-08492": {
