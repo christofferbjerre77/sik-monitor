@@ -330,3 +330,7 @@
 2026-08-16 11:40:59,638 INFO Fandt 1 NYE autorisation(er)!
 2026-08-16 11:40:59,638 INFO 1 NYE autorisation(er) fundet:
   - Nordsjælland Tag & Facade ApS (CVR 45615448) | Autoriseret til nedrivning af asbest | Hillerød | autnr ASBE-40417
+2026-08-16 12:01:47,702 INFO Henter register...
+2026-08-16 12:01:48,465 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-16 12:01:50,121 INFO Fandt 10226 rækker i registret.
+2026-08-16 12:01:50,144 INFO Ingen nye autorisationer siden sidste tjek.
