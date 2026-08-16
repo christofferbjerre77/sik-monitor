@@ -324,3 +324,9 @@
 2026-08-16 10:52:31,784 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-16 10:52:33,215 INFO Fandt 10225 rækker i registret.
 2026-08-16 10:52:33,247 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-16 11:40:57,837 INFO Henter register...
+2026-08-16 11:40:58,441 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-16 11:40:59,609 INFO Fandt 10226 rækker i registret.
+2026-08-16 11:40:59,638 INFO Fandt 1 NYE autorisation(er)!
+2026-08-16 11:40:59,638 INFO 1 NYE autorisation(er) fundet:
+  - Nordsjælland Tag & Facade ApS (CVR 45615448) | Autoriseret til nedrivning af asbest | Hillerød | autnr ASBE-40417
