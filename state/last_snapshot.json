@@ -132975,5 +132975,18 @@
     "autnr": "VFUL-40124",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40125": {
+    "navn": "Olsson",
+    "adresse1": "Christiansdalsvej 94",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4900",
+    "postdst": "Nakskov",
+    "cvr": "46573749",
+    "autnr": "VFUL-40125",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
