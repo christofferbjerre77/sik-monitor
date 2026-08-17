@@ -438,3 +438,7 @@
 2026-08-17 13:56:38,939 INFO Fandt 1 NYE autorisation(er)!
 2026-08-17 13:56:38,940 INFO 1 NYE autorisation(er) fundet:
   - Palne Klima & VVS ApS (CVR 45909956) | Vvs-installatørvirksomhed | Valby | autnr VFUL-40123
+2026-08-17 14:57:56,790 INFO Henter register...
+2026-08-17 14:57:57,377 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-17 14:57:59,283 INFO Fandt 10228 rækker i registret.
+2026-08-17 14:57:59,308 INFO Ingen nye autorisationer siden sidste tjek.
