@@ -132949,5 +132949,18 @@
     "autnr": "ASBE-40418",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "VFUL-40123": {
+    "navn": "Palne Klima & VVS ApS",
+    "adresse1": "Paradisæblevej 4",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2500",
+    "postdst": "Valby",
+    "cvr": "45909956",
+    "autnr": "VFUL-40123",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }

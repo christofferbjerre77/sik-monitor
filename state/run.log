@@ -432,3 +432,9 @@
 2026-08-17 12:31:53,729 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-17 12:31:55,034 INFO Fandt 10227 rækker i registret.
 2026-08-17 12:31:55,059 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-17 13:56:37,028 INFO Henter register...
+2026-08-17 13:56:37,548 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-17 13:56:38,909 INFO Fandt 10228 rækker i registret.
+2026-08-17 13:56:38,939 INFO Fandt 1 NYE autorisation(er)!
+2026-08-17 13:56:38,940 INFO 1 NYE autorisation(er) fundet:
+  - Palne Klima & VVS ApS (CVR 45909956) | Vvs-installatørvirksomhed | Valby | autnr VFUL-40123
