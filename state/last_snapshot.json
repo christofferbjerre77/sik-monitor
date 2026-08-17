@@ -132962,5 +132962,18 @@
     "autnr": "VFUL-40123",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40124": {
+    "navn": "Østergaard Rørentreprise A/S",
+    "adresse1": "Toftegårdsvej 18",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5800",
+    "postdst": "Nyborg",
+    "cvr": "43558765",
+    "autnr": "VFUL-40124",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }

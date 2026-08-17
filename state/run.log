@@ -442,3 +442,9 @@
 2026-08-17 14:57:57,377 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-17 14:57:59,283 INFO Fandt 10228 rækker i registret.
 2026-08-17 14:57:59,308 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-17 15:54:36,875 INFO Henter register...
+2026-08-17 15:54:37,361 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-17 15:54:39,217 INFO Fandt 10229 rækker i registret.
+2026-08-17 15:54:39,247 INFO Fandt 1 NYE autorisation(er)!
+2026-08-17 15:54:39,247 INFO 1 NYE autorisation(er) fundet:
+  - Østergaard Rørentreprise A/S (CVR 43558765) | Vvs-installatørvirksomhed | Nyborg | autnr VFUL-40124
