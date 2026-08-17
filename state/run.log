@@ -448,3 +448,7 @@
 2026-08-17 15:54:39,247 INFO Fandt 1 NYE autorisation(er)!
 2026-08-17 15:54:39,247 INFO 1 NYE autorisation(er) fundet:
   - Østergaard Rørentreprise A/S (CVR 43558765) | Vvs-installatørvirksomhed | Nyborg | autnr VFUL-40124
+2026-08-17 17:00:15,104 INFO Henter register...
+2026-08-17 17:00:15,703 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-17 17:00:17,544 INFO Fandt 10229 rækker i registret.
+2026-08-17 17:00:17,574 INFO Ingen nye autorisationer siden sidste tjek.
