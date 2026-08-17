@@ -462,3 +462,7 @@
 2026-08-17 19:37:35,236 INFO Fandt 1 NYE autorisation(er)!
 2026-08-17 19:37:35,237 INFO 1 NYE autorisation(er) fundet:
   - Olsson (CVR 46573749) | Vvs-installatørvirksomhed | Nakskov | autnr VFUL-40125
+2026-08-17 20:56:13,884 INFO Henter register...
+2026-08-17 20:56:14,346 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-17 20:56:16,059 INFO Fandt 10230 rækker i registret.
+2026-08-17 20:56:16,082 INFO Ingen nye autorisationer siden sidste tjek.
