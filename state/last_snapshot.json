@@ -132962,5 +132962,18 @@
     "autnr": "ASBE-40419",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": "Thors Skadeservice"
+  },
+  "KFUL-40170": {
+    "navn": "KMR Entreprenør",
+    "adresse1": "Ryttervænget 22",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4700",
+    "postdst": "Næstved",
+    "cvr": "36575018",
+    "autnr": "KFUL-40170",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
   }
 }
