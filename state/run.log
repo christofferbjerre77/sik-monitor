@@ -562,3 +562,9 @@
 2026-08-18 20:01:55,550 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-18 20:01:57,551 INFO Fandt 10229 rækker i registret.
 2026-08-18 20:01:57,579 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-18 20:56:25,032 INFO Henter register...
+2026-08-18 20:56:25,644 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-18 20:56:27,394 INFO Fandt 10230 rækker i registret.
+2026-08-18 20:56:27,419 INFO Fandt 1 NYE autorisation(er)!
+2026-08-18 20:56:27,419 INFO 1 NYE autorisation(er) fundet:
+  - Mikkelsen El ApS (CVR 46566777) | Elinstallatørvirksomhed | Skanderborg | autnr EFUL-40212

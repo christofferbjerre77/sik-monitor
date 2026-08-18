@@ -132975,5 +132975,18 @@
     "autnr": "KFUL-40170",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
+  },
+  "EFUL-40212": {
+    "navn": "Mikkelsen El ApS",
+    "adresse1": "Emilievej 10",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8660",
+    "postdst": "Skanderborg",
+    "cvr": "46566777",
+    "autnr": "EFUL-40212",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
