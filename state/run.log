@@ -518,3 +518,8 @@
 2026-08-18 11:57:16,309 INFO Fandt 10227 rækker i registret.
 2026-08-18 11:57:16,340 INFO Ingen nye autorisationer siden sidste tjek.
 2026-08-18 11:57:16,340 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-40171
+2026-08-18 12:32:38,736 INFO Henter register...
+2026-08-18 12:32:39,453 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-18 12:32:41,627 INFO Fandt 10226 rækker i registret.
+2026-08-18 12:32:41,656 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-18 12:32:41,656 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-16720
