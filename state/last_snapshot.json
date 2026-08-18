@@ -132949,5 +132949,18 @@
     "autnr": "VFUL-40125",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40211": {
+    "navn": "RSG Copia A/S",
+    "adresse1": "Industrivej 52A",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "6740",
+    "postdst": "Bramming",
+    "cvr": "46623002",
+    "autnr": "EFUL-40211",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
