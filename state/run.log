@@ -513,3 +513,8 @@
 2026-08-18 10:59:57,704 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-18 10:59:59,168 INFO Fandt 10228 rækker i registret.
 2026-08-18 10:59:59,199 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-18 11:57:14,752 INFO Henter register...
+2026-08-18 11:57:15,101 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-18 11:57:16,309 INFO Fandt 10227 rækker i registret.
+2026-08-18 11:57:16,340 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-18 11:57:16,340 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-40171
