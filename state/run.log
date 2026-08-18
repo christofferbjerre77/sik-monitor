@@ -523,3 +523,12 @@
 2026-08-18 12:32:41,627 INFO Fandt 10226 rækker i registret.
 2026-08-18 12:32:41,656 INFO Ingen nye autorisationer siden sidste tjek.
 2026-08-18 12:32:41,656 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-16720
+2026-08-18 13:19:36,141 INFO Henter register...
+2026-08-18 13:19:36,999 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-18 13:19:39,744 INFO Fandt 10228 rækker i registret.
+2026-08-18 13:19:39,767 INFO Fandt 3 NYE autorisation(er)!
+2026-08-18 13:19:39,767 INFO 3 NYE autorisation(er) fundet:
+  - Thors Ejendomsservice ApS (CVR 43269259) | Autoriseret til nedrivning af asbest | Ringsted | autnr ASBE-40419
+  - Strukton Rail A/S (CVR 20286547) | Elinstallatørvirksomhed | Køge | autnr EFUL-12194
+  - ELBYG PRO (CVR ) | Elinstallatørvirksomhed | Malmø | autnr EFUL-17320
+2026-08-18 13:19:40,375 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-11978#EFUL-12194
