@@ -27910,19 +27910,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFBI-06748": {
-    "navn": "Wettengel",
-    "adresse1": "Smedeforte 8",
-    "adresse2": "",
-    "adresse3": "Smedeby",
-    "landkode": "DK",
-    "postnr": "6340",
-    "postdst": "Kruså",
-    "cvr": "",
-    "autnr": "EFBI-06748",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "EFUL-09508": {
     "navn": "DS EL-TEKNIK ApS",
     "adresse1": "Sindalvej 6",
@@ -30289,19 +30276,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
-  "EFBI-07746": {
-    "navn": "Bendixens El",
-    "adresse1": "Jensine Madsensvej 9",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4270",
-    "postdst": "Høng",
-    "cvr": "",
-    "autnr": "EFBI-07746",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "EFUL-07327": {
     "navn": "Velsø El ApS",
     "adresse1": "Fabriksvej 14",
@@ -30976,19 +30950,6 @@
     "cvr": "17466100",
     "autnr": "VFUL-00222",
     "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
-  "EFBI-06935": {
-    "navn": "Kosterslev El-Tek",
-    "adresse1": "Veflinge skovvej 76",
-    "adresse2": "",
-    "adresse3": "Kosterslev",
-    "landkode": "DK",
-    "postnr": "5471",
-    "postdst": "Søndersø",
-    "cvr": "",
-    "autnr": "EFBI-06935",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
   "KFUL-03164": {
@@ -104976,12 +104937,12 @@
   },
   "VFUL-16639": {
     "navn": "Smedemark VVS ApS",
-    "adresse1": "Odinsvej 20",
+    "adresse1": "Merlegårds Vænge 43",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "4030",
-    "postdst": "Tune",
+    "postnr": "2635",
+    "postdst": "Ishøj",
     "cvr": "40899308",
     "autnr": "VFUL-16639",
     "forretningsomr": "Vvs-installatørvirksomhed",
