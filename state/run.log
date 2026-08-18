@@ -568,3 +568,7 @@
 2026-08-18 20:56:27,419 INFO Fandt 1 NYE autorisation(er)!
 2026-08-18 20:56:27,419 INFO 1 NYE autorisation(er) fundet:
   - Mikkelsen El ApS (CVR 46566777) | Elinstallatørvirksomhed | Skanderborg | autnr EFUL-40212
+2026-08-18 21:50:29,456 INFO Henter register...
+2026-08-18 21:50:29,802 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-18 21:50:31,094 INFO Fandt 10230 rækker i registret.
+2026-08-18 21:50:31,123 INFO Ingen nye autorisationer siden sidste tjek.
