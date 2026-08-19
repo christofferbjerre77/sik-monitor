@@ -665,3 +665,7 @@
 2026-08-19 15:50:36,512 INFO 1 NYE autorisation(er) fundet:
   - Strukton Rail A/S (CVR 20286547) | Kloakmestervirksomhed#Elinstallatørvirksomhed | Køge | autnr KFUL-11978#EFUL-12194
 2026-08-19 15:50:37,050 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-12194
+2026-08-19 17:00:01,626 INFO Henter register...
+2026-08-19 17:00:02,396 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-19 17:00:03,902 INFO Fandt 10232 rækker i registret.
+2026-08-19 17:00:03,932 INFO Ingen nye autorisationer siden sidste tjek.
