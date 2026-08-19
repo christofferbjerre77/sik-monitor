@@ -132963,6 +132963,19 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
+  "VDVA-40007": {
+    "navn": "J.H.E. VVS ApS",
+    "adresse1": "Skæring Sandager 78",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8250",
+    "postdst": "Egå",
+    "cvr": "46625528",
+    "autnr": "VDVA-40007",
+    "forretningsomr": "Vand- og afløbsvirksomhed",
+    "binavn": ""
+  },
   "EFUL-40212": {
     "navn": "Mikkelsen El ApS",
     "adresse1": "Emilievej 10",
