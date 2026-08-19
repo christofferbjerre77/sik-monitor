@@ -40247,19 +40247,6 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "VFUL-01471#KFUL-03951": {
-    "navn": "BAUNGAARD VVS ApS",
-    "adresse1": "Odelsgade 50B",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7130",
-    "postdst": "Juelsminde",
-    "cvr": "29934967",
-    "autnr": "VFUL-01471#KFUL-03951",
-    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "VFUL-01509": {
     "navn": "Everdrup VVS v/Jan S Christensen",
     "adresse1": "Æskebjergvej 1",
@@ -112996,7 +112983,7 @@
     "binavn": ""
   },
   "VDFG-16897": {
-    "navn": "Semler Mobility Retail A/S - Att. aktion@semler.dk",
+    "navn": "Semler Mobility Retail A/S",
     "adresse1": "Park Allé 355",
     "adresse2": "",
     "adresse3": "",
@@ -126854,7 +126841,7 @@
     "binavn": ""
   },
   "VFUL-40052": {
-    "navn": "MO-VVS",
+    "navn": "M-VVS",
     "adresse1": "Ingemannsvej 20",
     "adresse2": "",
     "adresse3": "",
