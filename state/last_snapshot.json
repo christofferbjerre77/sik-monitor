@@ -63504,7 +63504,7 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "EFUL-12194": {
+  "KFUL-11978#EFUL-12194": {
     "navn": "Strukton Rail A/S",
     "adresse1": "Gammel Lyngvej 2",
     "adresse2": "",
@@ -63513,8 +63513,8 @@
     "postnr": "4600",
     "postdst": "Køge",
     "cvr": "20286547",
-    "autnr": "EFUL-12194",
-    "forretningsomr": "Elinstallatørvirksomhed",
+    "autnr": "KFUL-11978#EFUL-12194",
+    "forretningsomr": "Kloakmestervirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "EFUL-09995": {
