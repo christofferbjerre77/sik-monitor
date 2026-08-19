@@ -607,3 +607,7 @@
 2026-08-19 07:25:44,320 INFO Fandt 1 NYE autorisation(er)!
 2026-08-19 07:25:44,320 INFO 1 NYE autorisation(er) fundet:
   - J.H.E. VVS ApS (CVR 46625528) | Vand- og afløbsvirksomhed | Egå | autnr VDVA-40007
+2026-08-19 07:55:09,986 INFO Henter register...
+2026-08-19 07:55:10,591 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-19 07:55:12,378 INFO Fandt 10230 rækker i registret.
+2026-08-19 07:55:12,407 INFO Ingen nye autorisationer siden sidste tjek.
