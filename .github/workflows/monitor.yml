@@ -2,15 +2,26 @@ name: SIK autorisationsovervågning
 
 on:
   schedule:
-    # Kører hvert 5. minut, døgnet rundt (UTC-tid).
+    # Kører hvert 15. minut, døgnet rundt (UTC-tid).
     # Repository er offentligt, så Actions-minutter er gratis og ubegrænset.
-    - cron: "*/5 * * * *"
+    # (Sat ned fra hvert 5. minut til hvert 15. minut for mere stabil drift -
+    # registret opdateres kun nogle få gange i døgnet, så forskellen i
+    # opdagelsestid er ubetydelig, mens færre kørsler giver færre kø-problemer.)
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       send_test_notification:
         description: "Send en TEST-besked til Discord/Slack i stedet for at tjekke registret (bruges til at bekræfte at webhooken virker)"
         type: boolean
         default: false
+
+# Forhindrer flere kørsler i at køre samtidig. Uden dette kan to kørsler
+# begge forsøge at committe/pushe tilstand på samme tid, hvilket giver
+# konflikter og hængende/langsomme kørsler. Nye kørsler venter nu pænt i kø
+# i stedet for at kollidere med hinanden.
+concurrency:
+  group: sik-monitor-run
+  cancel-in-progress: false
 
 permissions:
   contents: write  # nødvendigt for at scriptet kan gemme sin tilstand tilbage i repo'et
@@ -47,5 +58,3 @@ jobs:
           git add state/
           git diff --quiet --cached || git commit -m "Opdater tilstand [skip ci]"
           git push
-
-# Lille kommentar tilføjet for at tvinge GitHub til at genregistrere tidsplanen
