@@ -117324,19 +117324,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "ASBE-00605": {
-    "navn": "Hellum Miljøanalyse",
-    "adresse1": "Teglsøparken 15",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9700",
-    "postdst": "Brønderslev",
-    "cvr": "26962005",
-    "autnr": "ASBE-00605",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "VFUL-17018": {
     "navn": "Østergaard VVS",
     "adresse1": "Hellebakken 5",
@@ -122603,7 +122590,7 @@
     "binavn": ""
   },
   "KFUL-40038": {
-    "navn": "Jan Jespersen",
+    "navn": "Kloakmester Jan Jespersen",
     "adresse1": "Herrestrupvej 43",
     "adresse2": "",
     "adresse3": "",
