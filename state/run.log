@@ -804,3 +804,7 @@
 2026-08-20 17:50:03,029 INFO Fandt 1 NYE autorisation(er)!
 2026-08-20 17:50:03,029 INFO 1 NYE autorisation(er) fundet:
   - Tryg VVS ApS (CVR 46684745) | Vvs-installatørvirksomhed | Hvidovre | autnr VFUL-40126
+2026-08-20 19:44:14,484 INFO Henter register...
+2026-08-20 19:44:14,929 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-20 19:44:16,356 INFO Fandt 10231 rækker i registret.
+2026-08-20 19:44:16,385 INFO Ingen nye autorisationer siden sidste tjek.
