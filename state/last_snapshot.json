@@ -31823,19 +31823,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-03600": {
-    "navn": "VINDERUP ENTREPRENØRFORRETNING A/S",
-    "adresse1": "Toften 24",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7830",
-    "postdst": "Vinderup",
-    "cvr": "66384128",
-    "autnr": "KFUL-03600",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-03603": {
     "navn": "MURERFIRMAET FRITS PETERSEN. VEMMELEV ApS",
     "adresse1": "Enghavevej 88",
@@ -94912,6 +94899,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-15838": {
+    "navn": "Zealand Business College",
+    "adresse1": "Ahorn Alle 5",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4100",
+    "postdst": "Ringsted",
+    "cvr": "10521815",
+    "autnr": "EFUL-15838",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "KFUL-89920": {
     "navn": "Græsbjerg Entreprise",
     "adresse1": "Industrivej 4",
@@ -110886,19 +110886,6 @@
     "postdst": "Ishøj",
     "cvr": "44629518",
     "autnr": "ASBE-00613",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "ASBE-84907": {
-    "navn": "TØMRERFIRMAET EBBE KJÆR MADSEN ApS",
-    "adresse1": "Hagenstrupparken 41",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8860",
-    "postdst": "Ulstrup",
-    "cvr": "29769036",
-    "autnr": "ASBE-84907",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
@@ -132999,6 +132986,19 @@
     "postdst": "Sorø",
     "cvr": "46660951",
     "autnr": "ASBE-40420",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "ASBE-40421": {
+    "navn": "NR Solution ApS",
+    "adresse1": "Blakshøjgårdvej 25",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9900",
+    "postdst": "Frederikshavn",
+    "cvr": "43969145",
+    "autnr": "ASBE-40421",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   }

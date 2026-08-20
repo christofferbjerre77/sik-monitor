@@ -753,3 +753,11 @@
 2026-08-20 09:55:54,744 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-20 09:55:55,832 INFO Fandt 10231 rækker i registret.
 2026-08-20 09:55:55,860 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-20 10:43:24,706 INFO Henter register...
+2026-08-20 10:43:25,011 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-20 10:43:26,112 INFO Fandt 10231 rækker i registret.
+2026-08-20 10:43:26,141 INFO Fandt 2 NYE autorisation(er)!
+2026-08-20 10:43:26,141 INFO 2 NYE autorisation(er) fundet:
+  - NR Solution ApS (CVR 43969145) | Autoriseret til nedrivning af asbest | Frederikshavn | autnr ASBE-40421
+  - Zealand Business College (CVR 10521815) | Elinstallatørvirksomhed | Ringsted | autnr EFUL-15838
+2026-08-20 10:43:26,768 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-84907, KFUL-03600
