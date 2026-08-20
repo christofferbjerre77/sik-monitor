@@ -132988,5 +132988,18 @@
     "autnr": "ASBE-40421",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "VFUL-40126": {
+    "navn": "Tryg VVS ApS",
+    "adresse1": "Tavlekærsvej 37",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2650",
+    "postdst": "Hvidovre",
+    "cvr": "46684745",
+    "autnr": "VFUL-40126",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
