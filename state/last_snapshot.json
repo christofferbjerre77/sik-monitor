@@ -78415,19 +78415,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFUL-12778": {
-    "navn": "EUROWIND PROJECT A/S",
-    "adresse1": "Mariagervej 58B",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9500",
-    "postdst": "Hobro",
-    "cvr": "32076971",
-    "autnr": "EFUL-12778",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "EFUL-12780": {
     "navn": "UniQ EL-Teknik ApS",
     "adresse1": "Gammel Kurreholmvej 8",
@@ -116947,6 +116934,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "VFUL-17049#KFUL-17169": {
+    "navn": "Kastrup VVS ApS",
+    "adresse1": "Arkturus Alle 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2770",
+    "postdst": "Kastrup",
+    "cvr": "45522954",
+    "autnr": "VFUL-17049#KFUL-17169",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
+    "binavn": ""
+  },
   "ASBE-00579": {
     "navn": "Hviids tømrer og snedker entreprise ApS",
     "adresse1": "Havremarken 7",
@@ -117503,6 +117503,19 @@
     "postdst": "Helsinge",
     "cvr": "42258261",
     "autnr": "ASBE-00618",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "ASBE-00686": {
+    "navn": "R&E BYG ApS",
+    "adresse1": "Verningevej 9",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5672",
+    "postdst": "Broby",
+    "cvr": "40803009",
+    "autnr": "ASBE-00686",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
@@ -118075,32 +118088,6 @@
     "postdst": "Hinnerup",
     "cvr": "42692840",
     "autnr": "ASBE-00653",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "VFUL-17049#KFUL-17169": {
-    "navn": "Kastrup VVS ApS",
-    "adresse1": "Arkturus Alle 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2770",
-    "postdst": "Kastrup",
-    "cvr": "45522954",
-    "autnr": "VFUL-17049#KFUL-17169",
-    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
-    "binavn": ""
-  },
-  "ASBE-00686": {
-    "navn": "R&E BYG ApS",
-    "adresse1": "Verningevej 9",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5672",
-    "postdst": "Broby",
-    "cvr": "40803009",
-    "autnr": "ASBE-00686",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
@@ -133000,6 +132987,19 @@
     "cvr": "43634933",
     "autnr": "KFUL-40171",
     "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "ASBE-40420": {
+    "navn": "JM Byg og Montage ApS",
+    "adresse1": "Elmelunden 45",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4180",
+    "postdst": "Sorø",
+    "cvr": "46660951",
+    "autnr": "ASBE-40420",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   }
 }
