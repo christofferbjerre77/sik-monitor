@@ -839,3 +839,7 @@
 2026-08-21 05:17:34,898 INFO Fandt 1 NYE autorisation(er)!
 2026-08-21 05:17:34,898 INFO 1 NYE autorisation(er) fundet:
   - Sunvion ApS (CVR 46676262) | Elinstallatørvirksomhed | Stenløse | autnr EFUL-40213
+2026-08-21 06:15:17,953 INFO Henter register...
+2026-08-21 06:15:18,587 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-21 06:15:20,337 INFO Fandt 10229 rækker i registret.
+2026-08-21 06:15:20,368 INFO Ingen nye autorisationer siden sidste tjek.
