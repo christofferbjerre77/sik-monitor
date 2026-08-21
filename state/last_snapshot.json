@@ -97590,19 +97590,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "VFUL-89906": {
-    "navn": "Østerbro VVS Service ApS",
-    "adresse1": "Manøgade 7, 4. th",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2100",
-    "postdst": "København Ø",
-    "cvr": "30828070",
-    "autnr": "VFUL-89906",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-89866": {
     "navn": "Fursund kloak og anlæg ApS",
     "adresse1": "Jungetvej 25",
@@ -104322,19 +104309,6 @@
     "cvr": "44446685",
     "autnr": "KFUL-89726",
     "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
-  "VFUL-16605": {
-    "navn": "Sjælland Entreprise og VVS ApS",
-    "adresse1": "Maglebjergvej 6",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2800",
-    "postdst": "Kongens Lyngby",
-    "cvr": "44461447",
-    "autnr": "VFUL-16605",
-    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-89712": {
