@@ -51531,19 +51531,6 @@
     "forretningsomr": "Vand og afløb, kompetent virksomhed, begr. forretningsområde",
     "binavn": ""
   },
-  "KFUL-04801": {
-    "navn": "JDT Havepleje & Anlæg v./Jørgen Dahl Thomsen - Vejvedgaard - Dit Lagerhotel",
-    "adresse1": "Meløsevej 33",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3320",
-    "postdst": "Skævinge",
-    "cvr": "15107847",
-    "autnr": "KFUL-04801",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "VFUL-01860": {
     "navn": "STORVORDE VVS ApS",
     "adresse1": "Vestermarksvej 8",
@@ -108419,19 +108406,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "ASBE-00026": {
-    "navn": "29062026 ApS",
-    "adresse1": "Elmelunden 45",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4180",
-    "postdst": "Sorø",
-    "cvr": "43152211",
-    "autnr": "ASBE-00026",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "KFUL-84962": {
     "navn": "Dørrs Totalservice",
     "adresse1": "H C Andersens Vej 10",
@@ -114789,19 +114763,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "EFUL-17205": {
-    "navn": "Hundstrup Ejendomsselskab & Boligrenovering ApS",
-    "adresse1": "Hverringevej 1",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5230",
-    "postdst": "Odense M",
-    "cvr": "44589044",
-    "autnr": "EFUL-17205",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-16952": {
     "navn": "Fælles Kloak og Vand ApS",
     "adresse1": "Willumsensvænget 14",
@@ -116818,7 +116779,7 @@
     "binavn": ""
   },
   "KFUL-17005": {
-    "navn": "Ploug & Harder ApS",
+    "navn": "Dnemt.com ApS",
     "adresse1": "Solbrinken 13",
     "adresse2": "",
     "adresse3": "",
@@ -131404,7 +131365,7 @@
     "binavn": ""
   },
   "VFUL-40111": {
-    "navn": "ALOKE ApS",
+    "navn": "ALOK VVS ApS",
     "adresse1": "Lækrogen 66",
     "adresse2": "",
     "adresse3": "",
