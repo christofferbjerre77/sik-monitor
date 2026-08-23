@@ -132949,5 +132949,18 @@
     "autnr": "VFUL-40126",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "ASBE-40422": {
+    "navn": "BEDSTEBYG ApS",
+    "adresse1": "Strangesensvej 19",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7770",
+    "postdst": "Vestervig",
+    "cvr": "32470181",
+    "autnr": "ASBE-40422",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
