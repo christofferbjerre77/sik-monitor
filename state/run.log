@@ -1074,3 +1074,7 @@
 2026-08-23 15:50:11,976 INFO Fandt 1 NYE autorisation(er)!
 2026-08-23 15:50:11,977 INFO 1 NYE autorisation(er) fundet:
   - BEDSTEBYG ApS (CVR 32470181) | Autoriseret til nedrivning af asbest | Vestervig | autnr ASBE-40422
+2026-08-23 16:56:01,035 INFO Henter register...
+2026-08-23 16:56:01,507 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-23 16:56:03,219 INFO Fandt 10228 rækker i registret.
+2026-08-23 16:56:03,249 INFO Ingen nye autorisationer siden sidste tjek.
