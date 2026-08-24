@@ -32448,14 +32448,14 @@
     "binavn": ""
   },
   "EFBI-09513": {
-    "navn": "Bakkegaard El",
-    "adresse1": "Bakkegårdsvej 7",
+    "navn": "Bakkegaard El v/Mogens Ejvind Bakkegaard",
+    "adresse1": "Præstevænget 52",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "5792",
-    "postdst": "Årslev",
-    "cvr": "",
+    "postnr": "5800",
+    "postdst": "Nyborg",
+    "cvr": "32874614",
     "autnr": "EFBI-09513",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
@@ -32575,19 +32575,6 @@
     "cvr": "21742384",
     "autnr": "VFUL-01313",
     "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
-  "VFUL-00839#KFUL-12378": {
-    "navn": "John Jensen VVS A/S",
-    "adresse1": "Rundageren 17",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2640",
-    "postdst": "Hedehusene",
-    "cvr": "40272712",
-    "autnr": "VFUL-00839#KFUL-12378",
-    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
   "VDVA-16188#KFUL-02497": {
@@ -34174,6 +34161,19 @@
     "cvr": "27497683",
     "autnr": "VFUL-00804",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "VFUL-00839#KFUL-12378": {
+    "navn": "John Jensen VVS A/S",
+    "adresse1": "Rundageren 17",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2640",
+    "postdst": "Hedehusene",
+    "cvr": "40272712",
+    "autnr": "VFUL-00839#KFUL-12378",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFBI-07421": {
@@ -37010,6 +37010,19 @@
     "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFBI-07724": {
+    "navn": "Morten Jacobsen",
+    "adresse1": "Baunehøjvej 6",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9460",
+    "postdst": "Brovst",
+    "cvr": "",
+    "autnr": "EFBI-07724",
+    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
+    "binavn": ""
+  },
   "VFUL-14422": {
     "navn": "QUISTGAARD VVS ApS",
     "adresse1": "Industriparken 4, st.",
@@ -37554,19 +37567,6 @@
     "cvr": "28496788",
     "autnr": "KFUL-03761#ASBE-40248",
     "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "EFBI-07724": {
-    "navn": "Morten Jacobsen",
-    "adresse1": "Baunehøjvej 6",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9460",
-    "postdst": "Brovst",
-    "cvr": "",
-    "autnr": "EFBI-07724",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
   "VFUL-00153": {
@@ -98734,6 +98734,19 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
+  "EFUL-89811": {
+    "navn": "ROSE Poultry A/S",
+    "adresse1": "Tværmosevej 10",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7830",
+    "postdst": "Vinderup",
+    "cvr": "25177509",
+    "autnr": "EFUL-89811",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "KFUL-16166": {
     "navn": "JL Kloakservice ApS",
     "adresse1": "Torningvej 33",
@@ -120977,19 +120990,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "KFUL-40005": {
-    "navn": "Jackies Entreprise v/Jackie Engel Hansen",
-    "adresse1": "Hasle Nygade 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3790",
-    "postdst": "Hasle",
-    "cvr": "32704727",
-    "autnr": "KFUL-40005",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "VFUL-17199": {
     "navn": "IC VVS ApS",
     "adresse1": "Ellebækvej 62, st. th",
@@ -132858,6 +132858,19 @@
     "autnr": "ASBE-40419",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": "Thors Skadeservice"
+  },
+  "KFUL-40173": {
+    "navn": "Holmgaards Entreprise",
+    "adresse1": "Skovgårdsvejen 3",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3700",
+    "postdst": "Rønne",
+    "cvr": "45153282",
+    "autnr": "KFUL-40173",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
   },
   "KFUL-40170": {
     "navn": "KMR Entreprenør",
