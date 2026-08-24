@@ -1181,3 +1181,7 @@
   - ROSE Poultry A/S (CVR 25177509) | Elinstallatørvirksomhed | Vinderup | autnr EFUL-89811
   - Holmgaards Entreprise (CVR 45153282) | Kloakmestervirksomhed | Rønne | autnr KFUL-40173
 2026-08-24 13:18:23,768 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-40005
+2026-08-24 13:19:13,941 INFO Henter register...
+2026-08-24 13:19:14,726 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-24 13:19:16,634 INFO Fandt 10234 rækker i registret.
+2026-08-24 13:19:16,657 INFO Ingen nye autorisationer siden sidste tjek.
