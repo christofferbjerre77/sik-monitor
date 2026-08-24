@@ -1150,3 +1150,12 @@
   - LUMA CONSTRUCTION Aps (CVR 44123525) | Vand- og afløbsvirksomhed#Elinstallatørvirksomhed | Odense C | autnr VDVA-40008#EFUL-40085
   - KHSL ApS (CVR 39392119) | Vvs-installatørvirksomhed | Struer | autnr VFUL-40127
 2026-08-24 10:16:08,330 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40085
+2026-08-24 10:23:15,156 INFO Henter register...
+2026-08-24 10:23:15,589 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-24 10:23:17,600 INFO Fandt 10232 rækker i registret.
+2026-08-24 10:23:17,629 INFO Fandt 3 NYE autorisation(er)!
+2026-08-24 10:23:17,630 INFO 3 NYE autorisation(er) fundet:
+  - B & T S.M.B.A. (CVR 35236384) | Autoriseret til nedrivning af asbest | Allerød | autnr ASBE-40423
+  - BB Aut. Elinstallatør (CVR 46496787) | Elinstallatørvirksomhed | Støvring | autnr EFUL-40216
+  - KHSL ApS (CVR 39392119) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Struer | autnr VFUL-40127#EFUL-40215
+2026-08-24 10:23:17,939 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40127

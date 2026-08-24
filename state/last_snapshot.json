@@ -132170,7 +132170,7 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-40127": {
+  "VFUL-40127#EFUL-40215": {
     "navn": "KHSL ApS",
     "adresse1": "Trudsøvej 10",
     "adresse2": "",
@@ -132179,8 +132179,8 @@
     "postnr": "7600",
     "postdst": "Struer",
     "cvr": "39392119",
-    "autnr": "VFUL-40127",
-    "forretningsomr": "Vvs-installatørvirksomhed",
+    "autnr": "VFUL-40127#EFUL-40215",
+    "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40402": {
@@ -132986,6 +132986,32 @@
     "postdst": "Svendborg",
     "cvr": "44035979",
     "autnr": "EFUL-40214",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "ASBE-40423": {
+    "navn": "B & T S.M.B.A.",
+    "adresse1": "Gydevang 39",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3450",
+    "postdst": "Allerød",
+    "cvr": "35236384",
+    "autnr": "ASBE-40423",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "EFUL-40216": {
+    "navn": "BB Aut. Elinstallatør",
+    "adresse1": "Haren 190",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9530",
+    "postdst": "Støvring",
+    "cvr": "46496787",
+    "autnr": "EFUL-40216",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   }
