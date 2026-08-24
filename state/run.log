@@ -1165,3 +1165,7 @@
 2026-08-24 11:48:31,531 INFO Fandt 1 NYE autorisation(er)!
 2026-08-24 11:48:31,532 INFO 1 NYE autorisation(er) fundet:
   - Muehlhan Wind Service A/S (CVR 38568183) | Elinstallatørvirksomhed | Fredericia | autnr EFUL-14049
+2026-08-24 12:02:31,646 INFO Henter register...
+2026-08-24 12:02:32,150 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-24 12:02:33,202 INFO Fandt 10233 rækker i registret.
+2026-08-24 12:02:33,234 INFO Ingen nye autorisationer siden sidste tjek.
