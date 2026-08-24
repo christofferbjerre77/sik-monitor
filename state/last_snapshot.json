@@ -83264,6 +83264,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-14049": {
+    "navn": "Muehlhan Wind Service A/S",
+    "adresse1": "Navervej 10",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7000",
+    "postdst": "Fredericia",
+    "cvr": "38568183",
+    "autnr": "EFUL-14049",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "KFUL-13951": {
     "navn": "Skovby Kloakservice ApS",
     "adresse1": "Skråvejen 11",

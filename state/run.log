@@ -1159,3 +1159,9 @@
   - BB Aut. Elinstallatør (CVR 46496787) | Elinstallatørvirksomhed | Støvring | autnr EFUL-40216
   - KHSL ApS (CVR 39392119) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Struer | autnr VFUL-40127#EFUL-40215
 2026-08-24 10:23:17,939 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40127
+2026-08-24 11:48:30,066 INFO Henter register...
+2026-08-24 11:48:30,397 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-24 11:48:31,503 INFO Fandt 10233 rækker i registret.
+2026-08-24 11:48:31,531 INFO Fandt 1 NYE autorisation(er)!
+2026-08-24 11:48:31,532 INFO 1 NYE autorisation(er) fundet:
+  - Muehlhan Wind Service A/S (CVR 38568183) | Elinstallatørvirksomhed | Fredericia | autnr EFUL-14049
