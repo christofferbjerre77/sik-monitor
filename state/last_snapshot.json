@@ -126203,7 +126203,7 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-40085": {
+  "VDVA-40008#EFUL-40085": {
     "navn": "LUMA CONSTRUCTION Aps",
     "adresse1": "Dannebrogsgade 2",
     "adresse2": "",
@@ -126212,8 +126212,8 @@
     "postnr": "5000",
     "postdst": "Odense C",
     "cvr": "44123525",
-    "autnr": "EFUL-40085",
-    "forretningsomr": "Elinstallatørvirksomhed",
+    "autnr": "VDVA-40008#EFUL-40085",
+    "forretningsomr": "Vand- og afløbsvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40196": {
@@ -132170,6 +132170,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "VFUL-40127": {
+    "navn": "KHSL ApS",
+    "adresse1": "Trudsøvej 10",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7600",
+    "postdst": "Struer",
+    "cvr": "39392119",
+    "autnr": "VFUL-40127",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
   "ASBE-40402": {
     "navn": "VindFlow ApS",
     "adresse1": "Møllevej 22",
@@ -132961,6 +132974,19 @@
     "cvr": "39065614",
     "autnr": "KFUL-40172",
     "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40214": {
+    "navn": "Proheat",
+    "adresse1": "Korshøjvej 6",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5700",
+    "postdst": "Svendborg",
+    "cvr": "44035979",
+    "autnr": "EFUL-40214",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   }
 }

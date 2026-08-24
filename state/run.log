@@ -1141,3 +1141,12 @@
 2026-08-24 08:26:06,070 INFO Fandt 1 NYE autorisation(er)!
 2026-08-24 08:26:06,071 INFO 1 NYE autorisation(er) fundet:
   - Focus Miljø ApS (CVR 39065614) | Kloakmestervirksomhed | Hørsholm | autnr KFUL-40172
+2026-08-24 10:16:05,966 INFO Henter register...
+2026-08-24 10:16:06,599 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-24 10:16:07,881 INFO Fandt 10230 rækker i registret.
+2026-08-24 10:16:07,911 INFO Fandt 3 NYE autorisation(er)!
+2026-08-24 10:16:07,912 INFO 3 NYE autorisation(er) fundet:
+  - Proheat (CVR 44035979) | Elinstallatørvirksomhed | Svendborg | autnr EFUL-40214
+  - LUMA CONSTRUCTION Aps (CVR 44123525) | Vand- og afløbsvirksomhed#Elinstallatørvirksomhed | Odense C | autnr VDVA-40008#EFUL-40085
+  - KHSL ApS (CVR 39392119) | Vvs-installatørvirksomhed | Struer | autnr VFUL-40127
+2026-08-24 10:16:08,330 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40085
