@@ -5161,7 +5161,7 @@
     "binavn": ""
   },
   "VFUL-01020#EFUL-15813": {
-    "navn": "KLIPLEV VVS og SYDVENTILATION A/S",
+    "navn": "KLIPLEV TOTALENTREPRISE A/S",
     "adresse1": "Trudsøvej 10",
     "adresse2": "",
     "adresse3": "",
@@ -38468,7 +38468,7 @@
   },
   "EFUL-07952": {
     "navn": "ELICON ApS",
-    "adresse1": "Blegdamsvej 82, st. th",
+    "adresse1": "Helgesensgade 27, st. th",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -98721,19 +98721,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-89811": {
-    "navn": "ROSE Poultry A/S",
-    "adresse1": "Tværmosevej 10",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7830",
-    "postdst": "Vinderup",
-    "cvr": "25177509",
-    "autnr": "EFUL-89811",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-16166": {
     "navn": "JL Kloakservice ApS",
     "adresse1": "Torningvej 33",
@@ -104846,12 +104833,12 @@
   },
   "EFUL-89699": {
     "navn": "Fairpris montage ApS",
-    "adresse1": "Ryttervangen 5",
+    "adresse1": "Glarmestervej 4A",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "7323",
-    "postdst": "Give",
+    "postnr": "7000",
+    "postdst": "Fredericia",
     "cvr": "44633345",
     "autnr": "EFUL-89699",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -123033,12 +123020,12 @@
   },
   "EFUL-17226": {
     "navn": "Arnstrøm Sol ApS",
-    "adresse1": "Literbuen 16B",
+    "adresse1": "Lyskær 9, 2.",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2740",
-    "postdst": "Skovlunde",
+    "postnr": "2730",
+    "postdst": "Herlev",
     "cvr": "43813234",
     "autnr": "EFUL-17226",
     "forretningsomr": "Elinstallatørvirksomhed",
