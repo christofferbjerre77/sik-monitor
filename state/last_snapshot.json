@@ -120964,6 +120964,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "KFUL-40005": {
+    "navn": "Jackies Entreprise v/Jackie Engel Hansen",
+    "adresse1": "Hasle Nygade 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3790",
+    "postdst": "Hasle",
+    "cvr": "32704727",
+    "autnr": "KFUL-40005",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
   "VFUL-17199": {
     "navn": "IC VVS ApS",
     "adresse1": "Ellebækvej 62, st. th",
