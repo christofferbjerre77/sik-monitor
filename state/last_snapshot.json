@@ -5160,19 +5160,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
-  "VFUL-01020#EFUL-15813": {
-    "navn": "KLIPLEV TOTALENTREPRISE A/S",
-    "adresse1": "Trudsøvej 10",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7600",
-    "postdst": "Struer",
-    "cvr": "27767176",
-    "autnr": "VFUL-01020#EFUL-15813",
-    "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "VFUL-01021": {
     "navn": "BAD EXPERTEN A/S",
     "adresse1": "Rønnevej 5",
@@ -97161,19 +97148,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-89843": {
-    "navn": "KUDSK Service ApS",
-    "adresse1": "Haslevvej 11",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4100",
-    "postdst": "Ringsted",
-    "cvr": "12380844",
-    "autnr": "EFUL-89843",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "VFUL-89911": {
     "navn": "ØRUM INDUSTRIMONTAGE ApS",
     "adresse1": "Industrivej 11",
@@ -115285,12 +115259,12 @@
   },
   "KFUL-40116#ASBE-00523": {
     "navn": "Nordisk Asbest ApS",
-    "adresse1": "Kærsangervej 1",
+    "adresse1": "Vesterled 26",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "8960",
-    "postdst": "Randers SØ",
+    "postnr": "8830",
+    "postdst": "Tjele",
     "cvr": "45367746",
     "autnr": "KFUL-40116#ASBE-00523",
     "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
