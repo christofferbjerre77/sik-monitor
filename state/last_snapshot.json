@@ -132729,6 +132729,19 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
+  "ASBE-40424": {
+    "navn": "Ravnskjær entreprise ApS",
+    "adresse1": "Topstykket 29",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3460",
+    "postdst": "Birkerød",
+    "cvr": "39002833",
+    "autnr": "ASBE-40424",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "ASBE-40416": {
     "navn": "Byg & Montage 4200",
     "adresse1": "Akacievej 16",
