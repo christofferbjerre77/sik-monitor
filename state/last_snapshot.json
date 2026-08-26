@@ -48814,7 +48814,7 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-01679": {
+  "VFUL-01679#KFUL-40174": {
     "navn": "TONNYS VVS A/S",
     "adresse1": "Erhvervsvej 2",
     "adresse2": "",
@@ -48823,8 +48823,8 @@
     "postnr": "9632",
     "postdst": "Møldrup",
     "cvr": "31515033",
-    "autnr": "VFUL-01679",
-    "forretningsomr": "Vvs-installatørvirksomhed",
+    "autnr": "VFUL-01679#KFUL-40174",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFBI-08493": {
