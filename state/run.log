@@ -1368,3 +1368,10 @@
 2026-08-26 07:07:00,602 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-26 07:07:02,671 INFO Fandt 10232 rækker i registret.
 2026-08-26 07:07:02,700 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-26 07:32:28,147 INFO Henter register...
+2026-08-26 07:32:28,670 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-26 07:32:30,519 INFO Fandt 10232 rækker i registret.
+2026-08-26 07:32:30,549 INFO Fandt 1 NYE autorisation(er)!
+2026-08-26 07:32:30,549 INFO 1 NYE autorisation(er) fundet:
+  - GLH TOTALBYG ApS (CVR 30728408) | Vvs-installatørvirksomhed#Autoriseret til nedrivning af asbest | Solrød Strand | autnr VFUL-12197#ASBE-40425
+2026-08-26 07:32:30,999 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-12197
