@@ -1405,3 +1405,7 @@
 2026-08-26 11:19:44,056 INFO 1 NYE autorisation(er) fundet:
   - TONNYS VVS A/S (CVR 31515033) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Møldrup | autnr VFUL-01679#KFUL-40174
 2026-08-26 11:19:44,957 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-01679
+2026-08-26 11:49:45,906 INFO Henter register...
+2026-08-26 11:49:46,394 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-26 11:49:48,583 INFO Fandt 10232 rækker i registret.
+2026-08-26 11:49:48,613 INFO Ingen nye autorisationer siden sidste tjek.
