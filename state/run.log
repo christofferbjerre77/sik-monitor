@@ -1391,3 +1391,10 @@
 2026-08-26 10:08:21,879 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-26 10:08:23,503 INFO Fandt 10232 rækker i registret.
 2026-08-26 10:08:23,520 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-26 10:37:22,652 INFO Henter register...
+2026-08-26 10:37:23,037 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-26 10:37:25,022 INFO Fandt 10232 rækker i registret.
+2026-08-26 10:37:25,052 INFO Fandt 1 NYE autorisation(er)!
+2026-08-26 10:37:25,053 INFO 1 NYE autorisation(er) fundet:
+  - LK Varmeteknik ApS (CVR 45250954) | Vvs-installatørvirksomhed | Aarhus C | autnr VFUL-40128
+2026-08-26 10:37:25,760 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-17229

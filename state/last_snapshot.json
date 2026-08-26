@@ -123499,19 +123499,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "VFUL-17229": {
-    "navn": "BRS VVS ApS",
-    "adresse1": "Ved Skovgærdet 71",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3400",
-    "postdst": "Hillerød",
-    "cvr": "43676563",
-    "autnr": "VFUL-17229",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "VFUL-40103#VDBO-40002": {
     "navn": "Sejs-Svejbæk VVS ApS",
     "adresse1": "Enebærvænget 10",
@@ -133013,6 +133000,19 @@
     "cvr": "46496787",
     "autnr": "EFUL-40216",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "VFUL-40128": {
+    "navn": "LK Varmeteknik ApS",
+    "adresse1": "Skolegade 30, 1. tv.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8000",
+    "postdst": "Aarhus C",
+    "cvr": "45250954",
+    "autnr": "VFUL-40128",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   }
 }
