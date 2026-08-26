@@ -1375,3 +1375,7 @@
 2026-08-26 07:32:30,549 INFO 1 NYE autorisation(er) fundet:
   - GLH TOTALBYG ApS (CVR 30728408) | Vvs-installatørvirksomhed#Autoriseret til nedrivning af asbest | Solrød Strand | autnr VFUL-12197#ASBE-40425
 2026-08-26 07:32:30,999 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-12197
+2026-08-26 08:03:29,294 INFO Henter register...
+2026-08-26 08:03:29,717 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-26 08:03:30,967 INFO Fandt 10232 rækker i registret.
+2026-08-26 08:03:30,999 INFO Ingen nye autorisationer siden sidste tjek.
