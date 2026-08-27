@@ -131273,7 +131273,7 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-40111": {
+  "VFUL-40111#KFUL-40175": {
     "navn": "ALOK VVS ApS",
     "adresse1": "Lækrogen 66",
     "adresse2": "",
@@ -131282,8 +131282,8 @@
     "postnr": "2620",
     "postdst": "Albertslund",
     "cvr": "46491130",
-    "autnr": "VFUL-40111",
-    "forretningsomr": "Vvs-installatørvirksomhed",
+    "autnr": "VFUL-40111#KFUL-40175",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
   "VFUL-40106": {
@@ -133013,6 +133013,19 @@
     "cvr": "40860908",
     "autnr": "ASBE-40426",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "KFUL-40176": {
+    "navn": "Nordic Anlæg ApS",
+    "adresse1": "Regndalsvej 7",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4000",
+    "postdst": "Roskilde",
+    "cvr": "40502688",
+    "autnr": "KFUL-40176",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   }
 }

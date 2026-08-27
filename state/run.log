@@ -1516,3 +1516,11 @@
 2026-08-27 05:33:04,798 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-27 05:33:06,029 INFO Fandt 10232 rækker i registret.
 2026-08-27 05:33:06,051 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-27 06:56:11,844 INFO Henter register...
+2026-08-27 06:56:12,424 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-27 06:56:13,913 INFO Fandt 10233 rækker i registret.
+2026-08-27 06:56:13,935 INFO Fandt 2 NYE autorisation(er)!
+2026-08-27 06:56:13,935 INFO 2 NYE autorisation(er) fundet:
+  - Nordic Anlæg ApS (CVR 40502688) | Kloakmestervirksomhed | Roskilde | autnr KFUL-40176
+  - ALOK VVS ApS (CVR 46491130) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Albertslund | autnr VFUL-40111#KFUL-40175
+2026-08-27 06:56:14,505 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40111
