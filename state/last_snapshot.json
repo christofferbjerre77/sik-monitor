@@ -60180,11 +60180,11 @@
     "navn": "Fosgrau EL",
     "adresse1": "Tyttebærhøj 11",
     "adresse2": "",
-    "adresse3": "",
+    "adresse3": "Bruunshåb",
     "landkode": "DK",
     "postnr": "8800",
     "postdst": "Viborg",
-    "cvr": "40821066",
+    "cvr": "",
     "autnr": "EFBI-09199",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
@@ -108731,19 +108731,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "KFUL-84958": {
-    "navn": "Kjeldsen Kloak og Anlæg",
-    "adresse1": "Mølledammen 1",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5600",
-    "postdst": "Faaborg",
-    "cvr": "45033090",
-    "autnr": "KFUL-84958",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "ASBE-00034": {
     "navn": "Thomas Borup Laursen",
     "adresse1": "Industrivej 21A",
@@ -123770,19 +123757,6 @@
     "cvr": "45846997",
     "autnr": "ASBE-40108",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "EFUL-17235": {
-    "navn": "Biilmann El",
-    "adresse1": "Kongensgavevej 27, st. tv",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3200",
-    "postdst": "Helsinge",
-    "cvr": "45661199",
-    "autnr": "EFUL-17235",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-00856": {
