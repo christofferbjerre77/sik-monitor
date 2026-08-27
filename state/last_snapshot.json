@@ -18201,7 +18201,7 @@
   },
   "EFBI-07215": {
     "navn": "Vagn Skov",
-    "adresse1": "Sorgenfri 33B",
+    "adresse1": "Ring Søpark 27",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -30781,19 +30781,6 @@
     "cvr": "",
     "autnr": "KFBI-03578",
     "forretningsomr": "Kloakmestervirksomhed (bibesk.)",
-    "binavn": ""
-  },
-  "KFUL-02631": {
-    "navn": "MURERFIRMAET EJNAR NIELSEN ApS",
-    "adresse1": "Gl. Aalborgvej 205",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9632",
-    "postdst": "Møldrup",
-    "cvr": "12615876",
-    "autnr": "KFUL-02631",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFBI-07432": {
@@ -107379,19 +107366,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-16793#ASBE-00304": {
-    "navn": "MIB VVS ApS",
-    "adresse1": "Langelinie Allé 17",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2100",
-    "postdst": "København Ø",
-    "cvr": "44988526",
-    "autnr": "VFUL-16793#ASBE-00304",
-    "forretningsomr": "Vvs-installatørvirksomhed#Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "KFUL-16792": {
     "navn": "CC JORD- OG AUT. KLOAK ApS",
     "adresse1": "Jyllandsgade 12, 2. th",
@@ -132651,6 +132625,32 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-40217": {
+    "navn": "FANGEL BIOENERGI ApS",
+    "adresse1": "Dronning Sophies Allé 7A",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8660",
+    "postdst": "Skanderborg",
+    "cvr": "26262119",
+    "autnr": "EFUL-40217",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "ASBE-40427": {
+    "navn": "JOSK ApS",
+    "adresse1": "Næstved Landevej 94",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4230",
+    "postdst": "Skælskør",
+    "cvr": "34076316",
+    "autnr": "ASBE-40427",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "EFUL-40209": {
     "navn": "N.G.P TOBACCO ApS",
     "adresse1": "Industriparken 35",
@@ -133025,6 +133025,19 @@
     "postdst": "Roskilde",
     "cvr": "40502688",
     "autnr": "KFUL-40176",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "KFUL-40177": {
+    "navn": "ABC Kloak & Anlæg ApS",
+    "adresse1": "Brændmosevej 26",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2690",
+    "postdst": "Karlslunde",
+    "cvr": "45706737",
+    "autnr": "KFUL-40177",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   }

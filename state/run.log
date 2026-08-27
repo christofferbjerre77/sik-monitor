@@ -1524,3 +1524,12 @@
   - Nordic Anlæg ApS (CVR 40502688) | Kloakmestervirksomhed | Roskilde | autnr KFUL-40176
   - ALOK VVS ApS (CVR 46491130) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Albertslund | autnr VFUL-40111#KFUL-40175
 2026-08-27 06:56:14,505 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40111
+2026-08-27 10:47:07,940 INFO Henter register...
+2026-08-27 10:47:08,497 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-27 10:47:10,330 INFO Fandt 10234 rækker i registret.
+2026-08-27 10:47:10,355 INFO Fandt 3 NYE autorisation(er)!
+2026-08-27 10:47:10,355 INFO 3 NYE autorisation(er) fundet:
+  - JOSK ApS (CVR 34076316) | Autoriseret til nedrivning af asbest | Skælskør | autnr ASBE-40427
+  - FANGEL BIOENERGI ApS (CVR 26262119) | Elinstallatørvirksomhed | Skanderborg | autnr EFUL-40217
+  - ABC Kloak & Anlæg ApS (CVR 45706737) | Kloakmestervirksomhed | Karlslunde | autnr KFUL-40177
+2026-08-27 10:47:10,976 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-02631, VFUL-16793#ASBE-00304
