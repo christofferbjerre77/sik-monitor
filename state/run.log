@@ -1508,3 +1508,7 @@
 2026-08-27 04:46:42,401 INFO 1 NYE autorisation(er) fundet:
   - Loddestokken ApS (CVR 40860908) | Autoriseret til nedrivning af asbest | Ballerup | autnr ASBE-40426
 2026-08-27 04:46:43,046 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-10799
+2026-08-27 04:49:56,190 INFO Sender test-notifikation for at bekræfte webhook-forbindelsen...
+2026-08-27 04:49:56,191 INFO 1 NYE autorisation(er) fundet:
+  - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
+2026-08-27 04:49:56,482 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
