@@ -1538,3 +1538,7 @@
 2026-08-27 13:17:45,447 INFO Fandt 10232 rækker i registret.
 2026-08-27 13:17:45,478 INFO Ingen nye autorisationer siden sidste tjek.
 2026-08-27 13:17:45,478 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-17235, KFUL-84958
+2026-08-27 20:07:26,326 INFO Henter register...
+2026-08-27 20:07:27,028 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-27 20:07:28,694 INFO Fandt 10232 rækker i registret.
+2026-08-27 20:07:28,725 INFO Ingen nye autorisationer siden sidste tjek.
