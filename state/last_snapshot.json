@@ -70745,19 +70745,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-10799": {
-    "navn": "NIVERØD EL SERVICE ApS",
-    "adresse1": "Niverød Erhvervspark 10",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2990",
-    "postdst": "Nivå",
-    "cvr": "15128631",
-    "autnr": "EFUL-10799",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "VFUL-02306": {
     "navn": "DEWA VVS & ENERGI A/S",
     "adresse1": "Farsbøllevej 2",
@@ -96227,7 +96214,7 @@
   },
   "KFUL-15947": {
     "navn": "Entreprenør Jimmy Sørensen ApS",
-    "adresse1": "Broparken 28",
+    "adresse1": "Gl. Tangevej 5",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -133004,7 +132991,7 @@
   },
   "VFUL-40128": {
     "navn": "LK Varmeteknik ApS",
-    "adresse1": "Skolegade 30, 1. tv.",
+    "adresse1": "Skolegade 30, 1. tv",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -133013,6 +133000,19 @@
     "cvr": "45250954",
     "autnr": "VFUL-40128",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "ASBE-40426": {
+    "navn": "Loddestokken ApS",
+    "adresse1": "Bøndermosevej 8",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2750",
+    "postdst": "Ballerup",
+    "cvr": "40860908",
+    "autnr": "ASBE-40426",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   }
 }

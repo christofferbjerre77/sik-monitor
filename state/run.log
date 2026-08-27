@@ -1501,3 +1501,10 @@
 2026-08-26 17:58:29,095 INFO 1 NYE autorisation(er) fundet:
   - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
 2026-08-26 17:58:29,771 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
+2026-08-27 04:46:37,820 INFO Henter register...
+2026-08-27 04:46:40,784 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-27 04:46:42,370 INFO Fandt 10232 rækker i registret.
+2026-08-27 04:46:42,401 INFO Fandt 1 NYE autorisation(er)!
+2026-08-27 04:46:42,401 INFO 1 NYE autorisation(er) fundet:
+  - Loddestokken ApS (CVR 40860908) | Autoriseret til nedrivning af asbest | Ballerup | autnr ASBE-40426
+2026-08-27 04:46:43,046 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-10799
