@@ -1512,3 +1512,7 @@
 2026-08-27 04:49:56,191 INFO 1 NYE autorisation(er) fundet:
   - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
 2026-08-27 04:49:56,482 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
+2026-08-27 05:33:04,454 INFO Henter register...
+2026-08-27 05:33:04,798 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-27 05:33:06,029 INFO Fandt 10232 rækker i registret.
+2026-08-27 05:33:06,051 INFO Ingen nye autorisationer siden sidste tjek.
