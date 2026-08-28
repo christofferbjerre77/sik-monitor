@@ -121744,6 +121744,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "EFUL-17214": {
+    "navn": "EL Team sweden AB",
+    "adresse1": "Lufthavnsboulevarden 6",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2770",
+    "postdst": "Kastrup",
+    "cvr": "46465393",
+    "autnr": "EFUL-17214",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "KFUL-40023": {
     "navn": "Jysk Erhverv & Råhus A/S",
     "adresse1": "Baggeskærvej 25",

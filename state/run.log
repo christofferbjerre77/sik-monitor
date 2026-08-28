@@ -1579,3 +1579,9 @@
 2026-08-28 11:01:02,518 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-28 11:01:04,301 INFO Fandt 10230 rækker i registret.
 2026-08-28 11:01:04,331 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-28 12:53:33,415 INFO Henter register...
+2026-08-28 12:53:33,858 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-28 12:53:36,151 INFO Fandt 10231 rækker i registret.
+2026-08-28 12:53:36,181 INFO Fandt 1 NYE autorisation(er)!
+2026-08-28 12:53:36,181 INFO 1 NYE autorisation(er) fundet:
+  - EL Team sweden AB (CVR 46465393) | Elinstallatørvirksomhed | Kastrup | autnr EFUL-17214
