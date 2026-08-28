@@ -90533,12 +90533,12 @@
   },
   "VFUL-15338": {
     "navn": "Hvam Tekniq A/S",
-    "adresse1": "Industrivej Vest 4",
+    "adresse1": "Thrigesvej 6, 33",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "6600",
-    "postdst": "Vejen",
+    "postnr": "8600",
+    "postdst": "Silkeborg",
     "cvr": "41410884",
     "autnr": "VFUL-15338",
     "forretningsomr": "Vvs-installatørvirksomhed",
@@ -93146,12 +93146,12 @@
   },
   "EFUL-15667": {
     "navn": "Hvam Tekniq El A/S",
-    "adresse1": "Industrivej Vest 4",
+    "adresse1": "Thrigesvej 6, 33",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "6600",
-    "postdst": "Vejen",
+    "postnr": "8600",
+    "postdst": "Silkeborg",
     "cvr": "42330132",
     "autnr": "EFUL-15667",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -97120,19 +97120,6 @@
     "cvr": "33153236",
     "autnr": "VFUL-89911",
     "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
-  "EFUL-16072": {
-    "navn": "Sunotec PV Services",
-    "adresse1": "14 Filip Kutev str.",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "BG",
-    "postnr": "1407",
-    "postdst": "Sofia",
-    "cvr": "",
-    "autnr": "EFUL-16072",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "KFUL-16042": {
@@ -121755,19 +121742,6 @@
     "cvr": "45583287",
     "autnr": "ASBE-40056",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "EFUL-17214": {
-    "navn": "EL Team sweden AB",
-    "adresse1": "Lufthavnsboulevarden 6",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2770",
-    "postdst": "Kastrup",
-    "cvr": "46465393",
-    "autnr": "EFUL-17214",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "KFUL-40023": {
