@@ -133001,5 +133001,31 @@
     "autnr": "KFUL-40177",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
+  },
+  "KFUL-40178": {
+    "navn": "Entreprenør Daniel Madsen A/S",
+    "adresse1": "Vasen 4",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8950",
+    "postdst": "Ørsted",
+    "cvr": "44929740",
+    "autnr": "KFUL-40178",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40218": {
+    "navn": "Dahl Jensen ApS",
+    "adresse1": "Audebovej 16",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4300",
+    "postdst": "Holbæk",
+    "cvr": "43632337",
+    "autnr": "EFUL-40218",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }

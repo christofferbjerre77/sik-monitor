@@ -1585,3 +1585,10 @@
 2026-08-28 12:53:36,181 INFO Fandt 1 NYE autorisation(er)!
 2026-08-28 12:53:36,181 INFO 1 NYE autorisation(er) fundet:
   - EL Team sweden AB (CVR 46465393) | Elinstallatørvirksomhed | Kastrup | autnr EFUL-17214
+2026-08-28 17:33:33,459 INFO Henter register...
+2026-08-28 17:33:34,229 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-28 17:33:35,855 INFO Fandt 10233 rækker i registret.
+2026-08-28 17:33:35,884 INFO Fandt 2 NYE autorisation(er)!
+2026-08-28 17:33:35,885 INFO 2 NYE autorisation(er) fundet:
+  - Dahl Jensen ApS (CVR 43632337) | Elinstallatørvirksomhed | Holbæk | autnr EFUL-40218
+  - Entreprenør Daniel Madsen A/S (CVR 44929740) | Kloakmestervirksomhed | Ørsted | autnr KFUL-40178
