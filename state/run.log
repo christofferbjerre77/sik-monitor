@@ -1592,3 +1592,9 @@
 2026-08-28 17:33:35,885 INFO 2 NYE autorisation(er) fundet:
   - Dahl Jensen ApS (CVR 43632337) | Elinstallatørvirksomhed | Holbæk | autnr EFUL-40218
   - Entreprenør Daniel Madsen A/S (CVR 44929740) | Kloakmestervirksomhed | Ørsted | autnr KFUL-40178
+2026-08-28 21:52:09,189 INFO Henter register...
+2026-08-28 21:52:09,983 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-28 21:52:11,604 INFO Fandt 10234 rækker i registret.
+2026-08-28 21:52:11,636 INFO Fandt 1 NYE autorisation(er)!
+2026-08-28 21:52:11,636 INFO 1 NYE autorisation(er) fundet:
+  - Terra El -Teknik ApS (CVR 46692144) | Elinstallatørvirksomhed | Viby J | autnr EFUL-40219

@@ -133027,5 +133027,18 @@
     "autnr": "EFUL-40218",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40219": {
+    "navn": "Terra El -Teknik ApS",
+    "adresse1": "Kjærslund 27, 2. th.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8260",
+    "postdst": "Viby J",
+    "cvr": "46692144",
+    "autnr": "EFUL-40219",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
