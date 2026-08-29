@@ -1661,3 +1661,7 @@
 2026-08-29 01:32:05,631 INFO 1 NYE autorisation(er) fundet:
   - LARS VOSS ApS (CVR 27524192) | Kloakmestervirksomhed | Frederiksværk | autnr KFUL-04191
 2026-08-29 01:32:06,166 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-04191#ASBE-00611, VFUL-40008
+2026-08-29 01:46:56,782 INFO Henter register...
+2026-08-29 01:46:57,522 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-29 01:46:59,190 INFO Fandt 10233 rækker i registret.
+2026-08-29 01:46:59,216 INFO Ingen nye autorisationer siden sidste tjek.
