@@ -3667,7 +3667,7 @@
   },
   "VFUL-00580": {
     "navn": "LYSDAL VVS V/MICHAEL LYSDAL",
-    "adresse1": "Skrænten 7",
+    "adresse1": "Sorøvej 51",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -44082,7 +44082,7 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-04191#ASBE-00611": {
+  "KFUL-04191": {
     "navn": "LARS VOSS ApS",
     "adresse1": "Solvangsvej 13",
     "adresse2": "",
@@ -44091,8 +44091,8 @@
     "postnr": "3300",
     "postdst": "Frederiksværk",
     "cvr": "27524192",
-    "autnr": "KFUL-04191#ASBE-00611",
-    "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
+    "autnr": "KFUL-04191",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFBI-10197": {
@@ -78651,12 +78651,12 @@
   },
   "KFUL-12871": {
     "navn": "KILTIN A/S",
-    "adresse1": "Jydekrogen 4",
+    "adresse1": "Marielundvej 46E, 1.",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2625",
-    "postdst": "Vallensbæk",
+    "postnr": "2730",
+    "postdst": "Herlev",
     "cvr": "15000848",
     "autnr": "KFUL-12871",
     "forretningsomr": "Kloakmestervirksomhed",
@@ -80562,12 +80562,12 @@
   },
   "KFUL-13346": {
     "navn": "Tøjsbo Ejendomsservice ApS",
-    "adresse1": "Peder Skrams Vej 18",
+    "adresse1": "Svendborgvej 83",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "5220",
-    "postdst": "Odense SØ",
+    "postnr": "5260",
+    "postdst": "Odense S",
     "cvr": "37367567",
     "autnr": "KFUL-13346",
     "forretningsomr": "Kloakmestervirksomhed",
@@ -85580,12 +85580,12 @@
   },
   "EFUL-14429": {
     "navn": "KNUD JØRGENSEN ERHVERV ApS",
-    "adresse1": "Langgade 80",
+    "adresse1": "Chr. Nielsens Plads 8",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "7250",
-    "postdst": "Hejnsvig",
+    "postnr": "6690",
+    "postdst": "Gørding",
     "cvr": "19867579",
     "autnr": "EFUL-14429",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -94962,19 +94962,6 @@
     "cvr": "36081562",
     "autnr": "KFUL-15843",
     "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
-  "VFUL-40008": {
-    "navn": "Andel Energi A/S",
-    "adresse1": "Hovedgaden 36",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4520",
-    "postdst": "Svinninge",
-    "cvr": "24213528",
-    "autnr": "VFUL-40008",
-    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-15844": {
@@ -132912,7 +132899,7 @@
     "binavn": ""
   },
   "EFUL-40214": {
-    "navn": "Proheat",
+    "navn": "Pro-heat",
     "adresse1": "Korshøjvej 6",
     "adresse2": "",
     "adresse3": "",
@@ -133030,7 +133017,7 @@
   },
   "EFUL-40219": {
     "navn": "Terra El -Teknik ApS",
-    "adresse1": "Kjærslund 27, 2. th.",
+    "adresse1": "Kjærslund 27, 2. th",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
