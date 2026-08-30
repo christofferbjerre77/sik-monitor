@@ -2249,3 +2249,9 @@
 2026-08-30 14:16:52,806 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-30 14:16:54,170 INFO Fandt 10233 rækker i registret.
 2026-08-30 14:16:54,199 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-30 14:32:16,372 INFO Henter register...
+2026-08-30 14:32:16,935 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-30 14:32:18,201 INFO Fandt 10234 rækker i registret.
+2026-08-30 14:32:18,232 INFO Fandt 1 NYE autorisation(er)!
+2026-08-30 14:32:18,232 INFO 1 NYE autorisation(er) fundet:
+  - BM Entreprise ApS (CVR 46680707) | Vvs-installatørvirksomhed | Hvidovre | autnr VFUL-40129

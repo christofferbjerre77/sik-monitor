@@ -133027,5 +133027,18 @@
     "autnr": "EFUL-40219",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40129": {
+    "navn": "BM Entreprise ApS",
+    "adresse1": "Vigerslev Alle 376, st. 3.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2650",
+    "postdst": "Hvidovre",
+    "cvr": "46680707",
+    "autnr": "VFUL-40129",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
