@@ -133040,5 +133040,18 @@
     "autnr": "VFUL-40129",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40130": {
+    "navn": "AJ Varmeteknik",
+    "adresse1": "Gærdehuset 5, 1. mf.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2670",
+    "postdst": "Greve",
+    "cvr": "44381427",
+    "autnr": "VFUL-40130",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
