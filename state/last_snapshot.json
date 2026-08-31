@@ -132859,6 +132859,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "VDBO-40014": {
+    "navn": "vvs-assistance ApS",
+    "adresse1": "Njalsgade 21F, 2.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2300",
+    "postdst": "København S",
+    "cvr": "46293037",
+    "autnr": "VDBO-40014",
+    "forretningsomr": "Boliginstallatørvirksomhed, vand- og afløb",
+    "binavn": ""
+  },
   "VFUL-40126": {
     "navn": "Tryg VVS ApS",
     "adresse1": "Tavlekærsvej 37",
@@ -132935,6 +132948,19 @@
     "cvr": "46496787",
     "autnr": "EFUL-40216",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "VFUL-40131": {
+    "navn": "Construction & Consulting ApS",
+    "adresse1": "Kirstinehøj 34",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2770",
+    "postdst": "Kastrup",
+    "cvr": "46697588",
+    "autnr": "VFUL-40131",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "VFUL-40128": {
