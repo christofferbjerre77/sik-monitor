@@ -2672,3 +2672,7 @@
 2026-08-31 15:32:04,502 INFO Fandt 1 NYE autorisation(er)!
 2026-08-31 15:32:04,502 INFO 1 NYE autorisation(er) fundet:
   - RM VVS & BORETEKNIQ ApS (CVR 44081040) | Vvs-installatørvirksomhed | Holbæk | autnr VFUL-40133
+2026-08-31 15:47:03,191 INFO Henter register...
+2026-08-31 15:47:03,823 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 15:47:05,261 INFO Fandt 10239 rækker i registret.
+2026-08-31 15:47:05,293 INFO Ingen nye autorisationer siden sidste tjek.
