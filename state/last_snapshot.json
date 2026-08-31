@@ -23035,19 +23035,6 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "EFBI-06484": {
-    "navn": "Rothaus EL-Service",
-    "adresse1": "Pirupshvarrevej 11",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9492",
-    "postdst": "Blokhus",
-    "cvr": "",
-    "autnr": "EFBI-06484",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "EFBI-09678": {
     "navn": "Højmanns Elteknik",
     "adresse1": "Mosegårddsvej 10A, Gundsømagle",
@@ -132831,6 +132818,19 @@
     "cvr": "46660951",
     "autnr": "ASBE-40420",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "KFUL-40179": {
+    "navn": "Stenum Kloak & Entreprenør v/Henrik Thomsen",
+    "adresse1": "Løkkenvej 361",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9700",
+    "postdst": "Brønderslev",
+    "cvr": "14363777",
+    "autnr": "KFUL-40179",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "ASBE-40421": {
