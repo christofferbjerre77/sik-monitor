@@ -133092,5 +133092,18 @@
     "autnr": "VFUL-40132",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40133": {
+    "navn": "RM VVS & BORETEKNIQ ApS",
+    "adresse1": "Baldersvej 14",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4300",
+    "postdst": "Holbæk",
+    "cvr": "44081040",
+    "autnr": "VFUL-40133",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }

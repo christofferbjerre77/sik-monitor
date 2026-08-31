@@ -2666,3 +2666,9 @@
 2026-08-31 15:17:03,561 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-31 15:17:05,378 INFO Fandt 10238 rækker i registret.
 2026-08-31 15:17:05,407 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-31 15:32:01,817 INFO Henter register...
+2026-08-31 15:32:02,866 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 15:32:04,477 INFO Fandt 10239 rækker i registret.
+2026-08-31 15:32:04,502 INFO Fandt 1 NYE autorisation(er)!
+2026-08-31 15:32:04,502 INFO 1 NYE autorisation(er) fundet:
+  - RM VVS & BORETEKNIQ ApS (CVR 44081040) | Vvs-installatørvirksomhed | Holbæk | autnr VFUL-40133
