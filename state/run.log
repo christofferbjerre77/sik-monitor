@@ -2732,3 +2732,9 @@
 2026-08-31 19:17:03,895 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-31 19:17:05,842 INFO Fandt 10239 rækker i registret.
 2026-08-31 19:17:05,873 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-31 19:32:00,504 INFO Henter register...
+2026-08-31 19:32:00,913 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 19:32:02,232 INFO Fandt 10240 rækker i registret.
+2026-08-31 19:32:02,262 INFO Fandt 1 NYE autorisation(er)!
+2026-08-31 19:32:02,262 INFO 1 NYE autorisation(er) fundet:
+  - Moesgaard (CVR 29678170) | Kloakmestervirksomhed | Haderslev | autnr KFUL-40180

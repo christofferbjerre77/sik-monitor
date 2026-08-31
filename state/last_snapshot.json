@@ -133105,5 +133105,18 @@
     "autnr": "VFUL-40133",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "KFUL-40180": {
+    "navn": "Moesgaard",
+    "adresse1": "Aabenraa Landevej 155, st.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "6100",
+    "postdst": "Haderslev",
+    "cvr": "29678170",
+    "autnr": "KFUL-40180",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
   }
 }
