@@ -2738,3 +2738,7 @@
 2026-08-31 19:32:02,262 INFO Fandt 1 NYE autorisation(er)!
 2026-08-31 19:32:02,262 INFO 1 NYE autorisation(er) fundet:
   - Moesgaard (CVR 29678170) | Kloakmestervirksomhed | Haderslev | autnr KFUL-40180
+2026-08-31 19:47:02,666 INFO Henter register...
+2026-08-31 19:47:03,490 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 19:47:04,951 INFO Fandt 10240 rækker i registret.
+2026-08-31 19:47:04,980 INFO Ingen nye autorisationer siden sidste tjek.
