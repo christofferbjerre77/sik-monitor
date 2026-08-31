@@ -2516,3 +2516,7 @@
 2026-08-31 06:32:02,654 INFO 2 NYE autorisation(er) fundet:
   - vvs-assistance ApS (CVR 46293037) | Boliginstallatørvirksomhed, vand- og afløb | København S | autnr VDBO-40014
   - Construction & Consulting ApS (CVR 46697588) | Vvs-installatørvirksomhed | Kastrup | autnr VFUL-40131
+2026-08-31 06:46:55,887 INFO Henter register...
+2026-08-31 06:46:56,387 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 06:46:58,182 INFO Fandt 10237 rækker i registret.
+2026-08-31 06:46:58,210 INFO Ingen nye autorisationer siden sidste tjek.
