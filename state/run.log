@@ -2642,3 +2642,11 @@
 2026-08-31 14:02:21,433 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-08-31 14:02:22,807 INFO Fandt 10237 rækker i registret.
 2026-08-31 14:02:22,837 INFO Ingen nye autorisationer siden sidste tjek.
+2026-08-31 14:17:21,818 INFO Henter register...
+2026-08-31 14:17:22,288 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 14:17:25,382 INFO Fandt 10238 rækker i registret.
+2026-08-31 14:17:25,413 INFO Fandt 2 NYE autorisation(er)!
+2026-08-31 14:17:25,413 INFO 2 NYE autorisation(er) fundet:
+  - Kongstad Engineering (CVR 39659891) | Elinstallatørvirksomhed | Ullerslev | autnr EFUL-40220
+  - Raaby & Vinther ApS (CVR 44874911) | Vand- og afløbsvirksomhed#Elinstallatørvirksomhed | Hjørring | autnr VDVA-40009#EFUL-40089
+2026-08-31 14:17:25,872 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40089

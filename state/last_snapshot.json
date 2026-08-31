@@ -126385,7 +126385,7 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "EFUL-40089": {
+  "VDVA-40009#EFUL-40089": {
     "navn": "Raaby & Vinther ApS",
     "adresse1": "Lundbækvej 8",
     "adresse2": "",
@@ -126394,8 +126394,8 @@
     "postnr": "9800",
     "postdst": "Hjørring",
     "cvr": "44874911",
-    "autnr": "EFUL-40089",
-    "forretningsomr": "Elinstallatørvirksomhed",
+    "autnr": "VDVA-40009#EFUL-40089",
+    "forretningsomr": "Vand- og afløbsvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "VFUL-40051": {
@@ -132440,6 +132440,19 @@
     "postdst": "Lille Skensved",
     "cvr": "43369539",
     "autnr": "EFUL-40205",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40220": {
+    "navn": "Kongstad Engineering",
+    "adresse1": "Risingevej 9",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5540",
+    "postdst": "Ullerslev",
+    "cvr": "39659891",
+    "autnr": "EFUL-40220",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
