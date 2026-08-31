@@ -2618,3 +2618,7 @@
 2026-08-31 12:32:09,441 INFO 1 NYE autorisation(er) fundet:
   - Nicolais VVS ApS (CVR 46704274) | Vvs-installatørvirksomhed | Sønderborg | autnr VFUL-40132
 2026-08-31 12:32:10,102 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-40112
+2026-08-31 12:46:59,897 INFO Henter register...
+2026-08-31 12:47:00,546 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-08-31 12:47:02,497 INFO Fandt 10237 rækker i registret.
+2026-08-31 12:47:02,533 INFO Ingen nye autorisationer siden sidste tjek.
