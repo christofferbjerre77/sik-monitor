@@ -3006,3 +3006,10 @@
 2026-09-01 12:04:32,113 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-01 12:04:33,337 INFO Fandt 10242 rækker i registret.
 2026-09-01 12:04:33,368 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-01 12:28:37,776 INFO Henter register...
+2026-09-01 12:28:38,368 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 12:28:40,107 INFO Fandt 10244 rækker i registret.
+2026-09-01 12:28:40,139 INFO Fandt 2 NYE autorisation(er)!
+2026-09-01 12:28:40,139 INFO 2 NYE autorisation(er) fundet:
+  - Tømrermester Martin Jespersen ApS (CVR 40653295) | Autoriseret til nedrivning af asbest | Helsingør | autnr ASBE-00416
+  - Boje Elteknik ApS (CVR 46603486) | Elinstallatørvirksomhed | Køge | autnr EFUL-40221

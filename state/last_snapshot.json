@@ -114399,6 +114399,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "ASBE-00416": {
+    "navn": "Tømrermester Martin Jespersen ApS",
+    "adresse1": "Fabriksvej 5B",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3000",
+    "postdst": "Helsingør",
+    "cvr": "40653295",
+    "autnr": "ASBE-00416",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "EFUL-16947": {
     "navn": "Bjerrum El-teknik ApS",
     "adresse1": "Oktobervej 6",
@@ -132948,6 +132961,19 @@
     "cvr": "46697588",
     "autnr": "VFUL-40131",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40221": {
+    "navn": "Boje Elteknik ApS",
+    "adresse1": "Smedevænge 13",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4600",
+    "postdst": "Køge",
+    "cvr": "46603486",
+    "autnr": "EFUL-40221",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40429": {
