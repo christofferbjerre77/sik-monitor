@@ -132456,6 +132456,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-40222": {
+    "navn": "Elvion ApS",
+    "adresse1": "Horsbred 105",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2625",
+    "postdst": "Vallensbæk",
+    "cvr": "46274911",
+    "autnr": "EFUL-40222",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "EFUL-40206": {
     "navn": "Lunex El ApS",
     "adresse1": "Hovmarksvej 13",
