@@ -33721,7 +33721,7 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "VDVA-01336#EFUL-07070": {
+  "EFUL-07070": {
     "navn": "Lightera Denmark ApS",
     "adresse1": "Priorparken 680",
     "adresse2": "",
@@ -33730,8 +33730,8 @@
     "postnr": "2605",
     "postdst": "Brøndby",
     "cvr": "25305639",
-    "autnr": "VDVA-01336#EFUL-07070",
-    "forretningsomr": "Vand- og afløbsvirksomhed#Elinstallatørvirksomhed",
+    "autnr": "EFUL-07070",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "EFBI-07071": {
@@ -76233,7 +76233,7 @@
   },
   "KFUL-12290": {
     "navn": "CHRISTIAN RIBERHOLT ApS",
-    "adresse1": "Grågårdevej 4",
+    "adresse1": "Nyvangsvej 1",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -80259,19 +80259,6 @@
     "cvr": "21751200",
     "autnr": "KFUL-13271#ASBE-00405",
     "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "KFUL-13268": {
-    "navn": "Esbensen Nielsen A/S",
-    "adresse1": "Bjerrebyvej 94",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5700",
-    "postdst": "Svendborg",
-    "cvr": "38699318",
-    "autnr": "KFUL-13268",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "VFUL-13281": {
@@ -117170,12 +117157,12 @@
   },
   "VFUL-17021": {
     "navn": "REN VVS ApS",
-    "adresse1": "Maglebjergvej 6",
+    "adresse1": "Lyngbyvej 83A",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2800",
-    "postdst": "Kongens Lyngby",
+    "postnr": "2100",
+    "postdst": "København Ø",
     "cvr": "45429105",
     "autnr": "VFUL-17021",
     "forretningsomr": "Vvs-installatørvirksomhed",
