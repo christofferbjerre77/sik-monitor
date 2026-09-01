@@ -2817,3 +2817,7 @@
 2026-09-01 00:33:49,776 INFO 1 NYE autorisation(er) fundet:
   - Lightera Denmark ApS (CVR 25305639) | Elinstallatørvirksomhed | Brøndby | autnr EFUL-07070
 2026-09-01 00:33:50,329 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-13268, VDVA-01336#EFUL-07070
+2026-09-01 00:53:38,539 INFO Henter register...
+2026-09-01 00:53:39,027 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 00:53:40,736 INFO Fandt 10239 rækker i registret.
+2026-09-01 00:53:40,767 INFO Ingen nye autorisationer siden sidste tjek.
