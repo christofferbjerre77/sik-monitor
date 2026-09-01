@@ -2969,3 +2969,9 @@
 2026-09-01 10:03:25,544 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-01 10:03:26,760 INFO Fandt 10239 rækker i registret.
 2026-09-01 10:03:26,791 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-01 10:26:55,250 INFO Henter register...
+2026-09-01 10:26:55,685 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 10:26:57,590 INFO Fandt 10240 rækker i registret.
+2026-09-01 10:26:57,620 INFO Fandt 1 NYE autorisation(er)!
+2026-09-01 10:26:57,620 INFO 1 NYE autorisation(er) fundet:
+  - AUM Ejendomme ApS (CVR 42810258) | Autoriseret til nedrivning af asbest | Taastrup | autnr ASBE-40428

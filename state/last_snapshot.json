@@ -133105,5 +133105,18 @@
     "autnr": "KFUL-40180",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
+  },
+  "ASBE-40428": {
+    "navn": "AUM Ejendomme ApS",
+    "adresse1": "Selsmosevej 16",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2630",
+    "postdst": "Taastrup",
+    "cvr": "42810258",
+    "autnr": "ASBE-40428",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
