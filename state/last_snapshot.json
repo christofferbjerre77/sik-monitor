@@ -132950,6 +132950,19 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
+  "ASBE-40429": {
+    "navn": "Zimplex Facility ApS",
+    "adresse1": "Kværnvej 6",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4760",
+    "postdst": "Vordingborg",
+    "cvr": "46641752",
+    "autnr": "ASBE-40429",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "VFUL-40128": {
     "navn": "LK Varmeteknik ApS",
     "adresse1": "Skolegade 30, 1. tv",
@@ -133065,6 +133078,19 @@
     "cvr": "44381427",
     "autnr": "VFUL-40130",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-17321": {
+    "navn": "Fishingbeyond",
+    "adresse1": "Hyldevang 11",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3670",
+    "postdst": "Veksø Sjælland",
+    "cvr": "42560103",
+    "autnr": "KFUL-17321",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "VFUL-40132": {

@@ -2987,3 +2987,10 @@
 2026-09-01 11:03:29,519 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-01 11:03:31,132 INFO Fandt 10240 rækker i registret.
 2026-09-01 11:03:31,162 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-01 11:22:50,420 INFO Henter register...
+2026-09-01 11:22:51,444 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 11:22:53,945 INFO Fandt 10242 rækker i registret.
+2026-09-01 11:22:53,974 INFO Fandt 2 NYE autorisation(er)!
+2026-09-01 11:22:53,975 INFO 2 NYE autorisation(er) fundet:
+  - Zimplex Facility ApS (CVR 46641752) | Autoriseret til nedrivning af asbest | Vordingborg | autnr ASBE-40429
+  - Fishingbeyond (CVR 42560103) | Kloakmestervirksomhed | Veksø Sjælland | autnr KFUL-17321
