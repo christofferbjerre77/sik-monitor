@@ -3055,3 +3055,7 @@
 2026-09-01 14:54:12,862 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-01 14:54:14,470 INFO Fandt 10245 rækker i registret.
 2026-09-01 14:54:14,500 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-01 15:03:03,878 INFO Henter register...
+2026-09-01 15:03:04,753 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 15:03:06,616 INFO Fandt 10245 rækker i registret.
+2026-09-01 15:03:06,639 INFO Ingen nye autorisationer siden sidste tjek.
