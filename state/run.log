@@ -3013,3 +3013,7 @@
 2026-09-01 12:28:40,139 INFO 2 NYE autorisation(er) fundet:
   - Tømrermester Martin Jespersen ApS (CVR 40653295) | Autoriseret til nedrivning af asbest | Helsingør | autnr ASBE-00416
   - Boje Elteknik ApS (CVR 46603486) | Elinstallatørvirksomhed | Køge | autnr EFUL-40221
+2026-09-01 12:43:23,687 INFO Henter register...
+2026-09-01 12:43:24,451 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-01 12:43:25,992 INFO Fandt 10244 rækker i registret.
+2026-09-01 12:43:26,017 INFO Ingen nye autorisationer siden sidste tjek.
