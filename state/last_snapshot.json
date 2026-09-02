@@ -35192,12 +35192,12 @@
   },
   "KFUL-03697": {
     "navn": "KloakRotten V/Paw Bengtsson",
-    "adresse1": "Amagerbrogade 44, 1. tv",
+    "adresse1": "Spicas Alle 33",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2300",
-    "postdst": "København S",
+    "postnr": "2770",
+    "postdst": "Kastrup",
     "cvr": "29431744",
     "autnr": "KFUL-03697",
     "forretningsomr": "Kloakmestervirksomhed",
@@ -40587,7 +40587,7 @@
   },
   "KFUL-04023": {
     "navn": "OTTO STEFANSEN A/S",
-    "adresse1": "Fjordvejen 25B",
+    "adresse1": "Gørtlervej 1",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -86956,19 +86956,6 @@
     "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "KFUL-14737": {
-    "navn": "ULDUM HUSE A/S",
-    "adresse1": "Højskolebakken 26",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7171",
-    "postdst": "Uldum",
-    "cvr": "12225385",
-    "autnr": "KFUL-14737",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-14717": {
     "navn": "Skifte Kloak ApS",
     "adresse1": "Kjærgårds Vænge 3",
@@ -112797,19 +112784,6 @@
     "postdst": "Løgstør",
     "cvr": "25269195",
     "autnr": "ASBE-00288",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "ASBE-00300": {
-    "navn": "Træ-D ApS",
-    "adresse1": "Førslev Møllevej 33",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4690",
-    "postdst": "Haslev",
-    "cvr": "38394363",
-    "autnr": "ASBE-00300",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
