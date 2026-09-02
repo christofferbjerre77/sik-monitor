@@ -3356,3 +3356,7 @@
 2026-09-02 11:22:56,943 INFO 1 NYE autorisation(er) fundet:
   - DBD Engineering (CVR 33912323) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Tommerup | autnr VFUL-40134#EFUL-40162
 2026-09-02 11:22:57,469 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40162
+2026-09-02 11:35:45,203 INFO Henter register...
+2026-09-02 11:35:46,178 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-02 11:35:48,120 INFO Fandt 10242 rækker i registret.
+2026-09-02 11:35:48,142 INFO Ingen nye autorisationer siden sidste tjek.
