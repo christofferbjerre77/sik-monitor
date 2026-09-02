@@ -133144,5 +133144,18 @@
     "autnr": "ASBE-40428",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "EFUL-40223": {
+    "navn": "STRANDBY VARMEVÆRK AMBA",
+    "adresse1": "Ravmarken 8",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9970",
+    "postdst": "Strandby",
+    "cvr": "42615919",
+    "autnr": "EFUL-40223",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }

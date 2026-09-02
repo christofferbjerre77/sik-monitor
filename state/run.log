@@ -3368,3 +3368,9 @@
 2026-09-02 12:04:15,722 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-02 12:04:16,887 INFO Fandt 10242 rækker i registret.
 2026-09-02 12:04:16,919 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-02 12:29:21,804 INFO Henter register...
+2026-09-02 12:29:22,617 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-02 12:29:24,480 INFO Fandt 10243 rækker i registret.
+2026-09-02 12:29:24,506 INFO Fandt 1 NYE autorisation(er)!
+2026-09-02 12:29:24,506 INFO 1 NYE autorisation(er) fundet:
+  - STRANDBY VARMEVÆRK AMBA (CVR 42615919) | Elinstallatørvirksomhed | Strandby | autnr EFUL-40223
