@@ -3374,3 +3374,7 @@
 2026-09-02 12:29:24,506 INFO Fandt 1 NYE autorisation(er)!
 2026-09-02 12:29:24,506 INFO 1 NYE autorisation(er) fundet:
   - STRANDBY VARMEVÆRK AMBA (CVR 42615919) | Elinstallatørvirksomhed | Strandby | autnr EFUL-40223
+2026-09-02 12:44:19,283 INFO Henter register...
+2026-09-02 12:44:19,893 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-02 12:44:21,423 INFO Fandt 10243 rækker i registret.
+2026-09-02 12:44:21,453 INFO Ingen nye autorisationer siden sidste tjek.
