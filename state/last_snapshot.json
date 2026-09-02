@@ -133157,5 +133157,18 @@
     "autnr": "EFUL-40223",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "ASBE-40430": {
+    "navn": "BAAGØ KNUDSEN ApS",
+    "adresse1": "Skovhuse 3",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "6400",
+    "postdst": "Sønderborg",
+    "cvr": "31762715",
+    "autnr": "ASBE-40430",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }

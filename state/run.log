@@ -3386,3 +3386,9 @@
 2026-09-02 13:05:04,791 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-02 13:05:06,815 INFO Fandt 10243 rækker i registret.
 2026-09-02 13:05:06,849 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-02 13:24:22,634 INFO Henter register...
+2026-09-02 13:24:23,101 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-02 13:24:25,038 INFO Fandt 10244 rækker i registret.
+2026-09-02 13:24:25,067 INFO Fandt 1 NYE autorisation(er)!
+2026-09-02 13:24:25,067 INFO 1 NYE autorisation(er) fundet:
+  - BAAGØ KNUDSEN ApS (CVR 31762715) | Autoriseret til nedrivning af asbest | Sønderborg | autnr ASBE-40430
