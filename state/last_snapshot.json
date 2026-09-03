@@ -68236,19 +68236,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-05169": {
-    "navn": "VILDBJERG ENTREPRENØR & ANLÆG ApS",
-    "adresse1": "Røddingvej 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7480",
-    "postdst": "Vildbjerg",
-    "cvr": "29632766",
-    "autnr": "KFUL-05169",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFBI-10589": {
     "navn": "Per Nielsen",
     "adresse1": "Bygaden 40",
@@ -117077,6 +117064,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "ASBE-00605": {
+    "navn": "Hellum Miljøanalyse",
+    "adresse1": "Teglsøparken 15",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9700",
+    "postdst": "Brønderslev",
+    "cvr": "26962005",
+    "autnr": "ASBE-00605",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "VFUL-17018": {
     "navn": "Østergaard VVS",
     "adresse1": "Hellebakken 5",
@@ -133143,6 +133143,19 @@
     "cvr": "42810258",
     "autnr": "ASBE-40428",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "KFUL-40181": {
+    "navn": "Danica Entreprise ApS",
+    "adresse1": "Skovlytoften 14",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2840",
+    "postdst": "Holte",
+    "cvr": "46636678",
+    "autnr": "KFUL-40181",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFUL-40223": {
