@@ -3692,3 +3692,7 @@
   - Hellum Miljøanalyse (CVR 26962005) | Autoriseret til nedrivning af asbest | Brønderslev | autnr ASBE-00605
   - Danica Entreprise ApS (CVR 46636678) | Kloakmestervirksomhed | Holte | autnr KFUL-40181
 2026-09-03 11:21:43,730 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-05169
+2026-09-03 11:34:30,702 INFO Henter register...
+2026-09-03 11:34:31,193 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-03 11:34:32,843 INFO Fandt 10245 rækker i registret.
+2026-09-03 11:34:32,867 INFO Ingen nye autorisationer siden sidste tjek.
