@@ -110512,7 +110512,7 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "VFUL-16855#ASBE-00341": {
+  "VFUL-16855#KFUL-40182#ASBE-00341": {
     "navn": "Kramer Industri A/S",
     "adresse1": "Toftegårdsvej 42",
     "adresse2": "",
@@ -110521,8 +110521,8 @@
     "postnr": "8370",
     "postdst": "Hadsten",
     "cvr": "44160013",
-    "autnr": "VFUL-16855#ASBE-00341",
-    "forretningsomr": "Vvs-installatørvirksomhed#Autoriseret til nedrivning af asbest",
+    "autnr": "VFUL-16855#KFUL-40182#ASBE-00341",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
   "ASBE-00108": {
@@ -127449,19 +127449,6 @@
     "cvr": "44533308",
     "autnr": "ASBE-40250",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "VFUL-40063": {
-    "navn": "Arrøboe & Co. ApS",
-    "adresse1": "Bygvænget 6",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5540",
-    "postdst": "Ullerslev",
-    "cvr": "41211806",
-    "autnr": "VFUL-40063",
-    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-40124": {

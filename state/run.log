@@ -3704,3 +3704,10 @@
 2026-09-03 12:04:15,859 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-03 12:04:17,536 INFO Fandt 10245 rækker i registret.
 2026-09-03 12:04:17,564 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-03 12:29:34,409 INFO Henter register...
+2026-09-03 12:29:34,976 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-03 12:29:36,664 INFO Fandt 10244 rækker i registret.
+2026-09-03 12:29:36,689 INFO Fandt 1 NYE autorisation(er)!
+2026-09-03 12:29:36,689 INFO 1 NYE autorisation(er) fundet:
+  - Kramer Industri A/S (CVR 44160013) | Vvs-installatørvirksomhed#Kloakmestervirksomhed#Autoriseret til nedrivning af asbest | Hadsten | autnr VFUL-16855#KFUL-40182#ASBE-00341
+2026-09-03 12:29:39,190 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-16855#ASBE-00341, VFUL-40063
