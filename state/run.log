@@ -3711,3 +3711,7 @@
 2026-09-03 12:29:36,689 INFO 1 NYE autorisation(er) fundet:
   - Kramer Industri A/S (CVR 44160013) | Vvs-installatørvirksomhed#Kloakmestervirksomhed#Autoriseret til nedrivning af asbest | Hadsten | autnr VFUL-16855#KFUL-40182#ASBE-00341
 2026-09-03 12:29:39,190 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-16855#ASBE-00341, VFUL-40063
+2026-09-03 12:44:47,872 INFO Henter register...
+2026-09-03 12:44:48,221 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-03 12:44:49,267 INFO Fandt 10244 rækker i registret.
+2026-09-03 12:44:49,296 INFO Ingen nye autorisationer siden sidste tjek.
