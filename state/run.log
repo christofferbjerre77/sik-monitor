@@ -3746,3 +3746,7 @@
 2026-09-03 14:25:23,119 INFO 1 NYE autorisation(er) fundet:
   - Ilderhede kloak og anlæg ApS (CVR 46695410) | Kloakmestervirksomhed | Sønder Felding | autnr KFUL-40183
 2026-09-03 14:25:24,387 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-84986
+2026-09-03 14:36:28,232 INFO Henter register...
+2026-09-03 14:36:28,701 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-03 14:36:30,640 INFO Fandt 10244 rækker i registret.
+2026-09-03 14:36:30,671 INFO Ingen nye autorisationer siden sidste tjek.
