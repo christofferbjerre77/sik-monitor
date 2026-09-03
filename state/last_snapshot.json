@@ -106560,19 +106560,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-84986": {
-    "navn": "Ilderhede Kloak-& Spuleservice v/Michael Guldbrandt Pagaard",
-    "adresse1": "Vardevej 156",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7280",
-    "postdst": "Sønder Felding",
-    "cvr": "25867270",
-    "autnr": "KFUL-84986",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-16737": {
     "navn": "Kloaktilsyn ApS",
     "adresse1": "Kirkebjerg Allé 145",
@@ -132818,6 +132805,19 @@
     "cvr": "46676262",
     "autnr": "EFUL-40213",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-40183": {
+    "navn": "Ilderhede kloak og anlæg ApS",
+    "adresse1": "Industrivej 14",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7280",
+    "postdst": "Sønder Felding",
+    "cvr": "46695410",
+    "autnr": "KFUL-40183",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "VDBO-40014": {
