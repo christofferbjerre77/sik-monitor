@@ -4102,3 +4102,7 @@
 2026-09-04 12:28:37,499 INFO 1 NYE autorisation(er) fundet:
   - CERA ApS (CVR 33244851) | Vvs-installatørvirksomhed#Boliginstallatørvirksomhed, vand- og afløb#Elinstallatørvirksomhed#Autoriseret til nedrivning af asbest | Frederiksberg | autnr VFUL-13604#VDBO-16807#EFUL-13600#ASBE-40431
 2026-09-04 12:28:38,007 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-13604#VDBO-16807#EFUL-13600
+2026-09-04 12:43:31,026 INFO Henter register...
+2026-09-04 12:43:31,375 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-04 12:43:32,553 INFO Fandt 10242 rækker i registret.
+2026-09-04 12:43:32,585 INFO Ingen nye autorisationer siden sidste tjek.
