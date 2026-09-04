@@ -133131,5 +133131,18 @@
     "autnr": "ASBE-40430",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "VFUL-40135": {
+    "navn": "NOLTE'S",
+    "adresse1": "Bryggerivej 18",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4622",
+    "postdst": "Havdrup",
+    "cvr": "37651834",
+    "autnr": "VFUL-40135",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
