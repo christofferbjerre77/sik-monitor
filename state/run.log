@@ -4119,3 +4119,7 @@
 2026-09-04 13:23:23,670 INFO Fandt 10241 rækker i registret.
 2026-09-04 13:23:23,702 INFO Ingen nye autorisationer siden sidste tjek.
 2026-09-04 13:23:23,702 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-16886
+2026-09-04 13:36:07,786 INFO Henter register...
+2026-09-04 13:36:08,612 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-04 13:36:10,437 INFO Fandt 10241 rækker i registret.
+2026-09-04 13:36:10,468 INFO Ingen nye autorisationer siden sidste tjek.
