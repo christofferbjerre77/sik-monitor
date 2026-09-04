@@ -4011,3 +4011,9 @@
 2026-09-04 07:03:43,692 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-04 07:03:45,868 INFO Fandt 10240 rækker i registret.
 2026-09-04 07:03:45,898 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-04 07:23:05,738 INFO Henter register...
+2026-09-04 07:23:06,769 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-04 07:23:09,440 INFO Fandt 10241 rækker i registret.
+2026-09-04 07:23:09,463 INFO Fandt 1 NYE autorisation(er)!
+2026-09-04 07:23:09,463 INFO 1 NYE autorisation(er) fundet:
+  - BB Kloak & VVS ApS (CVR 42464309) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Skærbæk | autnr VFUL-15899#KFUL-15902

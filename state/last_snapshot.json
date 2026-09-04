@@ -95523,6 +95523,19 @@
     "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "VFUL-15899#KFUL-15902": {
+    "navn": "BB Kloak & VVS ApS",
+    "adresse1": "Nissumsgade 7A",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "6780",
+    "postdst": "Skærbæk",
+    "cvr": "42464309",
+    "autnr": "VFUL-15899#KFUL-15902",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
+    "binavn": ""
+  },
   "VFUL-15908": {
     "navn": "Smedemesteren",
     "adresse1": "Sennelsvej 66",
