@@ -26352,12 +26352,12 @@
   },
   "EFBI-07431": {
     "navn": "Thomas Meldgaard Sig",
-    "adresse1": "Raisløkke 3",
+    "adresse1": "Mejlbyvej 30",
     "adresse2": "",
-    "adresse3": "Mellerup",
+    "adresse3": "",
     "landkode": "DK",
-    "postnr": "8900",
-    "postdst": "Randers C",
+    "postnr": "8981",
+    "postdst": "Spentrup",
     "cvr": "",
     "autnr": "EFBI-07431",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
@@ -94858,6 +94858,19 @@
     "cvr": "36081562",
     "autnr": "KFUL-15843",
     "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "VFUL-40008": {
+    "navn": "Andel Energi A/S",
+    "adresse1": "Hovedgaden 36",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4520",
+    "postdst": "Svinninge",
+    "cvr": "24213528",
+    "autnr": "VFUL-40008",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-15844": {
