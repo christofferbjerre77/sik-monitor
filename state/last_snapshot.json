@@ -4732,7 +4732,7 @@
     "binavn": ""
   },
   "VFUL-00317": {
-    "navn": "IB NORDMARK VVS A/S",
+    "navn": "IB NORDMARK NIELSEN A/S",
     "adresse1": "Glumsø Erhvervspark 3",
     "adresse2": "",
     "adresse3": "",
@@ -20108,19 +20108,6 @@
     "cvr": "",
     "autnr": "EFBI-06312",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
-  "EFUL-08939": {
-    "navn": "ISS FACILITY SERVICES A/S",
-    "adresse1": "Gyngemose Parkvej 50",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2860",
-    "postdst": "Søborg",
-    "cvr": "14406042",
-    "autnr": "EFUL-08939",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "EFBI-09231": {
@@ -74294,19 +74281,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-11653": {
-    "navn": "Danica Entreprise",
-    "adresse1": "Skovlytoften 14, st.",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2840",
-    "postdst": "Holte",
-    "cvr": "28898827",
-    "autnr": "KFUL-11653",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFUL-11662": {
     "navn": "Møller's El A/S",
     "adresse1": "Frem 14",
@@ -75089,12 +75063,12 @@
   },
   "EFUL-11874": {
     "navn": "KL-INSTALLATION ApS",
-    "adresse1": "Nærumgårdsvej 65, st.",
+    "adresse1": "Bygtoften 15",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2850",
-    "postdst": "Nærum",
+    "postnr": "2800",
+    "postdst": "Kongens Lyngby",
     "cvr": "36203080",
     "autnr": "EFUL-11874",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -92156,19 +92130,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFUL-15577": {
-    "navn": "Adler Teknik v. Jesper Adler",
-    "adresse1": "Myremosevej 21",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2990",
-    "postdst": "Nivå",
-    "cvr": "38381660",
-    "autnr": "EFUL-15577",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-15549": {
     "navn": "Erik Sørensen",
     "adresse1": "Lemmingvej 10",
@@ -97007,7 +96968,7 @@
   },
   "KFUL-89881": {
     "navn": "NK Anlæg",
-    "adresse1": "Skydsbjergvej 26",
+    "adresse1": "Harndrup Skov 23",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -103481,7 +103442,7 @@
   },
   "EFUL-89728": {
     "navn": "Maskinel ApS",
-    "adresse1": "Andkærvej 19",
+    "adresse1": "Karetmagervej 19L",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -117051,19 +117012,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "ASBE-00605": {
-    "navn": "Hellum Miljøanalyse",
-    "adresse1": "Teglsøparken 15",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9700",
-    "postdst": "Brønderslev",
-    "cvr": "26962005",
-    "autnr": "ASBE-00605",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "VFUL-17018": {
     "navn": "Østergaard VVS",
     "adresse1": "Hellebakken 5",
@@ -117339,12 +117287,12 @@
   },
   "EFUL-17026": {
     "navn": "DEA el-service ApS",
-    "adresse1": "Peter Bangs Vej 229, 1. tv",
+    "adresse1": "Vallensbækvej 65",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2500",
-    "postdst": "Valby",
+    "postnr": "2625",
+    "postdst": "Vallensbæk",
     "cvr": "45500438",
     "autnr": "EFUL-17026",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -130976,12 +130924,12 @@
   },
   "ASBE-40373": {
     "navn": "Olsen Nedrivning & Entreprise ApS",
-    "adresse1": "Ny Holstedvej 7",
+    "adresse1": "Frydenlundsvej 30",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "4700",
-    "postdst": "Næstved",
+    "postnr": "2950",
+    "postdst": "Vedbæk",
     "cvr": "46477707",
     "autnr": "ASBE-40373",
     "forretningsomr": "Autoriseret til nedrivning af asbest",

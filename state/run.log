@@ -3930,3 +3930,8 @@
 2026-09-04 02:03:03,457 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-04 02:03:05,188 INFO Fandt 10244 rækker i registret.
 2026-09-04 02:03:05,217 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-04 02:22:26,997 INFO Henter register...
+2026-09-04 02:22:27,599 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-04 02:22:29,965 INFO Fandt 10240 rækker i registret.
+2026-09-04 02:22:29,995 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-04 02:22:29,996 INFO 4 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00605, EFUL-08939, EFUL-15577, KFUL-11653
