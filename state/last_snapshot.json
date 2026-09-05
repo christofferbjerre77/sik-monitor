@@ -75243,19 +75243,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-11947": {
-    "navn": "DKB - DANSK KLOAK OG BELÆGNING ApS",
-    "adresse1": "Vestre Tingskovvej 18",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8310",
-    "postdst": "Tranbjerg J",
-    "cvr": "35818723",
-    "autnr": "KFUL-11947",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFUL-11951": {
     "navn": "SCHURMANN INSTALLATION",
     "adresse1": "Remmebakken 23",
@@ -131361,19 +131348,6 @@
     "postdst": "Gørlev",
     "cvr": "40833307",
     "autnr": "ASBE-40396",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "ASBE-40386": {
-    "navn": "Skovbæk tømrer og snedker v/Thomas Wacherhausen",
-    "adresse1": "Tulstrupvej 99",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8680",
-    "postdst": "Ry",
-    "cvr": "33010648",
-    "autnr": "ASBE-40386",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
