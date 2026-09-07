@@ -5172,3 +5172,9 @@
 2026-09-07 08:03:54,206 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-07 08:03:55,344 INFO Fandt 10241 rækker i registret.
 2026-09-07 08:03:55,375 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-07 08:26:34,043 INFO Henter register...
+2026-09-07 08:26:34,447 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-07 08:26:35,647 INFO Fandt 10242 rækker i registret.
+2026-09-07 08:26:35,678 INFO Fandt 1 NYE autorisation(er)!
+2026-09-07 08:26:35,678 INFO 1 NYE autorisation(er) fundet:
+  - KORSGÅRD EL (CVR 41040238) | Elinstallatørvirksomhed | Skjern | autnr EFUL-40224

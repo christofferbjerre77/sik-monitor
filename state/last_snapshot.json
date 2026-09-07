@@ -133131,5 +133131,18 @@
     "autnr": "VFUL-40135",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40224": {
+    "navn": "KORSGÅRD EL",
+    "adresse1": "Lysgårdvej 4",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "6900",
+    "postdst": "Skjern",
+    "cvr": "41040238",
+    "autnr": "EFUL-40224",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
