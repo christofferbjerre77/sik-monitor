@@ -5209,3 +5209,10 @@
 2026-09-07 10:03:05,510 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-07 10:03:07,022 INFO Fandt 10244 rækker i registret.
 2026-09-07 10:03:07,051 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-07 10:24:24,884 INFO Henter register...
+2026-09-07 10:24:25,473 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-07 10:24:27,553 INFO Fandt 10244 rækker i registret.
+2026-09-07 10:24:27,584 INFO Fandt 1 NYE autorisation(er)!
+2026-09-07 10:24:27,585 INFO 1 NYE autorisation(er) fundet:
+  - THAAGAARD ENTREPENØR & VVS (CVR 38008595) | Vvs-installatørvirksomhed#Kloakmestervirksomhed#Autoriseret til nedrivning af asbest | Knebel | autnr VFUL-40031#KFUL-16470#ASBE-40433
+2026-09-07 10:24:28,091 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40031#KFUL-16470
