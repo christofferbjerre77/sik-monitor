@@ -5216,3 +5216,7 @@
 2026-09-07 10:24:27,585 INFO 1 NYE autorisation(er) fundet:
   - THAAGAARD ENTREPENØR & VVS (CVR 38008595) | Vvs-installatørvirksomhed#Kloakmestervirksomhed#Autoriseret til nedrivning af asbest | Knebel | autnr VFUL-40031#KFUL-16470#ASBE-40433
 2026-09-07 10:24:28,091 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40031#KFUL-16470
+2026-09-07 10:36:26,264 INFO Henter register...
+2026-09-07 10:36:26,724 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-07 10:36:27,850 INFO Fandt 10244 rækker i registret.
+2026-09-07 10:36:27,881 INFO Ingen nye autorisationer siden sidste tjek.
