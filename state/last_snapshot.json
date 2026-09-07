@@ -133144,5 +133144,31 @@
     "autnr": "EFUL-40224",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40225": {
+    "navn": "SC Electric ApS",
+    "adresse1": "Libavej 24",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5853",
+    "postdst": "Ørbæk",
+    "cvr": "46715233",
+    "autnr": "EFUL-40225",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40226": {
+    "navn": "Dansk Boligrenovering ApS",
+    "adresse1": "Østerbro 33",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9800",
+    "postdst": "Hjørring",
+    "cvr": "44430592",
+    "autnr": "EFUL-40226",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
