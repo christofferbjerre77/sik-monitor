@@ -132846,6 +132846,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "ASBE-40432": {
+    "navn": "John's Haveservice + Asbest ansvarlige",
+    "adresse1": "Bøtterupvej 9",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3100",
+    "postdst": "Hornbæk",
+    "cvr": "10973171",
+    "autnr": "ASBE-40432",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "VFUL-40131": {
     "navn": "Construction & Consulting ApS",
     "adresse1": "Kirstinehøj 34",

@@ -5154,3 +5154,9 @@
 2026-09-07 07:05:24,659 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-07 07:05:27,440 INFO Fandt 10240 rækker i registret.
 2026-09-07 07:05:27,469 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-07 07:25:38,942 INFO Henter register...
+2026-09-07 07:25:39,404 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-07 07:25:41,190 INFO Fandt 10241 rækker i registret.
+2026-09-07 07:25:41,217 INFO Fandt 1 NYE autorisation(er)!
+2026-09-07 07:25:41,218 INFO 1 NYE autorisation(er) fundet:
+  - John's Haveservice + Asbest ansvarlige (CVR 10973171) | Autoriseret til nedrivning af asbest | Hornbæk | autnr ASBE-40432
