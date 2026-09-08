@@ -133209,5 +133209,18 @@
     "autnr": "VFUL-40136",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40138": {
+    "navn": "Niva Byg & Montage ApS",
+    "adresse1": "Hovedgaden 532D",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2640",
+    "postdst": "Hedehusene",
+    "cvr": "40827889",
+    "autnr": "VFUL-40138",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }

@@ -5634,3 +5634,9 @@
 2026-09-08 12:04:46,846 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-08 12:04:48,391 INFO Fandt 10247 rækker i registret.
 2026-09-08 12:04:48,421 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-08 12:30:01,062 INFO Henter register...
+2026-09-08 12:30:01,542 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-08 12:30:03,195 INFO Fandt 10248 rækker i registret.
+2026-09-08 12:30:03,213 INFO Fandt 1 NYE autorisation(er)!
+2026-09-08 12:30:03,214 INFO 1 NYE autorisation(er) fundet:
+  - Niva Byg & Montage ApS (CVR 40827889) | Vvs-installatørvirksomhed | Hedehusene | autnr VFUL-40138
