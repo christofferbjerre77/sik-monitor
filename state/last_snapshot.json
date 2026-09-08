@@ -27923,19 +27923,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "VFUL-01210": {
-    "navn": "KM VVS A/S",
-    "adresse1": "Olgasvej 7",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2970",
-    "postdst": "Hørsholm",
-    "cvr": "28121776",
-    "autnr": "VFUL-01210",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "EFBI-10183": {
     "navn": "Kok-El",
     "adresse1": "Skovbrynet 1",
@@ -60410,7 +60397,7 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "VFUL-15953#EFUL-08565": {
+  "EFUL-08565": {
     "navn": "RISBJERG Installation & Service A/S",
     "adresse1": "Ellehaven 4A",
     "adresse2": "",
@@ -60419,8 +60406,8 @@
     "postnr": "5900",
     "postdst": "Rudkøbing",
     "cvr": "33239955",
-    "autnr": "VFUL-15953#EFUL-08565",
-    "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
+    "autnr": "EFUL-08565",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "EFBI-08405": {
