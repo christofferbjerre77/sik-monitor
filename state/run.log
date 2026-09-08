@@ -5612,3 +5612,13 @@
 2026-09-08 11:03:30,007 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-08 11:03:31,472 INFO Fandt 10244 rækker i registret.
 2026-09-08 11:03:31,503 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-08 11:23:20,625 INFO Henter register...
+2026-09-08 11:23:21,172 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-08 11:23:23,299 INFO Fandt 10247 rækker i registret.
+2026-09-08 11:23:23,330 INFO Fandt 4 NYE autorisation(er)!
+2026-09-08 11:23:23,330 INFO 4 NYE autorisation(er) fundet:
+  - Hellum Miljøanalyse (CVR 26962005) | Autoriseret til nedrivning af asbest | Brønderslev | autnr ASBE-00605
+  - CC TEKNIK ApS (CVR 31575036) | Elinstallatørvirksomhed | Ringe | autnr EFUL-10409
+  - WINDPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA (CVR ) | Elinstallatørvirksomhed | Bialogard | autnr EFUL-17257
+  - BOXTEC ApS (CVR 38102826) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Hedehusene | autnr VFUL-40137#EFUL-40183
+2026-09-08 11:23:24,157 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40183

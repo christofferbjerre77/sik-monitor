@@ -46253,6 +46253,19 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-10409": {
+    "navn": "CC TEKNIK ApS",
+    "adresse1": "Selagervej 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5750",
+    "postdst": "Ringe",
+    "cvr": "31575036",
+    "autnr": "EFUL-10409",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "KFUL-04402#ASBE-40366": {
     "navn": "MARIENDALGÅRDS ENTREPRENØR ApS",
     "adresse1": "Kejlstrupvej 9",
@@ -116999,6 +117012,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "ASBE-00605": {
+    "navn": "Hellum Miljøanalyse",
+    "adresse1": "Teglsøparken 15",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9700",
+    "postdst": "Brønderslev",
+    "cvr": "26962005",
+    "autnr": "ASBE-00605",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "VFUL-17018": {
     "navn": "Østergaard VVS",
     "adresse1": "Hellebakken 5",
@@ -124981,6 +125007,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-17257": {
+    "navn": "WINDPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "adresse1": "Plac Wolnosci 5",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "PL",
+    "postnr": "78-230",
+    "postdst": "Bialogard",
+    "cvr": "",
+    "autnr": "EFUL-17257",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "ASBE-40161": {
     "navn": "Sjællands Asbestsanering",
     "adresse1": "Thorsager 10",
@@ -131416,7 +131455,7 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "EFUL-40183": {
+  "VFUL-40137#EFUL-40183": {
     "navn": "BOXTEC ApS",
     "adresse1": "Tingstedvej 47",
     "adresse2": "",
@@ -131425,8 +131464,8 @@
     "postnr": "2640",
     "postdst": "Hedehusene",
     "cvr": "38102826",
-    "autnr": "EFUL-40183",
-    "forretningsomr": "Elinstallatørvirksomhed",
+    "autnr": "VFUL-40137#EFUL-40183",
+    "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "EFUL-40184": {
