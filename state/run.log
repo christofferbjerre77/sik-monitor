@@ -5561,3 +5561,10 @@
 2026-09-08 08:03:22,643 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
 2026-09-08 08:03:24,239 INFO Fandt 10244 rækker i registret.
 2026-09-08 08:03:24,267 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-08 08:26:05,000 INFO Henter register...
+2026-09-08 08:26:05,916 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-08 08:26:07,535 INFO Fandt 10244 rækker i registret.
+2026-09-08 08:26:07,566 INFO Fandt 1 NYE autorisation(er)!
+2026-09-08 08:26:07,566 INFO 1 NYE autorisation(er) fundet:
+  - RISBJERG Installation & Service A/S (CVR 33239955) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Rudkøbing | autnr VFUL-15953#EFUL-08565
+2026-09-08 08:26:08,247 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-08565
