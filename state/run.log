@@ -5439,3 +5439,7 @@
 2026-09-08 00:34:04,656 INFO 1 NYE autorisation(er) fundet:
   - RISBJERG Installation & Service A/S (CVR 33239955) | Elinstallatørvirksomhed | Rudkøbing | autnr EFUL-08565
 2026-09-08 00:34:05,014 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-01210, VFUL-15953#EFUL-08565
+2026-09-08 00:54:21,690 INFO Henter register...
+2026-09-08 00:54:22,244 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-08 00:54:24,304 INFO Fandt 10243 rækker i registret.
+2026-09-08 00:54:24,334 INFO Ingen nye autorisationer siden sidste tjek.
