@@ -133157,5 +133157,18 @@
     "autnr": "EFUL-40226",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40136": {
+    "navn": "Silvert VVS",
+    "adresse1": "Lokesvej 1",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4060",
+    "postdst": "Kirke Såby",
+    "cvr": "46258215",
+    "autnr": "VFUL-40136",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }
