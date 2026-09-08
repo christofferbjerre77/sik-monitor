@@ -5622,3 +5622,7 @@
   - WINDPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA (CVR ) | Elinstallatørvirksomhed | Bialogard | autnr EFUL-17257
   - BOXTEC ApS (CVR 38102826) | Vvs-installatørvirksomhed#Elinstallatørvirksomhed | Hedehusene | autnr VFUL-40137#EFUL-40183
 2026-09-08 11:23:24,157 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40183
+2026-09-08 11:36:19,728 INFO Henter register...
+2026-09-08 11:36:20,409 WARNING SSL-certifikatverifikation fejlede (kendt problem med sik.dk's certifikatkæde) - falder tilbage til ikke-verificeret HTTPS.
+2026-09-08 11:36:22,063 INFO Fandt 10247 rækker i registret.
+2026-09-08 11:36:22,092 INFO Ingen nye autorisationer siden sidste tjek.
