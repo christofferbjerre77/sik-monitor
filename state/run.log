@@ -6020,3 +6020,6 @@
 2026-09-09 13:25:33,158 INFO Fandt 1 NYE autorisation(er)!
 2026-09-09 13:25:33,158 INFO 1 NYE autorisation(er) fundet:
   - Grøn Asbestfri ApS (CVR 46261429) | Autoriseret til nedrivning af asbest | Herfølge | autnr ASBE-40434
+2026-09-09 13:39:05,766 INFO Henter register...
+2026-09-09 13:39:07,017 INFO Fandt 10247 rækker i registret.
+2026-09-09 13:39:07,040 INFO Ingen nye autorisationer siden sidste tjek.
