@@ -6097,3 +6097,6 @@
 2026-09-09 19:21:47,266 INFO Fandt 1 NYE autorisation(er)!
 2026-09-09 19:21:47,266 INFO 1 NYE autorisation(er) fundet:
   - Oudrup El ApS (CVR 46752783) | Elinstallatørvirksomhed | Middelfart | autnr EFUL-40227
+2026-09-09 19:33:48,343 INFO Henter register...
+2026-09-09 19:33:50,081 INFO Fandt 10248 rækker i registret.
+2026-09-09 19:33:50,111 INFO Ingen nye autorisationer siden sidste tjek.
