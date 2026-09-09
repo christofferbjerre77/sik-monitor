@@ -133196,5 +133196,18 @@
     "autnr": "VFUL-40138",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "ASBE-40434": {
+    "navn": "Grøn Asbestfri ApS",
+    "adresse1": "Rugvænget 12",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4681",
+    "postdst": "Herfølge",
+    "cvr": "46261429",
+    "autnr": "ASBE-40434",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
