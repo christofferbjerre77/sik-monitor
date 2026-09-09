@@ -133209,5 +133209,18 @@
     "autnr": "ASBE-40434",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "EFUL-40227": {
+    "navn": "Oudrup El ApS",
+    "adresse1": "Toppen 12",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5500",
+    "postdst": "Middelfart",
+    "cvr": "46752783",
+    "autnr": "EFUL-40227",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
