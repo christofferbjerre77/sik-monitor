@@ -116505,19 +116505,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "KFUL-17004": {
-    "navn": "PL Entreprenør ApS",
-    "adresse1": "Døjringevej 45",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4180",
-    "postdst": "Sorø",
-    "cvr": "42517542",
-    "autnr": "KFUL-17004",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-17005": {
     "navn": "Dnemt.com ApS",
     "adresse1": "Solbrinken 13",
