@@ -6035,3 +6035,6 @@
 2026-09-09 14:24:16,939 INFO 1 NYE autorisation(er) fundet:
   - NexByg ApS (CVR 46009657) | Vand- og afløbsvirksomhed#Autoriseret til nedrivning af asbest | Augustenborg | autnr VDVA-17277#ASBE-40435
 2026-09-09 14:24:17,271 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VDVA-17277
+2026-09-09 14:38:40,261 INFO Henter register...
+2026-09-09 14:38:42,337 INFO Fandt 10247 rækker i registret.
+2026-09-09 14:38:42,369 INFO Ingen nye autorisationer siden sidste tjek.
