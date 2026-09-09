@@ -6118,3 +6118,8 @@
 2026-09-09 21:03:02,112 INFO Henter register...
 2026-09-09 21:03:03,243 INFO Fandt 10248 rækker i registret.
 2026-09-09 21:03:03,273 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-09 21:21:37,702 INFO Henter register...
+2026-09-09 21:21:40,481 INFO Fandt 10249 rækker i registret.
+2026-09-09 21:21:40,512 INFO Fandt 1 NYE autorisation(er)!
+2026-09-09 21:21:40,512 INFO 1 NYE autorisation(er) fundet:
+  - Altihus ApS (CVR 40156976) | Autoriseret til nedrivning af asbest | Holmegaard | autnr ASBE-40436

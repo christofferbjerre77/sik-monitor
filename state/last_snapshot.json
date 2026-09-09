@@ -133222,5 +133222,18 @@
     "autnr": "EFUL-40227",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "ASBE-40436": {
+    "navn": "Altihus ApS",
+    "adresse1": "Tørvevej 5",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4684",
+    "postdst": "Holmegaard",
+    "cvr": "40156976",
+    "autnr": "ASBE-40436",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
