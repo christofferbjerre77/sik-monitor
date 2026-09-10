@@ -133080,6 +133080,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "VFUL-40139": {
+    "navn": "Smedeengens VVS ApS",
+    "adresse1": "Kulhusvej 186",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3630",
+    "postdst": "Jægerspris",
+    "cvr": "46058151",
+    "autnr": "VFUL-40139",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
   "VFUL-40135": {
     "navn": "NOLTE'S",
     "adresse1": "Bryggerivej 18",
@@ -133169,6 +133182,19 @@
     "cvr": "40827889",
     "autnr": "VFUL-40138",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40229": {
+    "navn": "Feldt el ApS",
+    "adresse1": "Dovregade 3, 4. th",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2300",
+    "postdst": "København S",
+    "cvr": "45970930",
+    "autnr": "EFUL-40229",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40434": {

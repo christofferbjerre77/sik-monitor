@@ -6312,3 +6312,9 @@
 2026-09-10 13:03:20,147 INFO Henter register...
 2026-09-10 13:03:22,318 INFO Fandt 10248 rækker i registret.
 2026-09-10 13:03:22,349 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-10 13:23:05,386 INFO Henter register...
+2026-09-10 13:23:06,704 INFO Fandt 10250 rækker i registret.
+2026-09-10 13:23:06,733 INFO Fandt 2 NYE autorisation(er)!
+2026-09-10 13:23:06,734 INFO 2 NYE autorisation(er) fundet:
+  - Feldt el ApS (CVR 45970930) | Elinstallatørvirksomhed | København S | autnr EFUL-40229
+  - Smedeengens VVS ApS (CVR 46058151) | Vvs-installatørvirksomhed | Jægerspris | autnr VFUL-40139
