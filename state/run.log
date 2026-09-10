@@ -6220,3 +6220,6 @@
 2026-09-10 05:22:33,296 INFO Henter register...
 2026-09-10 05:22:36,402 INFO Fandt 10248 rækker i registret.
 2026-09-10 05:22:36,429 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-10 05:35:47,388 INFO Henter register...
+2026-09-10 05:35:48,669 INFO Fandt 10248 rækker i registret.
+2026-09-10 05:35:48,693 INFO Ingen nye autorisationer siden sidste tjek.
