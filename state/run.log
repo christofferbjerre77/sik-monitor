@@ -6250,3 +6250,10 @@
 2026-09-10 08:03:09,553 INFO Henter register...
 2026-09-10 08:03:10,770 INFO Fandt 10248 rækker i registret.
 2026-09-10 08:03:10,799 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-10 08:26:05,143 INFO Henter register...
+2026-09-10 08:26:06,841 INFO Fandt 10249 rækker i registret.
+2026-09-10 08:26:06,866 INFO Fandt 2 NYE autorisation(er)!
+2026-09-10 08:26:06,866 INFO 2 NYE autorisation(er) fundet:
+  - Kron & Strøm ApS (CVR 46639995) | Elinstallatørvirksomhed | København S | autnr EFUL-40228
+  - Moths Kloak & Anlæg (CVR 46502582) | Kloakmestervirksomhed | Haarby | autnr KFUL-40184
+2026-09-10 08:26:07,430 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-40062

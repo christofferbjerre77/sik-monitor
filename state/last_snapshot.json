@@ -124383,19 +124383,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFUL-40062": {
-    "navn": "Workplus",
-    "adresse1": "Lyngby Hovedgade 10C",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2800",
-    "postdst": "Kongens Lyngby",
-    "cvr": "45468097",
-    "autnr": "EFUL-40062",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "ASBE-40139": {
     "navn": "Dahmlos ApS",
     "adresse1": "Elstarvej 14, 3. mf",
@@ -133158,6 +133145,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "EFUL-40228": {
+    "navn": "Kron & Strøm ApS",
+    "adresse1": "Njalsgade 21F, 2.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2300",
+    "postdst": "København S",
+    "cvr": "46639995",
+    "autnr": "EFUL-40228",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "VFUL-40136": {
     "navn": "Silvert VVS",
     "adresse1": "Lokesvej 1",
@@ -133221,6 +133221,19 @@
     "cvr": "40156976",
     "autnr": "ASBE-40436",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "KFUL-40184": {
+    "navn": "Moths Kloak & Anlæg",
+    "adresse1": "Strærupvej 14",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5683",
+    "postdst": "Haarby",
+    "cvr": "46502582",
+    "autnr": "KFUL-40184",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   }
 }
