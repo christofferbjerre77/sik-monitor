@@ -47631,19 +47631,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFBI-08141": {
-    "navn": "RN Installation",
-    "adresse1": "Silkeborgvej 20",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8680",
-    "postdst": "Ry",
-    "cvr": "32218687",
-    "autnr": "EFBI-08141",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "KFUL-04438": {
     "navn": "IP ANLÆG ApS",
     "adresse1": "Neptunvej 2",
@@ -64819,12 +64806,12 @@
   },
   "EFUL-13940": {
     "navn": "HARTMANN PACKAGING A/S",
-    "adresse1": "Ørnegårdsvej 18",
+    "adresse1": "Ørholmvej 57",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2820",
-    "postdst": "Gentofte",
+    "postnr": "2800",
+    "postdst": "Kongens Lyngby",
     "cvr": "63049611",
     "autnr": "EFUL-13940",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -108745,7 +108732,7 @@
     "binavn": ""
   },
   "ASBE-00114": {
-    "navn": "HVIDBERG A/S",
+    "navn": "Søndergaard Vest A/S",
     "adresse1": "Industrivej 18",
     "adresse2": "",
     "adresse3": "",
@@ -127725,13 +127712,13 @@
     "binavn": ""
   },
   "KFUL-17296": {
-    "navn": "Lorentzen Søgård Entreprenør Flemløse Maskinstation",
-    "adresse1": "Trollesøvej 15",
+    "navn": "Lorentzen Entreprenør",
+    "adresse1": "Stærmosevej 34",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "5610",
-    "postdst": "Assens",
+    "postnr": "5683",
+    "postdst": "Haarby",
     "cvr": "27185649",
     "autnr": "KFUL-17296",
     "forretningsomr": "Kloakmestervirksomhed",
@@ -127972,7 +127959,7 @@
     "binavn": ""
   },
   "VDBO-40008": {
-    "navn": "CP Klimateknik",
+    "navn": "Plet VVS & Klimateknik",
     "adresse1": "Fuglebakken 21",
     "adresse2": "",
     "adresse3": "",
