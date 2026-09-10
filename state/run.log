@@ -6290,3 +6290,7 @@
 2026-09-10 11:03:22,578 INFO Henter register...
 2026-09-10 11:03:24,469 INFO Fandt 10249 rækker i registret.
 2026-09-10 11:03:24,499 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-10 11:23:10,643 INFO Henter register...
+2026-09-10 11:23:13,588 INFO Fandt 10248 rækker i registret.
+2026-09-10 11:23:13,614 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-10 11:23:13,614 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-89833#KFUL-84984
