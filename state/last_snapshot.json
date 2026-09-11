@@ -128634,7 +128634,7 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "EFUL-40132": {
+  "KFUL-40185#EFUL-40132": {
     "navn": "Nordens Bugt",
     "adresse1": "Njalsgade 21F, 2.",
     "adresse2": "",
@@ -128643,8 +128643,8 @@
     "postnr": "2300",
     "postdst": "København S",
     "cvr": "39012243",
-    "autnr": "EFUL-40132",
-    "forretningsomr": "Elinstallatørvirksomhed",
+    "autnr": "KFUL-40185#EFUL-40132",
+    "forretningsomr": "Kloakmestervirksomhed#Elinstallatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40309": {
@@ -133221,6 +133221,45 @@
     "cvr": "46502582",
     "autnr": "KFUL-40184",
     "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40230": {
+    "navn": "el-val aps",
+    "adresse1": "Marielystvej 52, st. 23.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2000",
+    "postdst": "Frederiksberg",
+    "cvr": "45679969",
+    "autnr": "EFUL-40230",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40231": {
+    "navn": "TermEL ApS",
+    "adresse1": "Kokgårdsvej 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4671",
+    "postdst": "Strøby",
+    "cvr": "46744349",
+    "autnr": "EFUL-40231",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "EFUL-40232": {
+    "navn": "ARIS El-teknik ApS",
+    "adresse1": "Engsøvej 224, 3. 3.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8240",
+    "postdst": "Risskov",
+    "cvr": "46707311",
+    "autnr": "EFUL-40232",
+    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   }
 }
