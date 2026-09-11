@@ -6541,3 +6541,6 @@
 2026-09-11 08:03:30,044 INFO Henter register...
 2026-09-11 08:03:32,051 INFO Fandt 10248 rækker i registret.
 2026-09-11 08:03:32,084 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-11 08:25:28,085 INFO Henter register...
+2026-09-11 08:25:30,122 INFO Fandt 10248 rækker i registret.
+2026-09-11 08:25:30,147 INFO Ingen nye autorisationer siden sidste tjek.
