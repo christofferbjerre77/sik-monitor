@@ -31615,19 +31615,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-01281": {
-    "navn": "Smedeengens VVS I/S",
-    "adresse1": "Skansevej 1",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3630",
-    "postdst": "Jægerspris",
-    "cvr": "28832435",
-    "autnr": "VFUL-01281",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "EFUL-07086": {
     "navn": "TERMA A/S",
     "adresse1": "Hovmarken 4",
@@ -81015,19 +81002,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFUL-13507": {
-    "navn": "Feldt el",
-    "adresse1": "Dovregade 3, 4. th",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2300",
-    "postdst": "København S",
-    "cvr": "33431643",
-    "autnr": "EFUL-13507",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-13495": {
     "navn": "Olesens Kloak & Anlæg ApS",
     "adresse1": "Kær Bygade 8",
@@ -99398,7 +99372,7 @@
     "binavn": ""
   },
   "KFUL-16229": {
-    "navn": "RAUNSTRUP TØMRER A/S",
+    "navn": "Raunstrup Tømrer og Byggeri A/S",
     "adresse1": "Robert Fultons Vej 22",
     "adresse2": "",
     "adresse3": "",
@@ -122265,7 +122239,7 @@
     "binavn": ""
   },
   "ASBE-40061": {
-    "navn": "HAR ApS",
+    "navn": "Solid Nedbrydning ApS",
     "adresse1": "Brønderslevvej 41",
     "adresse2": "",
     "adresse3": "",
