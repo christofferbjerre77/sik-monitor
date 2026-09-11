@@ -6447,3 +6447,6 @@
 2026-09-11 00:04:44,550 INFO Henter register...
 2026-09-11 00:04:45,715 INFO Fandt 10250 rækker i registret.
 2026-09-11 00:04:45,746 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-11 00:30:21,054 INFO Henter register...
+2026-09-11 00:30:23,073 INFO Fandt 10250 rækker i registret.
+2026-09-11 00:30:23,099 INFO Ingen nye autorisationer siden sidste tjek.
