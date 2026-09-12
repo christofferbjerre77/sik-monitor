@@ -2249,7 +2249,7 @@
     "binavn": ""
   },
   "KFUL-02354": {
-    "navn": "THORSKILDE A/S",
+    "navn": "Thorskilde Kloakservice ApS",
     "adresse1": "Rønnevej 3",
     "adresse2": "",
     "adresse3": "",
@@ -95044,12 +95044,12 @@
   },
   "EFUL-89896": {
     "navn": "WIRE EL ApS",
-    "adresse1": "Ved Skoven 55",
+    "adresse1": "Gåseagervej 6, 1. 1",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "8541",
-    "postdst": "Skødstrup",
+    "postnr": "8250",
+    "postdst": "Egå",
     "cvr": "41575344",
     "autnr": "EFUL-89896",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -98021,12 +98021,12 @@
   },
   "VFUL-89900": {
     "navn": "Valentin VVS ApS",
-    "adresse1": "Pederstrupvej 50",
+    "adresse1": "Knapholm 2",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2750",
-    "postdst": "Ballerup",
+    "postnr": "2730",
+    "postdst": "Herlev",
     "cvr": "43234773",
     "autnr": "VFUL-89900",
     "forretningsomr": "Vvs-installatørvirksomhed",
@@ -99060,7 +99060,7 @@
     "binavn": ""
   },
   "VFUL-89894": {
-    "navn": "CMM Montage",
+    "navn": "CMM VVS",
     "adresse1": "Riffelhavevej 23, 2. th",
     "adresse2": "",
     "adresse3": "",
@@ -103259,7 +103259,7 @@
     "binavn": ""
   },
   "KFUL-16551": {
-    "navn": "EHS ApS",
+    "navn": "Skindtofte ApS",
     "adresse1": "Øroddevej 100A",
     "adresse2": "",
     "adresse3": "",
@@ -127063,7 +127063,7 @@
   },
   "ASBE-40244": {
     "navn": "GW Multiservice ApS",
-    "adresse1": "Stjernepladsen 41, 8. 3",
+    "adresse1": "Godsbanen 77, 1. 1",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -129130,12 +129130,12 @@
   },
   "ASBE-40326": {
     "navn": "NK Nedrivning&Byg",
-    "adresse1": "Byhøjvænget 20",
+    "adresse1": "Nyvej 4B",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "8380",
-    "postdst": "Trige",
+    "postnr": "8543",
+    "postdst": "Hornslet",
     "cvr": "44666332",
     "autnr": "ASBE-40326",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
@@ -133199,7 +133199,7 @@
   },
   "EFUL-40230": {
     "navn": "el-val aps",
-    "adresse1": "Marielystvej 52, st. 23.",
+    "adresse1": "Marielystvej 52, st. 23",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -133225,7 +133225,7 @@
   },
   "EFUL-40232": {
     "navn": "ARIS El-teknik ApS",
-    "adresse1": "Engsøvej 224, 3. 3.",
+    "adresse1": "Engsøvej 224, 3. 3",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
