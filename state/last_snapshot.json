@@ -98500,19 +98500,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-89811": {
-    "navn": "ROSE Poultry A/S",
-    "adresse1": "Tværmosevej 10",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7830",
-    "postdst": "Vinderup",
-    "cvr": "25177509",
-    "autnr": "EFUL-89811",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-16166": {
     "navn": "JL Kloakservice ApS",
     "adresse1": "Torningvej 33",
@@ -103451,19 +103438,6 @@
     "cvr": "35233792",
     "autnr": "EFUL-89726",
     "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "KFUL-89739": {
-    "navn": "Dansk Anlægsteknik ApS",
-    "adresse1": "Østre Ringvej 39",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5750",
-    "postdst": "Ringe",
-    "cvr": "42062243",
-    "autnr": "KFUL-89739",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFUL-89738": {
