@@ -133235,5 +133235,18 @@
     "autnr": "EFUL-40232",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40233": {
+    "navn": "Vi Hjælper Med Alt ApS",
+    "adresse1": "Agertoften 36",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4320",
+    "postdst": "Lejre",
+    "cvr": "41769726",
+    "autnr": "EFUL-40233",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
