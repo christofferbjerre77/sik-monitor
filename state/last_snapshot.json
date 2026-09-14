@@ -124201,7 +124201,7 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "VFUL-40119#VDBO-40005": {
+  "VFUL-40119": {
     "navn": "Vvstex ApS",
     "adresse1": "Osvej Vest 107, 3",
     "adresse2": "",
@@ -124210,8 +124210,8 @@
     "postnr": "4040",
     "postdst": "Jyllinge",
     "cvr": "45577724",
-    "autnr": "VFUL-40119#VDBO-40005",
-    "forretningsomr": "Vvs-installatørvirksomhed#Boliginstallatørvirksomhed, vand- og afløb",
+    "autnr": "VFUL-40119",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "ASBE-40148": {

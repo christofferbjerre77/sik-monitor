@@ -6669,3 +6669,9 @@
 2026-09-14 07:23:10,861 INFO Fandt 1 NYE autorisation(er)!
 2026-09-14 07:23:10,861 INFO 1 NYE autorisation(er) fundet:
   - Malmö syd vvs ab (CVR ) | Vand- og afløbsvirksomhed | Malmö | autnr VDVA-17322
+2026-09-14 13:17:35,719 INFO Henter register...
+2026-09-14 13:17:38,528 INFO Fandt 10251 rækker i registret.
+2026-09-14 13:17:38,551 INFO Fandt 1 NYE autorisation(er)!
+2026-09-14 13:17:38,552 INFO 1 NYE autorisation(er) fundet:
+  - Vvstex ApS (CVR 45577724) | Vvs-installatørvirksomhed | Jyllinge | autnr VFUL-40119
+2026-09-14 13:17:39,068 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40119#VDBO-40005
