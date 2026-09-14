@@ -6664,3 +6664,8 @@
 2026-09-14 06:34:49,798 INFO Henter register...
 2026-09-14 06:34:51,703 INFO Fandt 10250 rækker i registret.
 2026-09-14 06:34:51,726 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-14 07:23:09,472 INFO Henter register...
+2026-09-14 07:23:10,829 INFO Fandt 10251 rækker i registret.
+2026-09-14 07:23:10,861 INFO Fandt 1 NYE autorisation(er)!
+2026-09-14 07:23:10,861 INFO 1 NYE autorisation(er) fundet:
+  - Malmö syd vvs ab (CVR ) | Vand- og afløbsvirksomhed | Malmö | autnr VDVA-17322

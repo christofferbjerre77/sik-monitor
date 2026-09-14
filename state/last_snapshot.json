@@ -131637,6 +131637,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "VDVA-17322": {
+    "navn": "Malmö syd vvs ab",
+    "adresse1": "Höjdrodergatan 15",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "SE",
+    "postnr": "212 39",
+    "postdst": "Malmö",
+    "cvr": "",
+    "autnr": "VDVA-17322",
+    "forretningsomr": "Vand- og afløbsvirksomhed",
+    "binavn": ""
+  },
   "EFUL-40190": {
     "navn": "Montes Multi Service",
     "adresse1": "Ejbyvej 19",
