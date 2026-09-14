@@ -6658,3 +6658,6 @@
 2026-09-13 23:29:52,172 INFO Fandt 1 NYE autorisation(er)!
 2026-09-13 23:29:52,173 INFO 1 NYE autorisation(er) fundet:
   - Vi Hjælper Med Alt ApS (CVR 41769726) | Elinstallatørvirksomhed | Lejre | autnr EFUL-40233
+2026-09-14 01:25:31,379 INFO Henter register...
+2026-09-14 01:25:33,485 INFO Fandt 10250 rækker i registret.
+2026-09-14 01:25:33,507 INFO Ingen nye autorisationer siden sidste tjek.
