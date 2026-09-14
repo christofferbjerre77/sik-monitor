@@ -6675,3 +6675,6 @@
 2026-09-14 13:17:38,552 INFO 1 NYE autorisation(er) fundet:
   - Vvstex ApS (CVR 45577724) | Vvs-installatørvirksomhed | Jyllinge | autnr VFUL-40119
 2026-09-14 13:17:39,068 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): VFUL-40119#VDBO-40005
+2026-09-14 13:20:17,428 INFO Henter register...
+2026-09-14 13:20:19,064 INFO Fandt 10251 rækker i registret.
+2026-09-14 13:20:19,094 INFO Ingen nye autorisationer siden sidste tjek.
