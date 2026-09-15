@@ -132469,6 +132469,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "VFUL-40141": {
+    "navn": "OB VVS ApS",
+    "adresse1": "Engbovej 130",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2610",
+    "postdst": "Rødovre",
+    "cvr": "42671452",
+    "autnr": "VFUL-40141",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
   "ASBE-40419": {
     "navn": "Thors Ejendomsservice ApS",
     "adresse1": "Slimmingevej 66",
@@ -133182,6 +133195,19 @@
     "cvr": "46707311",
     "autnr": "EFUL-40232",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-40186": {
+    "navn": "Sydfalster kloakservice v/ Niels Gustav Kamper",
+    "adresse1": "Nykøbingvej 268",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "4800",
+    "postdst": "Nykøbing F",
+    "cvr": "22018302",
+    "autnr": "KFUL-40186",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFUL-40233": {
