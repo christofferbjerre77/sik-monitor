@@ -133209,5 +133209,18 @@
     "autnr": "VFUL-40140",
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40234": {
+    "navn": "Sander Drive",
+    "adresse1": "Weidekampsgade 21, 5. th.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2300",
+    "postdst": "København S",
+    "cvr": "37941344",
+    "autnr": "EFUL-40234",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
