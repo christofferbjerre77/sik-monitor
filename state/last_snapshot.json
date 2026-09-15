@@ -133261,5 +133261,18 @@
     "autnr": "EFUL-40233",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "VFUL-40140": {
+    "navn": "Gjerrild vvs",
+    "adresse1": "Kirkepolden 12",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8500",
+    "postdst": "Grenaa",
+    "cvr": "30406044",
+    "autnr": "VFUL-40140",
+    "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
   }
 }

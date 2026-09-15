@@ -6684,3 +6684,8 @@
 2026-09-14 22:11:33,959 INFO Henter register...
 2026-09-14 22:11:35,848 INFO Fandt 10251 rækker i registret.
 2026-09-14 22:11:35,866 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-15 00:36:28,721 INFO Henter register...
+2026-09-15 00:36:31,140 INFO Fandt 10252 rækker i registret.
+2026-09-15 00:36:31,171 INFO Fandt 1 NYE autorisation(er)!
+2026-09-15 00:36:31,171 INFO 1 NYE autorisation(er) fundet:
+  - Gjerrild vvs (CVR 30406044) | Vvs-installatørvirksomhed | Grenaa | autnr VFUL-40140
