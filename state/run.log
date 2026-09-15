@@ -6704,3 +6704,6 @@
 2026-09-15 15:00:51,226 INFO 2 NYE autorisation(er) fundet:
   - Sydfalster kloakservice v/ Niels Gustav Kamper (CVR 22018302) | Kloakmestervirksomhed | Nykøbing F | autnr KFUL-40186
   - OB VVS ApS (CVR 42671452) | Vvs-installatørvirksomhed | Rødovre | autnr VFUL-40141
+2026-09-15 18:57:19,204 INFO Henter register...
+2026-09-15 18:57:21,214 INFO Fandt 10250 rækker i registret.
+2026-09-15 18:57:21,242 INFO Ingen nye autorisationer siden sidste tjek.
