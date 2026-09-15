@@ -33396,19 +33396,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFBI-09449": {
-    "navn": "MR Electric",
-    "adresse1": "Huggetvej 94",
-    "adresse2": "",
-    "adresse3": "Kræmmerkrog",
-    "landkode": "DK",
-    "postnr": "5400",
-    "postdst": "Bogense",
-    "cvr": "",
-    "autnr": "EFBI-09449",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "EFBI-07537": {
     "navn": "Anders Bo Frandsen",
     "adresse1": "Ny Holstedvej",
@@ -34212,19 +34199,6 @@
     "postdst": "Esbjerg",
     "cvr": "",
     "autnr": "EFBI-09480",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
-  "EFBI-09541": {
-    "navn": "Appel",
-    "adresse1": "Søtoften 42",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8250",
-    "postdst": "Egå",
-    "cvr": "",
-    "autnr": "EFBI-09541",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
@@ -94184,19 +94158,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "EFUL-89912": {
-    "navn": "VOLA A/S",
-    "adresse1": "Lunavej 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8700",
-    "postdst": "Horsens",
-    "cvr": "17531328",
-    "autnr": "EFUL-89912",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "EFUL-89910": {
     "navn": "Egely El ApS",
     "adresse1": "Præsthøjvej 130",
@@ -102879,19 +102840,6 @@
     "cvr": "30539265",
     "autnr": "VDBO-89986",
     "forretningsomr": "Boliginstallatørvirksomhed, vand- og afløb",
-    "binavn": ""
-  },
-  "KFUL-89746": {
-    "navn": "V. Greve",
-    "adresse1": "Vegavej 13",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3100",
-    "postdst": "Hornbæk",
-    "cvr": "43745565",
-    "autnr": "KFUL-89746",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFUL-89747": {
@@ -114006,19 +113954,6 @@
     "postdst": "Brørup",
     "cvr": "28891865",
     "autnr": "ASBE-00397",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "ASBE-40165": {
-    "navn": "Callesen Byg & Anlæg ApS",
-    "adresse1": "Rosenvej 50",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4520",
-    "postdst": "Svinninge",
-    "cvr": "45329682",
-    "autnr": "ASBE-40165",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
