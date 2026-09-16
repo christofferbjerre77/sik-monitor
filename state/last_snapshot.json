@@ -84252,7 +84252,7 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-14203#ASBE-00381": {
+  "KFUL-14203": {
     "navn": "Bjerregrav Entreprenørforretning ApS",
     "adresse1": "Hestehøjvej 7",
     "adresse2": "",
@@ -84261,8 +84261,8 @@
     "postnr": "9632",
     "postdst": "Møldrup",
     "cvr": "39556707",
-    "autnr": "KFUL-14203#ASBE-00381",
-    "forretningsomr": "Kloakmestervirksomhed#Autoriseret til nedrivning af asbest",
+    "autnr": "KFUL-14203",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "EFUL-14206": {
@@ -132831,6 +132831,19 @@
     "cvr": "46692144",
     "autnr": "EFUL-40219",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "VFUL-40142": {
+    "navn": "Fyns Energi & VVS ApS",
+    "adresse1": "Rådyrløkken 127",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5210",
+    "postdst": "Odense NV",
+    "cvr": "46596579",
+    "autnr": "VFUL-40142",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "VFUL-40129": {

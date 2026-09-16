@@ -6720,3 +6720,10 @@
 2026-09-16 07:47:22,387 INFO Henter register...
 2026-09-16 07:47:24,388 INFO Fandt 10248 rækker i registret.
 2026-09-16 07:47:24,419 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-16 12:55:39,962 INFO Henter register...
+2026-09-16 12:55:41,877 INFO Fandt 10249 rækker i registret.
+2026-09-16 12:55:41,907 INFO Fandt 2 NYE autorisation(er)!
+2026-09-16 12:55:41,907 INFO 2 NYE autorisation(er) fundet:
+  - Bjerregrav Entreprenørforretning ApS (CVR 39556707) | Kloakmestervirksomhed | Møldrup | autnr KFUL-14203
+  - Fyns Energi & VVS ApS (CVR 46596579) | Vvs-installatørvirksomhed | Odense NV | autnr VFUL-40142
+2026-09-16 12:55:42,445 INFO 1 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-14203#ASBE-00381
