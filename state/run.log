@@ -6713,3 +6713,7 @@
 2026-09-15 23:48:42,102 INFO Henter register...
 2026-09-15 23:48:44,002 INFO Fandt 10250 rækker i registret.
 2026-09-15 23:48:44,033 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-16 02:16:45,254 INFO Henter register...
+2026-09-16 02:16:47,006 INFO Fandt 10248 rækker i registret.
+2026-09-16 02:16:47,037 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-16 02:16:47,037 INFO 2 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): EFUL-16501, KFUL-11935

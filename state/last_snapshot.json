@@ -75152,19 +75152,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-11935": {
-    "navn": "FTM BYG ApS",
-    "adresse1": "Haunstrupvej 6",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "6933",
-    "postdst": "Kibæk",
-    "cvr": "21797677",
-    "autnr": "KFUL-11935",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-11956": {
     "navn": "MST SERVICETEKNIK ApS",
     "adresse1": "Svalehøjvej 26",
@@ -102398,19 +102385,6 @@
     "cvr": "44126311",
     "autnr": "KFUL-16491",
     "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
-  "EFUL-16501": {
-    "navn": "Harms el service ApS",
-    "adresse1": "Elmevej 3",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3400",
-    "postdst": "Hillerød",
-    "cvr": "44017911",
-    "autnr": "EFUL-16501",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "KFUL-89761": {
@@ -133238,7 +133212,7 @@
   },
   "EFUL-40234": {
     "navn": "Sander Drive",
-    "adresse1": "Weidekampsgade 21, 5. th.",
+    "adresse1": "Weidekampsgade 21, 5. th",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
