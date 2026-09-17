@@ -6752,3 +6752,6 @@
   - Nordic Facility Solution ApS (CVR 45208494) | Elinstallatørvirksomhed | Hillerød | autnr EFUL-40235
   - TRÆ & BUSK ApS (CVR 46523555) | Kloakmestervirksomhed | Solrød Strand | autnr KFUL-40187
 2026-09-17 11:54:28,672 INFO 8 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00142, ASBE-00355, ASBE-00769, KFUL-03738, KFUL-40041, VDVA-13650#KFUL-15975, VFUL-15417, VFUL-16838
+2026-09-17 15:51:18,667 INFO Henter register...
+2026-09-17 15:51:20,613 INFO Fandt 10241 rækker i registret.
+2026-09-17 15:51:20,643 INFO Ingen nye autorisationer siden sidste tjek.
