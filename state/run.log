@@ -6755,3 +6755,6 @@
 2026-09-17 15:51:18,667 INFO Henter register...
 2026-09-17 15:51:20,613 INFO Fandt 10241 rækker i registret.
 2026-09-17 15:51:20,643 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-17 19:23:51,183 INFO Henter register...
+2026-09-17 19:23:53,079 INFO Fandt 10241 rækker i registret.
+2026-09-17 19:23:53,104 INFO Ingen nye autorisationer siden sidste tjek.
