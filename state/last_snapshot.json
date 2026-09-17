@@ -37374,19 +37374,6 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "KFUL-03738": {
-    "navn": "JWS ENTREPRENØR ApS",
-    "adresse1": "Ringstedvej 667",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4100",
-    "postdst": "Ringsted",
-    "cvr": "27971539",
-    "autnr": "KFUL-03738",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFBI-10292": {
     "navn": "Michael Gjerlevsen",
     "adresse1": "Egelundvej 25",
@@ -81184,19 +81171,6 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "VDVA-13650#KFUL-15975": {
-    "navn": "Ramos Ferreira Danmark ApS",
-    "adresse1": "Lautrupsgade 7, 3. tv",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2100",
-    "postdst": "København Ø",
-    "cvr": "38619276",
-    "autnr": "VDVA-13650#KFUL-15975",
-    "forretningsomr": "Vand- og afløbsvirksomhed#Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-13549": {
     "navn": "Morsø Kloakservice ApS",
     "adresse1": "Aabro Fald 3",
@@ -90672,19 +90646,6 @@
     "cvr": "41400404",
     "autnr": "VDVA-15415",
     "forretningsomr": "Vand- og afløbsvirksomhed",
-    "binavn": ""
-  },
-  "VFUL-15417": {
-    "navn": "Solkystens Ejendomsservice & VVS",
-    "adresse1": "Christians Torv 28, 1. th",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2680",
-    "postdst": "Solrød Strand",
-    "cvr": "38053930",
-    "autnr": "VFUL-15417",
-    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "VFUL-15418": {
@@ -108822,19 +108783,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "VFUL-16838": {
-    "navn": "SP VVS teknik ApS",
-    "adresse1": "Appenæs Bygade 50",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4700",
-    "postdst": "Næstved",
-    "cvr": "45115879",
-    "autnr": "VFUL-16838",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "ASBE-84967": {
     "navn": "Roskilde Gruppen ApS",
     "adresse1": "Baldersbuen 46",
@@ -110926,19 +110874,6 @@
     "cvr": "42051659",
     "autnr": "EFUL-16866",
     "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "ASBE-00142": {
-    "navn": "N.J ENTREPRISE ApS",
-    "adresse1": "Errindlevvej 31",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4895",
-    "postdst": "Errindlev",
-    "cvr": "45255050",
-    "autnr": "ASBE-00142",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
   "ASBE-00143": {
@@ -113278,19 +113213,6 @@
     "postdst": "Morud",
     "cvr": "21805998",
     "autnr": "ASBE-00353",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "ASBE-00355": {
-    "navn": "Selskabet af 19.08.2026 ApS",
-    "adresse1": "Bakkegården 11",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "6300",
-    "postdst": "Gråsten",
-    "cvr": "41390034",
-    "autnr": "ASBE-00355",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
@@ -119183,19 +119105,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "ASBE-00769": {
-    "navn": "HUSUM ENTREPRISE A/S",
-    "adresse1": "Slotsherrensvej 131A",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2720",
-    "postdst": "Vanløse",
-    "cvr": "27724434",
-    "autnr": "ASBE-00769",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "ASBE-00767": {
     "navn": "Entreprisefirmaet Thaysen ApS",
     "adresse1": "Vestergårdsvej 10",
@@ -122301,19 +122210,6 @@
     "cvr": "45703118",
     "autnr": "VFUL-40013#KFUL-40047",
     "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
-    "binavn": ""
-  },
-  "KFUL-40041": {
-    "navn": "MC Entreprenør ApS",
-    "adresse1": "Langeslund Mark 17",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9460",
-    "postdst": "Brovst",
-    "cvr": "41777281",
-    "autnr": "KFUL-40041",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFUL-40042": {
@@ -133194,6 +133090,45 @@
     "postdst": "København S",
     "cvr": "37941344",
     "autnr": "EFUL-40234",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-40187": {
+    "navn": "TRÆ & BUSK ApS",
+    "adresse1": "Hovbovej 7",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2680",
+    "postdst": "Solrød Strand",
+    "cvr": "46523555",
+    "autnr": "KFUL-40187",
+    "forretningsomr": "Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "ASBE-40437": {
+    "navn": "TømrerPovl",
+    "adresse1": "Allestedgårdsvej 17",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5672",
+    "postdst": "Broby",
+    "cvr": "37946877",
+    "autnr": "ASBE-40437",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "EFUL-40235": {
+    "navn": "Nordic Facility Solution ApS",
+    "adresse1": "Finn Bager Jensens Vej 8, st. tv.",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3400",
+    "postdst": "Hillerød",
+    "cvr": "45208494",
+    "autnr": "EFUL-40235",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   }

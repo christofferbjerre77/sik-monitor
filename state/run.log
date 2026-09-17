@@ -6744,3 +6744,11 @@
 2026-09-17 06:16:49,618 INFO Fandt 10246 rækker i registret.
 2026-09-17 06:16:49,648 INFO Ingen nye autorisationer siden sidste tjek.
 2026-09-17 06:16:49,648 INFO 3 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-40134, KFUL-02594, VFUL-89826
+2026-09-17 11:54:26,292 INFO Henter register...
+2026-09-17 11:54:28,159 INFO Fandt 10241 rækker i registret.
+2026-09-17 11:54:28,187 INFO Fandt 3 NYE autorisation(er)!
+2026-09-17 11:54:28,187 INFO 3 NYE autorisation(er) fundet:
+  - TømrerPovl (CVR 37946877) | Autoriseret til nedrivning af asbest | Broby | autnr ASBE-40437
+  - Nordic Facility Solution ApS (CVR 45208494) | Elinstallatørvirksomhed | Hillerød | autnr EFUL-40235
+  - TRÆ & BUSK ApS (CVR 46523555) | Kloakmestervirksomhed | Solrød Strand | autnr KFUL-40187
+2026-09-17 11:54:28,672 INFO 8 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00142, ASBE-00355, ASBE-00769, KFUL-03738, KFUL-40041, VDVA-13650#KFUL-15975, VFUL-15417, VFUL-16838
