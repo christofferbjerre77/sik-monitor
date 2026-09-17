@@ -675,19 +675,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-02594": {
-    "navn": "THORBJØRN KJÆR ENTREPRENØR- AUT KLOAKMESTER",
-    "adresse1": "Almstokvej 10",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7190",
-    "postdst": "Billund",
-    "cvr": "11129994",
-    "autnr": "KFUL-02594",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "KFUL-02596": {
     "navn": "Murerfirmaet Claus & Gerhart Jørgensen ApS",
     "adresse1": "Boesdalsvej 3",
@@ -81641,7 +81628,7 @@
   },
   "VDFG-13639": {
     "navn": "Campingkim.dk ApS",
-    "adresse1": "Livøvej 7A",
+    "adresse1": "Livøvej 7D",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -105039,19 +105026,6 @@
     "forretningsomr": "Boliginstallatørvirksomhed, vand- og afløb#Kloakmestervirksomhed",
     "binavn": ""
   },
-  "VFUL-89826": {
-    "navn": "Fyns Energi & VVS",
-    "adresse1": "Rådyrløkken 127",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5210",
-    "postdst": "Odense NV",
-    "cvr": "40926496",
-    "autnr": "VFUL-89826",
-    "forretningsomr": "Vvs-installatørvirksomhed",
-    "binavn": ""
-  },
   "VFUL-16662": {
     "navn": "Kildegaards Måleteknik ApS",
     "adresse1": "Rødeledvej 2",
@@ -107017,12 +106991,12 @@
   },
   "EFUL-16789": {
     "navn": "ROOF Top Energy A/S",
-    "adresse1": "Drejervej 24",
+    "adresse1": "Nørgårdsvej 8C",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "7490",
-    "postdst": "Aulum",
+    "postnr": "7500",
+    "postdst": "Holstebro",
     "cvr": "44818590",
     "autnr": "EFUL-16789",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -124097,19 +124071,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "ASBE-40134": {
-    "navn": "360 Entreprise ApS",
-    "adresse1": "Drosselvej 7",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4130",
-    "postdst": "Viby Sjælland",
-    "cvr": "44270889",
-    "autnr": "ASBE-40134",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "VFUL-40119": {
     "navn": "Vvstex ApS",
     "adresse1": "Osvej Vest 107, 3",
@@ -124658,12 +124619,12 @@
   },
   "ASBE-40160": {
     "navn": "Din Varmepumpeservice ApS",
-    "adresse1": "Rørsangervej 40",
+    "adresse1": "Ved Lunden 4",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "3650",
-    "postdst": "Ølstykke",
+    "postnr": "8230",
+    "postdst": "Åbyhøj",
     "cvr": "44407213",
     "autnr": "ASBE-40160",
     "forretningsomr": "Autoriseret til nedrivning af asbest",

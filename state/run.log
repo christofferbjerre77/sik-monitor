@@ -6740,3 +6740,7 @@
 2026-09-17 01:21:35,736 INFO Henter register...
 2026-09-17 01:21:37,533 INFO Fandt 10249 rækker i registret.
 2026-09-17 01:21:37,533 INFO Ingen tidligere tilstand fundet - gemmer nuværende register som baseline. Næste kørsel vil rapportere nye rækker siden nu.
+2026-09-17 06:16:48,297 INFO Henter register...
+2026-09-17 06:16:49,618 INFO Fandt 10246 rækker i registret.
+2026-09-17 06:16:49,648 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-17 06:16:49,648 INFO 3 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-40134, KFUL-02594, VFUL-89826
