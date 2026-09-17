@@ -6737,3 +6737,6 @@
 2026-09-16 23:04:15,317 INFO Fandt 0 rækker i registret.
 2026-09-16 23:04:15,348 INFO Ingen nye autorisationer siden sidste tjek.
 2026-09-16 23:04:15,350 INFO 10249 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00005, ASBE-00006, ASBE-00008, ASBE-00009, ASBE-00010, ASBE-00011, ASBE-00012, ASBE-00014, ASBE-00015, ASBE-00020
+2026-09-17 01:21:35,736 INFO Henter register...
+2026-09-17 01:21:37,533 INFO Fandt 10249 rækker i registret.
+2026-09-17 01:21:37,533 INFO Ingen tidligere tilstand fundet - gemmer nuværende register som baseline. Næste kørsel vil rapportere nye rækker siden nu.
