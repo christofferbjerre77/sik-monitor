@@ -6784,3 +6784,6 @@
 2026-09-18 13:50:25,534 INFO Fandt 1 NYE autorisation(er)!
 2026-09-18 13:50:25,534 INFO 1 NYE autorisation(er) fundet:
   - C Brejner Anlæg og Entreprise (CVR 17410881) | Kloakmestervirksomhed | Hillerød | autnr KFUL-40189
+2026-09-18 17:21:37,369 INFO Henter register...
+2026-09-18 17:21:39,843 INFO Fandt 10235 rækker i registret.
+2026-09-18 17:21:39,868 INFO Ingen nye autorisationer siden sidste tjek.
