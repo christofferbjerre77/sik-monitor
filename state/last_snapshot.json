@@ -117090,19 +117090,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
-  "ASBE-00631": {
-    "navn": "Byggruppen Totalentreprise",
-    "adresse1": "Baltorpvej 205, 2. 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2750",
-    "postdst": "Ballerup",
-    "cvr": "40542213",
-    "autnr": "ASBE-00631",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "KFUL-17036": {
     "navn": "Sigsgaard Kloak ApS",
     "adresse1": "Nibevej 142",
@@ -121338,19 +121325,6 @@
     "postdst": "Jaworzno",
     "cvr": "",
     "autnr": "EFUL-17216",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "EFUL-40017": {
-    "navn": "Procomm Solutions A/S",
-    "adresse1": "Smedeland 15",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2600",
-    "postdst": "Glostrup",
-    "cvr": "30587871",
-    "autnr": "EFUL-40017",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
@@ -127477,19 +127451,6 @@
     "forretningsomr": "Flaskegasinstallatørvirksomhed, mobile enheder",
     "binavn": "Gaskontrol Danmark ApS"
   },
-  "ASBE-40296": {
-    "navn": "DEDAL DK BYG",
-    "adresse1": "Agertoften 47",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7800",
-    "postdst": "Skive",
-    "cvr": "44384922",
-    "autnr": "ASBE-40296",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "KFUL-40100#ASBE-40275": {
     "navn": "HÅNDVÆRKERNE AF 18.APRIL 2011 A/S",
     "adresse1": "Mommarkvej 358",
@@ -132755,6 +132716,19 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
+  "VFUL-40143#KFUL-40188": {
+    "navn": "Service Gruppen Danmark 365 ApS",
+    "adresse1": "Industriholmen 82",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2650",
+    "postdst": "Hvidovre",
+    "cvr": "46614429",
+    "autnr": "VFUL-40143#KFUL-40188",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
+    "binavn": ""
+  },
   "VFUL-40135": {
     "navn": "NOLTE'S",
     "adresse1": "Bryggerivej 18",
@@ -133002,6 +132976,19 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
+  "ASBE-40438": {
+    "navn": "TØMRERMESTER HANS KIRK. RANDERS A/S",
+    "adresse1": "Bøsbrovej 102",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8940",
+    "postdst": "Randers SV",
+    "cvr": "17260375",
+    "autnr": "ASBE-40438",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
   "KFUL-40187": {
     "navn": "TRÆ & BUSK ApS",
     "adresse1": "Hovbovej 7",
@@ -133039,6 +133026,19 @@
     "cvr": "45208494",
     "autnr": "EFUL-40235",
     "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
+  "VFUL-40144": {
+    "navn": "DANVVS",
+    "adresse1": "Selma Lagerløfs Alle 52",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2860",
+    "postdst": "Søborg",
+    "cvr": "45002128",
+    "autnr": "VFUL-40144",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   }
 }

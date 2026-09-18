@@ -6771,3 +6771,11 @@
 2026-09-18 07:16:52,882 INFO Henter register...
 2026-09-18 07:16:54,044 INFO Fandt 10234 rækker i registret.
 2026-09-18 07:16:54,074 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-18 09:42:23,889 INFO Henter register...
+2026-09-18 09:42:26,923 INFO Fandt 10234 rækker i registret.
+2026-09-18 09:42:26,955 INFO Fandt 3 NYE autorisation(er)!
+2026-09-18 09:42:26,955 INFO 3 NYE autorisation(er) fundet:
+  - TØMRERMESTER HANS KIRK. RANDERS A/S (CVR 17260375) | Autoriseret til nedrivning af asbest | Randers SV | autnr ASBE-40438
+  - Service Gruppen Danmark 365 ApS (CVR 46614429) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Hvidovre | autnr VFUL-40143#KFUL-40188
+  - DANVVS (CVR 45002128) | Vvs-installatørvirksomhed | Søborg | autnr VFUL-40144
+2026-09-18 09:42:27,611 INFO 3 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00631, ASBE-40296, EFUL-40017
