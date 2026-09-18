@@ -18576,19 +18576,6 @@
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
-  "EFUL-08796": {
-    "navn": "Viking International / Viking El v/Carsten Norre Pedersen",
-    "adresse1": "Gl Randersvej 5",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8660",
-    "postdst": "Skanderborg",
-    "cvr": "15453133",
-    "autnr": "EFUL-08796",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "EFBI-06077": {
     "navn": "Morten H. Jensen",
     "adresse1": "Østergade 23",
@@ -19210,19 +19197,6 @@
     "postdst": "Herning",
     "cvr": "16647586",
     "autnr": "EFUL-07196",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "EFUL-09607": {
-    "navn": "MEGA-THERM Handel ApS",
-    "adresse1": "Industrisvinget 3",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4683",
-    "postdst": "Rønnede",
-    "cvr": "80991312",
-    "autnr": "EFUL-09607",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
@@ -27062,19 +27036,6 @@
     "postdst": "Sønderborg",
     "cvr": "10154588",
     "autnr": "EFUL-06613",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "EFUL-07166": {
-    "navn": "Ejendomsudlejer v/Preben Thomsen",
-    "adresse1": "Ådalen 61",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9700",
-    "postdst": "Brønderslev",
-    "cvr": "45820017",
-    "autnr": "EFUL-07166",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
@@ -41859,19 +41820,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
-  "KFUL-04106": {
-    "navn": "LANDMAND JOHN LYNDERUP GAMSKJÆR",
-    "adresse1": "Strandetvej 35",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "7840",
-    "postdst": "Højslev",
-    "cvr": "82501355",
-    "autnr": "KFUL-04106",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFUL-07607": {
     "navn": "ELPUNKT FYN A/S",
     "adresse1": "Møllevangen 5",
@@ -42416,19 +42364,6 @@
     "cvr": "30909798",
     "autnr": "EFUL-09470",
     "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
-  "KFUL-04043": {
-    "navn": "TØMRERMESTER BJARNE CHRISTENSEN",
-    "adresse1": "Søndre Strandvej 74C",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3000",
-    "postdst": "Helsingør",
-    "cvr": "80993013",
-    "autnr": "KFUL-04043",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFUL-04044": {
@@ -56640,19 +56575,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "EFUL-06971": {
-    "navn": "L.G.C. ELECTRIC ApS",
-    "adresse1": "Askevej 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8653",
-    "postdst": "Them",
-    "cvr": "20156783",
-    "autnr": "EFUL-06971",
-    "forretningsomr": "Elinstallatørvirksomhed",
-    "binavn": ""
-  },
   "KFUL-02412": {
     "navn": "MLP Byg Morten Lang Pedersen",
     "adresse1": "Kjærgårdsvej 10",
@@ -60282,7 +60204,7 @@
   },
   "KFUL-04843": {
     "navn": "R & A ENTREPRISE A/S",
-    "adresse1": "Nebsmøllevej 70",
+    "adresse1": "Bakkegårdsvej 85",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -77611,12 +77533,12 @@
   },
   "EFUL-12644": {
     "navn": "FRIEBA-El A/S",
-    "adresse1": "J M Terkelsens Vej 28, st.",
+    "adresse1": "H E Bluhmes Vej 6",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "6731",
-    "postdst": "Tjæreborg",
+    "postnr": "6700",
+    "postdst": "Esbjerg",
     "cvr": "38118889",
     "autnr": "EFUL-12644",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -108473,12 +108395,12 @@
   },
   "ASBE-00519": {
     "navn": "Selskabet af 24. august 2026 ApS",
-    "adresse1": "Købmagergade 9",
+    "adresse1": "Store Havelsevej 124",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "3730",
-    "postdst": "Nexø",
+    "postnr": "3310",
+    "postdst": "Ølsted",
     "cvr": "35808604",
     "autnr": "ASBE-00519",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
@@ -124318,19 +124240,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-40067": {
-    "navn": "TRÆ & BUSK",
-    "adresse1": "Hovbovej 7",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2680",
-    "postdst": "Solrød Strand",
-    "cvr": "18788039",
-    "autnr": "KFUL-40067",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "EFUL-17256": {
     "navn": "PLOU - Teknik & Drift",
     "adresse1": "Vesterheden 11",
@@ -133121,7 +133030,7 @@
   },
   "EFUL-40235": {
     "navn": "Nordic Facility Solution ApS",
-    "adresse1": "Finn Bager Jensens Vej 8, st. tv.",
+    "adresse1": "Finn Bager Jensens Vej 8, st. tv",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
