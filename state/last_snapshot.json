@@ -454,19 +454,6 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
-  "EFBI-10917": {
-    "navn": "FWB-EL",
-    "adresse1": "Rughaven 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "3210",
-    "postdst": "Vejby",
-    "cvr": "",
-    "autnr": "EFBI-10917",
-    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
   "VFUL-00272": {
     "navn": "CARSTEN ANDERSEN VVS",
     "adresse1": "Klintebjergvej 6",
@@ -15262,14 +15249,14 @@
     "binavn": ""
   },
   "EFBI-09130": {
-    "navn": "Hans Aage Pedersen",
+    "navn": "Landbrug v/Hans Aage Pedersen",
     "adresse1": "Kystvej 136",
-    "adresse2": "",
-    "adresse3": "Dokkedal",
+    "adresse2": "Dokkedal",
+    "adresse3": "",
     "landkode": "DK",
     "postnr": "9280",
     "postdst": "Storvorde",
-    "cvr": "",
+    "cvr": "11185835",
     "autnr": "EFBI-09130",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
@@ -66221,17 +66208,17 @@
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
-  "KFBI-10891": {
-    "navn": "TK-kloak",
-    "adresse1": "Lyngtoften 71",
+  "EFBI-10917": {
+    "navn": "FWB-EL",
+    "adresse1": "Rughaven 2",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "7800",
-    "postdst": "Skive",
+    "postnr": "3210",
+    "postdst": "Vejby",
     "cvr": "",
-    "autnr": "KFBI-10891",
-    "forretningsomr": "Kloakmestervirksomhed (bibesk.)",
+    "autnr": "EFBI-10917",
+    "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
     "binavn": ""
   },
   "EFBI-10284": {
@@ -69238,7 +69225,7 @@
     "binavn": ""
   },
   "EFBI-06365": {
-    "navn": "Allans El (PA er Allan Ulsø Madsen, Bramming)",
+    "navn": "Allans El",
     "adresse1": "Plantagevej 51",
     "adresse2": "",
     "adresse3": "",
@@ -71236,6 +71223,19 @@
     "postdst": "Haderslev",
     "cvr": "",
     "autnr": "KFBI-10890",
+    "forretningsomr": "Kloakmestervirksomhed (bibesk.)",
+    "binavn": ""
+  },
+  "KFBI-10891": {
+    "navn": "TK-kloak",
+    "adresse1": "Lyngtoften 71",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "7800",
+    "postdst": "Skive",
+    "cvr": "",
+    "autnr": "KFBI-10891",
     "forretningsomr": "Kloakmestervirksomhed (bibesk.)",
     "binavn": ""
   },
@@ -133039,6 +133039,19 @@
     "cvr": "45002128",
     "autnr": "VFUL-40144",
     "forretningsomr": "Vvs-installatørvirksomhed",
+    "binavn": ""
+  },
+  "KFUL-40189": {
+    "navn": "C Brejner Anlæg og Entreprise",
+    "adresse1": "Damvejen 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3400",
+    "postdst": "Hillerød",
+    "cvr": "17410881",
+    "autnr": "KFUL-40189",
+    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   }
 }

@@ -6779,3 +6779,8 @@
   - Service Gruppen Danmark 365 ApS (CVR 46614429) | Vvs-installatørvirksomhed#Kloakmestervirksomhed | Hvidovre | autnr VFUL-40143#KFUL-40188
   - DANVVS (CVR 45002128) | Vvs-installatørvirksomhed | Søborg | autnr VFUL-40144
 2026-09-18 09:42:27,611 INFO 3 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): ASBE-00631, ASBE-40296, EFUL-40017
+2026-09-18 13:50:23,485 INFO Henter register...
+2026-09-18 13:50:25,502 INFO Fandt 10235 rækker i registret.
+2026-09-18 13:50:25,534 INFO Fandt 1 NYE autorisation(er)!
+2026-09-18 13:50:25,534 INFO 1 NYE autorisation(er) fundet:
+  - C Brejner Anlæg og Entreprise (CVR 17410881) | Kloakmestervirksomhed | Hillerød | autnr KFUL-40189
