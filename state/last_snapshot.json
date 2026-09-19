@@ -133027,5 +133027,18 @@
     "autnr": "KFUL-40189",
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
+  },
+  "ASBE-40439": {
+    "navn": "Tømrermester Steffen Gorm Jensen",
+    "adresse1": "Søndre Bæk 10",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3790",
+    "postdst": "Hasle",
+    "cvr": "36741015",
+    "autnr": "ASBE-40439",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
   }
 }
