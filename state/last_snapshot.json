@@ -246,19 +246,6 @@
     "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
-  "KFUL-02536": {
-    "navn": "ENTREPRENØR LEIF ORLA CHRISTIANSEN",
-    "adresse1": "Tågerupvej 25",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "4653",
-    "postdst": "Karise",
-    "cvr": "95587852",
-    "autnr": "KFUL-02536",
-    "forretningsomr": "Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "VFUL-00248": {
     "navn": "VEJGÅRD VVS TEKNIK ApS",
     "adresse1": "Hadsundvej 45, 1.",
@@ -32588,19 +32575,6 @@
     "cvr": "",
     "autnr": "EFBI-07508",
     "forretningsomr": "Elinstallatørvirksomhed (bibesk.)",
-    "binavn": ""
-  },
-  "KFUL-03348": {
-    "navn": "ENTREPRENØR OG KLOAKMESTER IB CARSTEN SØRENSEN",
-    "adresse1": "Edelstrupvej 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "8444",
-    "postdst": "Balle",
-    "cvr": "70257815",
-    "autnr": "KFUL-03348",
-    "forretningsomr": "Kloakmestervirksomhed",
     "binavn": ""
   },
   "KFUL-02520": {
@@ -81470,7 +81444,7 @@
     "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
-  "VFUL-13626#EFUL-14931": {
+  "VFUL-13626": {
     "navn": "RELA TECH ApS",
     "adresse1": "Toftegårdsvej 2",
     "adresse2": "",
@@ -81479,8 +81453,8 @@
     "postnr": "6070",
     "postdst": "Christiansfeld",
     "cvr": "39023679",
-    "autnr": "VFUL-13626#EFUL-14931",
-    "forretningsomr": "Vvs-installatørvirksomhed#Elinstallatørvirksomhed",
+    "autnr": "VFUL-13626",
+    "forretningsomr": "Vvs-installatørvirksomhed",
     "binavn": ""
   },
   "EFUL-13615": {
@@ -91612,7 +91586,7 @@
   },
   "EFUL-89981": {
     "navn": "Holme El-Service ApS",
-    "adresse1": "Niels Foghs Vej 4",
+    "adresse1": "Ryslingevej 16",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -94211,7 +94185,7 @@
     "binavn": ""
   },
   "EFUL-15811": {
-    "navn": "Logos Payment Solutions A/S",
+    "navn": "Logos Payments A/S",
     "adresse1": "Nærum Hovedgade 6",
     "adresse2": "",
     "adresse3": "",
@@ -110122,6 +110096,19 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
+  "EFUL-16870": {
+    "navn": "Aalborg CTS ApS",
+    "adresse1": "Læhegnet 41",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "9380",
+    "postdst": "Vestbjerg",
+    "cvr": "45015599",
+    "autnr": "EFUL-16870",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
+  },
   "VFUL-84971": {
     "navn": "Uglegårdens Entreprise",
     "adresse1": "Vængegårdsvej 44",
@@ -111238,19 +111225,6 @@
     "cvr": "31947855",
     "autnr": "ASBE-00248",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
-  "EFUL-16870": {
-    "navn": "Aalborg CTS ApS",
-    "adresse1": "Læhegnet 41",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "9380",
-    "postdst": "Vestbjerg",
-    "cvr": "45015599",
-    "autnr": "EFUL-16870",
-    "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
   },
   "VFUL-16872": {
@@ -116245,19 +116219,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "VFUL-17049#KFUL-17169": {
-    "navn": "Kastrup VVS ApS",
-    "adresse1": "Arkturus Alle 2",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "2770",
-    "postdst": "Kastrup",
-    "cvr": "45522954",
-    "autnr": "VFUL-17049#KFUL-17169",
-    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
-    "binavn": ""
-  },
   "ASBE-00579": {
     "navn": "Hviids tømrer og snedker entreprise ApS",
     "adresse1": "Havremarken 7",
@@ -116830,19 +116791,6 @@
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
-  "ASBE-00686": {
-    "navn": "R&E BYG ApS",
-    "adresse1": "Verningevej 9",
-    "adresse2": "",
-    "adresse3": "",
-    "landkode": "DK",
-    "postnr": "5672",
-    "postdst": "Broby",
-    "cvr": "40803009",
-    "autnr": "ASBE-00686",
-    "forretningsomr": "Autoriseret til nedrivning af asbest",
-    "binavn": ""
-  },
   "ASBE-00636": {
     "navn": "Brønderslev Byg & Bolig v/Søren Lauritsen",
     "adresse1": "Hvilshøj Mark 48",
@@ -117399,6 +117347,32 @@
     "postdst": "Hinnerup",
     "cvr": "42692840",
     "autnr": "ASBE-00653",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "VFUL-17049#KFUL-17169": {
+    "navn": "Kastrup VVS ApS",
+    "adresse1": "Arkturus Alle 2",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "2770",
+    "postdst": "Kastrup",
+    "cvr": "45522954",
+    "autnr": "VFUL-17049#KFUL-17169",
+    "forretningsomr": "Vvs-installatørvirksomhed#Kloakmestervirksomhed",
+    "binavn": ""
+  },
+  "ASBE-00686": {
+    "navn": "R&E BYG ApS",
+    "adresse1": "Verningevej 9",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "5672",
+    "postdst": "Broby",
+    "cvr": "40803009",
+    "autnr": "ASBE-00686",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
   },
@@ -131664,7 +131638,7 @@
     "binavn": ""
   },
   "VFUL-40118": {
-    "navn": "Holm Klimateknik",
+    "navn": "Roskilde VVS & Ventilation",
     "adresse1": "Hovedgaden 2C",
     "adresse2": "",
     "adresse3": "",

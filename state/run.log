@@ -6796,3 +6796,9 @@
 2026-09-19 00:17:10,266 INFO Henter register...
 2026-09-19 00:17:12,306 INFO Fandt 10235 rækker i registret.
 2026-09-19 00:17:12,338 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-19 04:48:07,142 INFO Henter register...
+2026-09-19 04:48:08,292 INFO Fandt 10233 rækker i registret.
+2026-09-19 04:48:08,323 INFO Fandt 1 NYE autorisation(er)!
+2026-09-19 04:48:08,324 INFO 1 NYE autorisation(er) fundet:
+  - RELA TECH ApS (CVR 39023679) | Vvs-installatørvirksomhed | Christiansfeld | autnr VFUL-13626
+2026-09-19 04:48:08,854 INFO 3 autorisation(er) er ikke længere i registret (kan være bortfaldet/slettet): KFUL-02536, KFUL-03348, VFUL-13626#EFUL-14931
