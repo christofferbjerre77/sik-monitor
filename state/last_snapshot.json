@@ -133053,5 +133053,31 @@
     "autnr": "ASBE-40440",
     "forretningsomr": "Autoriseret til nedrivning af asbest",
     "binavn": ""
+  },
+  "ASBE-40441": {
+    "navn": "Brdr. Rask ApS",
+    "adresse1": "Dalbyovervej 7",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8983",
+    "postdst": "Gjerlev J",
+    "cvr": "42186287",
+    "autnr": "ASBE-40441",
+    "forretningsomr": "Autoriseret til nedrivning af asbest",
+    "binavn": ""
+  },
+  "EFUL-40236": {
+    "navn": "Wila-Tech ApS",
+    "adresse1": "Kaj Sommers Vej 80",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "3320",
+    "postdst": "Skævinge",
+    "cvr": "46731204",
+    "autnr": "EFUL-40236",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }
