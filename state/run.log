@@ -6832,3 +6832,8 @@
 2026-09-20 08:28:07,814 INFO 1 NYE autorisation(er) fundet:
   - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
 2026-09-20 08:28:08,198 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
+2026-09-20 09:46:45,019 INFO Henter register...
+2026-09-20 09:46:46,815 INFO Fandt 10235 rækker i registret.
+2026-09-20 09:46:46,846 INFO Fandt 1 NYE autorisation(er)!
+2026-09-20 09:46:46,846 INFO 1 NYE autorisation(er) fundet:
+  - PER PEDERSEN (CVR 13439206) | Autoriseret til nedrivning af asbest | Aabybro | autnr ASBE-40440
