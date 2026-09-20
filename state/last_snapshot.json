@@ -41003,7 +41003,7 @@
   },
   "EFUL-07898": {
     "navn": "MIDTTHY EL ApS",
-    "adresse1": "Ved Parken 21",
+    "adresse1": "Toften 2",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -50259,7 +50259,7 @@
   },
   "KFBI-04645": {
     "navn": "Kloakmestre MKMH v/Michael Hansen",
-    "adresse1": "Skyttegårdvej 30, 2. tv",
+    "adresse1": "Kortstilkvej 2, 1. tv",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
@@ -95251,7 +95251,7 @@
     "binavn": ""
   },
   "VFUL-17114#EFUL-89885": {
-    "navn": "Sydfyns el, køl & teknik",
+    "navn": "Viese EL & VVS",
     "adresse1": "Hundstrupvej 72",
     "adresse2": "",
     "adresse3": "",
@@ -96487,12 +96487,12 @@
   },
   "EFUL-89853": {
     "navn": "Murermester K ApS",
-    "adresse1": "Priorparken 685",
+    "adresse1": "Hammerholmen 24",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2605",
-    "postdst": "Brøndby",
+    "postnr": "2650",
+    "postdst": "Hvidovre",
     "cvr": "38254367",
     "autnr": "EFUL-89853",
     "forretningsomr": "Elinstallatørvirksomhed",
@@ -119991,12 +119991,12 @@
   },
   "VFUL-17183": {
     "navn": "HUSUM VVS ApS",
-    "adresse1": "Solgavl 7, 2. th",
+    "adresse1": "Njalsgade 21F, 2.",
     "adresse2": "",
     "adresse3": "",
     "landkode": "DK",
-    "postnr": "2700",
-    "postdst": "Brønshøj",
+    "postnr": "2300",
+    "postdst": "København S",
     "cvr": "44272237",
     "autnr": "VFUL-17183",
     "forretningsomr": "Vvs-installatørvirksomhed",
