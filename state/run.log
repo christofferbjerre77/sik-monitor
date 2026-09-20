@@ -6843,3 +6843,6 @@
 2026-09-20 13:48:06,099 INFO 2 NYE autorisation(er) fundet:
   - Brdr. Rask ApS (CVR 42186287) | Autoriseret til nedrivning af asbest | Gjerlev J | autnr ASBE-40441
   - Wila-Tech ApS (CVR 46731204) | Elinstallatørvirksomhed | Skævinge | autnr EFUL-40236
+2026-09-20 17:06:36,646 INFO Henter register...
+2026-09-20 17:06:38,590 INFO Fandt 10237 rækker i registret.
+2026-09-20 17:06:38,613 INFO Ingen nye autorisationer siden sidste tjek.
