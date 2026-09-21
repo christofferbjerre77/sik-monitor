@@ -6863,3 +6863,7 @@
 2026-09-21 07:08:45,801 INFO Fandt 1 NYE autorisation(er)!
 2026-09-21 07:08:45,801 INFO 1 NYE autorisation(er) fundet:
   - HOVEDGÅRD EL ApS (CVR 46720113) | Elinstallatørvirksomhed | Hovedgård | autnr EFUL-40237
+2026-09-21 08:46:42,436 INFO Sender test-notifikation for at bekræfte webhook-forbindelsen...
+2026-09-21 08:46:42,436 INFO 1 NYE autorisation(er) fundet:
+  - TEST Virksomhed ApS (dette er IKKE en rigtig ny autorisation) (CVR 00000000) | Testbesked | Testby | autnr TEST-00000
+2026-09-21 08:46:42,861 INFO Testbesked forsøgt sendt. Tjek din Discord-kanal nu - kommer den ikke frem inden for få sekunder, er der noget galt med webhook-URL'en eller Discord-opsætningen.
