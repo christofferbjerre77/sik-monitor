@@ -133079,5 +133079,18 @@
     "autnr": "EFUL-40236",
     "forretningsomr": "Elinstallatørvirksomhed",
     "binavn": ""
+  },
+  "EFUL-40237": {
+    "navn": "HOVEDGÅRD EL ApS",
+    "adresse1": "Krøruplundvej 9",
+    "adresse2": "",
+    "adresse3": "",
+    "landkode": "DK",
+    "postnr": "8732",
+    "postdst": "Hovedgård",
+    "cvr": "46720113",
+    "autnr": "EFUL-40237",
+    "forretningsomr": "Elinstallatørvirksomhed",
+    "binavn": ""
   }
 }

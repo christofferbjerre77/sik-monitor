@@ -6858,3 +6858,8 @@
 2026-09-21 01:39:31,481 INFO Henter register...
 2026-09-21 01:39:32,765 INFO Fandt 10237 rækker i registret.
 2026-09-21 01:39:32,795 INFO Ingen nye autorisationer siden sidste tjek.
+2026-09-21 07:08:43,873 INFO Henter register...
+2026-09-21 07:08:45,772 INFO Fandt 10238 rækker i registret.
+2026-09-21 07:08:45,801 INFO Fandt 1 NYE autorisation(er)!
+2026-09-21 07:08:45,801 INFO 1 NYE autorisation(er) fundet:
+  - HOVEDGÅRD EL ApS (CVR 46720113) | Elinstallatørvirksomhed | Hovedgård | autnr EFUL-40237
